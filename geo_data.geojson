@@ -27,8 +27,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "Don Cherry just said Winnipeg will win the #StanleyCup", 
-                "created_at": "Tue Apr 24 00:01:20 +0000 2018"
+                "Tweet": "Don Cherry just said Winnipeg will win the #StanleyCup", 
+                "Place": "Winnipeg", 
+                "Time": "Tue Apr 24 00:01:20 +0000 2018"
             }
         }, 
         {
@@ -57,8 +58,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "And Orlov gets it going!!!! #ALLCAPS #CapsJackets #StanleyCup #StanelyCupPlayoffs2018", 
-                "created_at": "Tue Apr 24 00:01:41 +0000 2018"
+                "Tweet": "And Orlov gets it going!!!! #ALLCAPS #CapsJackets #StanleyCup #StanelyCupPlayoffs2018", 
+                "Place": "Tampa", 
+                "Time": "Tue Apr 24 00:01:41 +0000 2018"
             }
         }, 
         {
@@ -87,8 +89,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "DMITRI F***IN\u2019 ORLOV!!!! #ALLCAPS #Capitals #StanleyCup", 
-                "created_at": "Tue Apr 24 00:01:46 +0000 2018"
+                "Tweet": "DMITRI F***IN\u2019 ORLOV!!!! #ALLCAPS #Capitals #StanleyCup", 
+                "Place": "Norfolk", 
+                "Time": "Tue Apr 24 00:01:46 +0000 2018"
             }
         }, 
         {
@@ -117,8 +120,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "What. A. Stallion. All-world chirping involves simple statements followed by thundering results. @jakenbake20 has a\u2026 https://t.co/Oe9iUOEIQl", 
-                "created_at": "Tue Apr 24 00:02:02 +0000 2018"
+                "Tweet": "What. A. Stallion. All-world chirping involves simple statements followed by thundering results. @jakenbake20 has a\u2026 https://t.co/Oe9iUOEIQl", 
+                "Place": "Chicago", 
+                "Time": "Tue Apr 24 00:02:02 +0000 2018"
             }
         }, 
         {
@@ -147,8 +151,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "Score!!!! Dima!!! @orlov_09 #allcaps #cbjvswsh #capsjackets #stanleycupplayoffs #becauseitsthecup #stanleycup #gocaps", 
-                "created_at": "Tue Apr 24 00:02:06 +0000 2018"
+                "Tweet": "Score!!!! Dima!!! @orlov_09 #allcaps #cbjvswsh #capsjackets #stanleycupplayoffs #becauseitsthecup #stanleycup #gocaps", 
+                "Place": "Virginia", 
+                "Time": "Tue Apr 24 00:02:06 +0000 2018"
             }
         }, 
         {
@@ -177,8 +182,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "#ALLCAPS\u00a0. #CapsJackets. #StanleyCup\u00a0. #RockTheRed. #CapitalsTalk. @Capitals. @NBCSCapitals. https://t.co/Fy06mzSysm", 
-                "created_at": "Tue Apr 24 00:03:10 +0000 2018"
+                "Tweet": "#ALLCAPS\u00a0. #CapsJackets. #StanleyCup\u00a0. #RockTheRed. #CapitalsTalk. @Capitals. @NBCSCapitals. https://t.co/Fy06mzSysm", 
+                "Place": "Peterborough", 
+                "Time": "Tue Apr 24 00:03:10 +0000 2018"
             }
         }, 
         {
@@ -207,8 +213,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "@nicoleburns77 @HennyTweets @MapleLeafs hahahaha \ud83d\ude02 it must be sooooooooooo much fun to work with this beauty and\u2026 https://t.co/xB6tDfNJu1", 
-                "created_at": "Tue Apr 24 00:03:13 +0000 2018"
+                "Tweet": "@nicoleburns77 @HennyTweets @MapleLeafs hahahaha \ud83d\ude02 it must be sooooooooooo much fun to work with this beauty and\u2026 https://t.co/xB6tDfNJu1", 
+                "Place": "Brantford", 
+                "Time": "Tue Apr 24 00:03:13 +0000 2018"
             }
         }, 
         {
@@ -237,8 +244,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "Am I the only one that gets TRIGGERED every time they hear the words \"stretch pass\" or see a stretch pass?\u2026 https://t.co/S6lOZchFaL", 
-                "created_at": "Tue Apr 24 00:03:37 +0000 2018"
+                "Tweet": "Am I the only one that gets TRIGGERED every time they hear the words \"stretch pass\" or see a stretch pass?\u2026 https://t.co/S6lOZchFaL", 
+                "Place": "Boston", 
+                "Time": "Tue Apr 24 00:03:37 +0000 2018"
             }
         }, 
         {
@@ -267,8 +275,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "After 1 period at Air Canada Centre: @NHLBruins 0, @MapleLeafs 0. Boston outshot Toronto 17-10 &amp; killed off the Lea\u2026 https://t.co/CoQo4xFJnh", 
-                "created_at": "Tue Apr 24 00:04:10 +0000 2018"
+                "Tweet": "After 1 period at Air Canada Centre: @NHLBruins 0, @MapleLeafs 0. Boston outshot Toronto 17-10 &amp; killed off the Lea\u2026 https://t.co/CoQo4xFJnh", 
+                "Place": "Wakefield", 
+                "Time": "Tue Apr 24 00:04:10 +0000 2018"
             }
         }, 
         {
@@ -297,8 +306,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "Except he looked unsure of himself that entire period https://t.co/KeckyNqKPw", 
-                "created_at": "Tue Apr 24 00:04:59 +0000 2018"
+                "Tweet": "Except he looked unsure of himself that entire period https://t.co/KeckyNqKPw", 
+                "Place": "Boston", 
+                "Time": "Tue Apr 24 00:04:59 +0000 2018"
             }
         }, 
         {
@@ -327,8 +337,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "CLAPBOMB, just WOW https://t.co/0TqCfP4gIA", 
-                "created_at": "Tue Apr 24 00:05:29 +0000 2018"
+                "Tweet": "CLAPBOMB, just WOW https://t.co/0TqCfP4gIA", 
+                "Place": "Boston", 
+                "Time": "Tue Apr 24 00:05:29 +0000 2018"
             }
         }, 
         {
@@ -357,8 +368,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "Caps pace. \n\n#ALLCAPS\u00a0. #CapsJackets. #StanleyCup\u00a0. #RockTheRed. #CapitalsTalk. @Capitals. @NBCSCapitals. https://t.co/4mr9yAYKr3", 
-                "created_at": "Tue Apr 24 00:05:31 +0000 2018"
+                "Tweet": "Caps pace. \n\n#ALLCAPS\u00a0. #CapsJackets. #StanleyCup\u00a0. #RockTheRed. #CapitalsTalk. @Capitals. @NBCSCapitals. https://t.co/4mr9yAYKr3", 
+                "Place": "Peterborough", 
+                "Time": "Tue Apr 24 00:05:31 +0000 2018"
             }
         }, 
         {
@@ -387,8 +399,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "Is there an award for being robbed? Because Anderson deserves the Vezina https://t.co/RTTNjFoL9k", 
-                "created_at": "Tue Apr 24 00:06:20 +0000 2018"
+                "Tweet": "Is there an award for being robbed? Because Anderson deserves the Vezina https://t.co/RTTNjFoL9k", 
+                "Place": "Toronto", 
+                "Time": "Tue Apr 24 00:06:20 +0000 2018"
             }
         }, 
         {
@@ -417,8 +430,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "2ND PERIOD BOYS HERE WE GO KEEP IT UP! PEDAL TO THE METAL!\n\nDO. NOT. LET. UP.\n\nRUN EM OUTTA THERE OWN BUILDING\u2026 https://t.co/K3LnkltY38", 
-                "created_at": "Tue Apr 24 00:07:43 +0000 2018"
+                "Tweet": "2ND PERIOD BOYS HERE WE GO KEEP IT UP! PEDAL TO THE METAL!\n\nDO. NOT. LET. UP.\n\nRUN EM OUTTA THERE OWN BUILDING\u2026 https://t.co/K3LnkltY38", 
+                "Place": "Boston", 
+                "Time": "Tue Apr 24 00:07:43 +0000 2018"
             }
         }, 
         {
@@ -447,8 +461,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "@MapleLeafs we\u2019re back for the 2nd and I hope Babcock lit a fire under our a**es cause we must,an I mean MUST Be MU\u2026 https://t.co/K8tWZrdjNo", 
-                "created_at": "Tue Apr 24 00:08:29 +0000 2018"
+                "Tweet": "@MapleLeafs we\u2019re back for the 2nd and I hope Babcock lit a fire under our a**es cause we must,an I mean MUST Be MU\u2026 https://t.co/K8tWZrdjNo", 
+                "Place": "Brantford", 
+                "Time": "Tue Apr 24 00:08:29 +0000 2018"
             }
         }, 
         {
@@ -477,8 +492,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "If Predators would allow Jets fans to buy tickets for games in Nashville  they wouldn't need to print so many \"Simp\u2026 https://t.co/niKOdEjvhG", 
-                "created_at": "Tue Apr 24 00:09:30 +0000 2018"
+                "Tweet": "If Predators would allow Jets fans to buy tickets for games in Nashville  they wouldn't need to print so many \"Simp\u2026 https://t.co/niKOdEjvhG", 
+                "Place": "Tornio", 
+                "Time": "Tue Apr 24 00:09:30 +0000 2018"
             }
         }, 
         {
@@ -507,8 +523,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "DEBRUSK!!!! #NHLBruins #StanleyCup #13WinsAway", 
-                "created_at": "Tue Apr 24 00:10:46 +0000 2018"
+                "Tweet": "DEBRUSK!!!! #NHLBruins #StanleyCup #13WinsAway", 
+                "Place": "New Hampshire", 
+                "Time": "Tue Apr 24 00:10:46 +0000 2018"
             }
         }, 
         {
@@ -537,8 +554,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "1-0 #Bruins vs the #Leafs #StanleyCup", 
-                "created_at": "Tue Apr 24 00:11:09 +0000 2018"
+                "Tweet": "1-0 #Bruins vs the #Leafs #StanleyCup", 
+                "Place": "Shawinigan", 
+                "Time": "Tue Apr 24 00:11:09 +0000 2018"
             }
         }, 
         {
@@ -567,8 +585,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "Put one on the board for DeBrusk. \ud83d\udea8 #NHLBruins #BOSvsTOR #StanleyCup", 
-                "created_at": "Tue Apr 24 00:11:09 +0000 2018"
+                "Tweet": "Put one on the board for DeBrusk. \ud83d\udea8 #NHLBruins #BOSvsTOR #StanleyCup", 
+                "Place": "Chantilly", 
+                "Time": "Tue Apr 24 00:11:09 +0000 2018"
             }
         }, 
         {
@@ -597,8 +616,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "JAKE DEBRUSK MAKES IT 1-0 BRUINS ON AN ICING CALL LETS FUCKING GO \ud83d\udea8 #BOSvsTOR #InOurBlood #NextManUp #NHLBruins\u2026 https://t.co/moAIfTdjwm", 
-                "created_at": "Tue Apr 24 00:11:29 +0000 2018"
+                "Tweet": "JAKE DEBRUSK MAKES IT 1-0 BRUINS ON AN ICING CALL LETS FUCKING GO \ud83d\udea8 #BOSvsTOR #InOurBlood #NextManUp #NHLBruins\u2026 https://t.co/moAIfTdjwm", 
+                "Place": "Boston", 
+                "Time": "Tue Apr 24 00:11:29 +0000 2018"
             }
         }, 
         {
@@ -627,8 +647,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "That lead didn\u2019t last long lol.  #NHLBruins #BOSvsTOR #StanleyCup", 
-                "created_at": "Tue Apr 24 00:12:00 +0000 2018"
+                "Tweet": "That lead didn\u2019t last long lol.  #NHLBruins #BOSvsTOR #StanleyCup", 
+                "Place": "Chantilly", 
+                "Time": "Tue Apr 24 00:12:00 +0000 2018"
             }
         }, 
         {
@@ -657,8 +678,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "Jake DeBrusk is ELITE #BOSvsTOR #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "created_at": "Tue Apr 24 00:12:10 +0000 2018"
+                "Tweet": "Jake DeBrusk is ELITE #BOSvsTOR #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
+                "Place": "Boston", 
+                "Time": "Tue Apr 24 00:12:10 +0000 2018"
             }
         }, 
         {
@@ -687,8 +709,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "@MapleLeafs YEEEEEEEEEES @wmnylander SCOOOOOOOOOOOOOOOOOOORES 1-1 BABBBBBBBBBBBBBY #GoLeafsGo #TMLtalk #Stanleycup", 
-                "created_at": "Tue Apr 24 00:12:23 +0000 2018"
+                "Tweet": "@MapleLeafs YEEEEEEEEEES @wmnylander SCOOOOOOOOOOOOOOOOOOORES 1-1 BABBBBBBBBBBBBBY #GoLeafsGo #TMLtalk #Stanleycup", 
+                "Place": "Brantford", 
+                "Time": "Tue Apr 24 00:12:23 +0000 2018"
             }
         }, 
         {
@@ -717,8 +740,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "1-0 Bruins at 1:02 of the 2nd period: Krejci wins the face-off back to @JDebrusk who rips a low snap-shot by Anders\u2026 https://t.co/vT1uZQ9Cv2", 
-                "created_at": "Tue Apr 24 00:12:34 +0000 2018"
+                "Tweet": "1-0 Bruins at 1:02 of the 2nd period: Krejci wins the face-off back to @JDebrusk who rips a low snap-shot by Anders\u2026 https://t.co/vT1uZQ9Cv2", 
+                "Place": "Wakefield", 
+                "Time": "Tue Apr 24 00:12:34 +0000 2018"
             }
         }, 
         {
@@ -747,8 +771,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "Well that's unfortunate #BOSvsTOR #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "created_at": "Tue Apr 24 00:12:37 +0000 2018"
+                "Tweet": "Well that's unfortunate #BOSvsTOR #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
+                "Place": "Boston", 
+                "Time": "Tue Apr 24 00:12:37 +0000 2018"
             }
         }, 
         {
@@ -777,8 +802,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "Textbook response took 35 seconds! #GoLeafsGo #TMLtalk #StanleyCup", 
-                "created_at": "Tue Apr 24 00:12:53 +0000 2018"
+                "Tweet": "Textbook response took 35 seconds! #GoLeafsGo #TMLtalk #StanleyCup", 
+                "Place": "Bermuda", 
+                "Time": "Tue Apr 24 00:12:53 +0000 2018"
             }
         }, 
         {
@@ -807,8 +833,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "WILLIE!!!! \ud83d\udea8\ud83d\udea8\ud83d\udea8 https://t.co/uAY2SKpdwV", 
-                "created_at": "Tue Apr 24 00:13:07 +0000 2018"
+                "Tweet": "WILLIE!!!! \ud83d\udea8\ud83d\udea8\ud83d\udea8 https://t.co/uAY2SKpdwV", 
+                "Place": "Ottawa", 
+                "Time": "Tue Apr 24 00:13:07 +0000 2018"
             }
         }, 
         {
@@ -837,8 +864,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "3rd goal of the series for @JDebrusk &amp; 3rd assist for Krejci #NHLBruins #MapleLeafs #MetroBoston #Game6 #NHLplayoffs #StanleyCup", 
-                "created_at": "Tue Apr 24 00:13:13 +0000 2018"
+                "Tweet": "3rd goal of the series for @JDebrusk &amp; 3rd assist for Krejci #NHLBruins #MapleLeafs #MetroBoston #Game6 #NHLplayoffs #StanleyCup", 
+                "Place": "Wakefield", 
+                "Time": "Tue Apr 24 00:13:13 +0000 2018"
             }
         }, 
         {
@@ -867,8 +895,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "Can we bring back the red line for the rest of this game please #BOSvsTOR #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "created_at": "Tue Apr 24 00:13:31 +0000 2018"
+                "Tweet": "Can we bring back the red line for the rest of this game please #BOSvsTOR #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
+                "Place": "Boston", 
+                "Time": "Tue Apr 24 00:13:31 +0000 2018"
             }
         }, 
         {
@@ -897,8 +926,9 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "text": "@MapleLeafs @wmnylander SLICK WILLY BABBBBBBBBBBBBBBBBBBY that\u2019s a MASSIVE fricking GOOOOOOOOOOOOOOOOOAL!!!!!!!!\u2026 https://t.co/ZCJRv2qrXe", 
-                "created_at": "Tue Apr 24 00:13:31 +0000 2018"
+                "Tweet": "@MapleLeafs @wmnylander SLICK WILLY BABBBBBBBBBBBBBBBBBBY that\u2019s a MASSIVE fricking GOOOOOOOOOOOOOOOOOAL!!!!!!!!\u2026 https://t.co/ZCJRv2qrXe", 
+                "Place": "Brantford", 
+                "Time": "Tue Apr 24 00:13:31 +0000 2018"
             }
         }
     ]
