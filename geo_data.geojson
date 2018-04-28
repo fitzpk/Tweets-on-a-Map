@@ -7,31 +7,31 @@
                 "coordinates": [
                     [
                         [
-                            -71.191421, 
-                            42.227797
+                            -115.384091, 
+                            36.129459
                         ], 
                         [
-                            -71.191421, 
-                            42.399542
+                            -115.384091, 
+                            36.336371
                         ], 
                         [
-                            -70.986004, 
-                            42.399542
+                            -115.062159, 
+                            36.336371
                         ], 
                         [
-                            -70.986004, 
-                            42.227797
+                            -115.062159, 
+                            36.129459
                         ]
                     ]
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "Tweet": "Except he looked unsure of himself that entire period https://t.co/KeckyNqKPw", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
-                "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Tue Apr 24 00:04:59 +0000 2018"
+                "Tweet": "Just a little reminder, It\u2019s Hockey Knight in #Vegas!                                #VegasBorn #GoKnightsGo Watch\u2026 https://t.co/AB7m5CFgLQ", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989224005126180864/rVHSqPa7_normal.jpg", 
+                "Place": "Las Vegas", 
+                "User": "BarkAndre_Furry", 
+                "Time": "Sat Apr 28 20:21:45 +0000 2018"
             }
         }, 
         {
@@ -40,427 +40,31 @@
                 "coordinates": [
                     [
                         [
-                            -71.191421, 
-                            42.227797
+                            12.090991, 
+                            48.551532
                         ], 
                         [
-                            -71.191421, 
-                            42.399542
+                            12.090991, 
+                            51.055648
                         ], 
                         [
-                            -70.986004, 
-                            42.399542
+                            18.85991, 
+                            51.055648
                         ], 
                         [
-                            -70.986004, 
-                            42.227797
+                            18.85991, 
+                            48.551532
                         ]
                     ]
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "Tweet": "CLAPBOMB, just WOW https://t.co/0TqCfP4gIA", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
-                "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Tue Apr 24 00:05:29 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -78.387994, 
-                            44.252035
-                        ], 
-                        [
-                            -78.387994, 
-                            44.377544
-                        ], 
-                        [
-                            -78.268232, 
-                            44.377544
-                        ], 
-                        [
-                            -78.268232, 
-                            44.252035
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "Caps pace. \n\n#ALLCAPS\u00a0. #CapsJackets. #StanleyCup\u00a0. #RockTheRed. #CapitalsTalk. @Capitals. @NBCSCapitals. https://t.co/4mr9yAYKr3", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/982817584247726082/LKR6WEw7_normal.jpg", 
-                "Place": "Peterborough", 
-                "User": "Aaron_Harman", 
-                "Time": "Tue Apr 24 00:05:31 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -79.639319, 
-                            43.403221
-                        ], 
-                        [
-                            -79.639319, 
-                            43.855401
-                        ], 
-                        [
-                            -78.90582, 
-                            43.855401
-                        ], 
-                        [
-                            -78.90582, 
-                            43.403221
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "Is there an award for being robbed? Because Anderson deserves the Vezina https://t.co/RTTNjFoL9k", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/950171245722718210/rs1t6-WD_normal.jpg", 
-                "Place": "Toronto", 
-                "User": "soundwavesparks", 
-                "Time": "Tue Apr 24 00:06:20 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "2ND PERIOD BOYS HERE WE GO KEEP IT UP! PEDAL TO THE METAL!\n\nDO. NOT. LET. UP.\n\nRUN EM OUTTA THERE OWN BUILDING\u2026 https://t.co/K3LnkltY38", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
-                "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Tue Apr 24 00:07:43 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -80.3537, 
-                            43.101639
-                        ], 
-                        [
-                            -80.3537, 
-                            43.193503
-                        ], 
-                        [
-                            -80.194175, 
-                            43.193503
-                        ], 
-                        [
-                            -80.194175, 
-                            43.101639
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "@MapleLeafs we\u2019re back for the 2nd and I hope Babcock lit a fire under our a**es cause we must,an I mean MUST Be MU\u2026 https://t.co/K8tWZrdjNo", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/987114914907996161/85kVhdoD_normal.jpg", 
-                "Place": "Brantford", 
-                "User": "BeLEAFingWithJB", 
-                "Time": "Tue Apr 24 00:08:29 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            23.883931, 
-                            65.614461
-                        ], 
-                        [
-                            23.883931, 
-                            66.332222
-                        ], 
-                        [
-                            24.79127, 
-                            66.332222
-                        ], 
-                        [
-                            24.79127, 
-                            65.614461
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "If Predators would allow Jets fans to buy tickets for games in Nashville  they wouldn't need to print so many \"Simp\u2026 https://t.co/niKOdEjvhG", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/690147058804744192/S1fBIfKB_normal.png", 
-                "Place": "Tornio", 
-                "User": "FinnHab", 
-                "Time": "Tue Apr 24 00:09:30 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -72.557247, 
-                            42.696984
-                        ], 
-                        [
-                            -72.557247, 
-                            45.305476
-                        ], 
-                        [
-                            -70.575095, 
-                            45.305476
-                        ], 
-                        [
-                            -70.575095, 
-                            42.696984
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "DEBRUSK!!!! #NHLBruins #StanleyCup #13WinsAway", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000060995098/6d6108fb19c4900b5410f481e43da3f0_normal.png", 
-                "Place": "New Hampshire", 
-                "User": "nesports247", 
-                "Time": "Tue Apr 24 00:10:46 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -73.178515, 
-                            46.460485
-                        ], 
-                        [
-                            -73.178515, 
-                            46.91923
-                        ], 
-                        [
-                            -72.583419, 
-                            46.91923
-                        ], 
-                        [
-                            -72.583419, 
-                            46.460485
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "1-0 #Bruins vs the #Leafs #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/984198248893173760/XKbcm9Zf_normal.jpg", 
-                "Place": "Shawinigan", 
-                "User": "Patrick_Dunlop", 
-                "Time": "Tue Apr 24 00:11:09 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -77.485561, 
-                            38.840172
-                        ], 
-                        [
-                            -77.485561, 
-                            38.917243
-                        ], 
-                        [
-                            -77.364749, 
-                            38.917243
-                        ], 
-                        [
-                            -77.364749, 
-                            38.840172
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "Put one on the board for DeBrusk. \ud83d\udea8 #NHLBruins #BOSvsTOR #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2670158238/2544a395c160bdc9081c42e0259b1ef5_normal.jpeg", 
-                "Place": "Chantilly", 
-                "User": "Smokums_", 
-                "Time": "Tue Apr 24 00:11:09 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "JAKE DEBRUSK MAKES IT 1-0 BRUINS ON AN ICING CALL LETS FUCKING GO \ud83d\udea8 #BOSvsTOR #InOurBlood #NextManUp #NHLBruins\u2026 https://t.co/moAIfTdjwm", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
-                "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Tue Apr 24 00:11:29 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -77.485561, 
-                            38.840172
-                        ], 
-                        [
-                            -77.485561, 
-                            38.917243
-                        ], 
-                        [
-                            -77.364749, 
-                            38.917243
-                        ], 
-                        [
-                            -77.364749, 
-                            38.840172
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "That lead didn\u2019t last long lol.  #NHLBruins #BOSvsTOR #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2670158238/2544a395c160bdc9081c42e0259b1ef5_normal.jpeg", 
-                "Place": "Chantilly", 
-                "User": "Smokums_", 
-                "Time": "Tue Apr 24 00:12:00 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "Jake DeBrusk is ELITE #BOSvsTOR #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
-                "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Tue Apr 24 00:12:10 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -80.3537, 
-                            43.101639
-                        ], 
-                        [
-                            -80.3537, 
-                            43.193503
-                        ], 
-                        [
-                            -80.194175, 
-                            43.193503
-                        ], 
-                        [
-                            -80.194175, 
-                            43.101639
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "@MapleLeafs YEEEEEEEEEES @wmnylander SCOOOOOOOOOOOOOOOOOOORES 1-1 BABBBBBBBBBBBBBY #GoLeafsGo #TMLtalk #Stanleycup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/987114914907996161/85kVhdoD_normal.jpg", 
-                "Place": "Brantford", 
-                "User": "BeLEAFingWithJB", 
-                "Time": "Tue Apr 24 00:12:23 +0000 2018"
+                "Tweet": "@pavelkout Pastrnak to dnes p\u011bkn\u011b rozd\u00e1v\u00e1 ty jabl\u00ed\u010dka \ud83c\udf4e\ud83c\udf4e #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985526440732119040/0Ky4DEfu_normal.jpg", 
+                "Place": "\u010cesk\u00e1 republika", 
+                "User": "james61_jakub", 
+                "Time": "Sat Apr 28 20:22:18 +0000 2018"
             }
         }, 
         {
@@ -489,11 +93,11 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "Tweet": "1-0 Bruins at 1:02 of the 2nd period: Krejci wins the face-off back to @JDebrusk who rips a low snap-shot by Anders\u2026 https://t.co/vT1uZQ9Cv2", 
+                "Tweet": "Bruins take a 2-0 lead 42 seconds into the 2nd period as Bergeron finishes a pretty pass from @pastrnak96 . What a\u2026 https://t.co/GmK9al94N8", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
                 "Place": "Wakefield", 
                 "User": "RichSlate", 
-                "Time": "Tue Apr 24 00:12:34 +0000 2018"
+                "Time": "Sat Apr 28 20:22:23 +0000 2018"
             }
         }, 
         {
@@ -522,11 +126,11 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "Tweet": "Well that's unfortunate #BOSvsTOR #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
+                "Tweet": "I doubt that Rask ever saw that shot, and it was deflected, we're up 2-1, we'll get another one, LETS GO BOYS!\u2026 https://t.co/macVeXmxMd", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
                 "Place": "Boston", 
                 "User": "bruinsfan3725", 
-                "Time": "Tue Apr 24 00:12:37 +0000 2018"
+                "Time": "Sat Apr 28 20:24:25 +0000 2018"
             }
         }, 
         {
@@ -535,31 +139,31 @@
                 "coordinates": [
                     [
                         [
-                            -64.88734, 
-                            32.24704
+                            -73.727776, 
+                            40.950918
                         ], 
                         [
-                            -64.88734, 
-                            32.39119
+                            -73.727776, 
+                            42.050588
                         ], 
                         [
-                            -64.64728, 
-                            32.39119
+                            -71.786994, 
+                            42.050588
                         ], 
                         [
-                            -64.64728, 
-                            32.24704
+                            -71.786994, 
+                            40.950918
                         ]
                     ]
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "Tweet": "Textbook response took 35 seconds! #GoLeafsGo #TMLtalk #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/984569436639256577/0zcIOZNn_normal.jpg", 
-                "Place": "Bermuda", 
-                "User": "Sportschickca", 
-                "Time": "Tue Apr 24 00:12:53 +0000 2018"
+                "Tweet": "If Rick Nash was still wearing a Rangers sweater, this tip would have hit the post and bounced out..... https://t.co/pstTIUnxMr", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/721739526671044609/rkDjef7w_normal.jpg", 
+                "Place": "Connecticut", 
+                "User": "LiamHeslin16", 
+                "Time": "Sat Apr 28 20:24:28 +0000 2018"
             }
         }, 
         {
@@ -568,31 +172,31 @@
                 "coordinates": [
                     [
                         [
-                            -76.353876, 
-                            44.961937
+                            -74.026675, 
+                            40.683935
                         ], 
                         [
-                            -76.353876, 
-                            45.535645
+                            -74.026675, 
+                            40.877483
                         ], 
                         [
-                            -75.246407, 
-                            45.535645
+                            -73.910408, 
+                            40.877483
                         ], 
                         [
-                            -75.246407, 
-                            44.961937
+                            -73.910408, 
+                            40.683935
                         ]
                     ]
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "Tweet": "WILLIE!!!! \ud83d\udea8\ud83d\udea8\ud83d\udea8 https://t.co/uAY2SKpdwV", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/938994122370641920/BKTvEvZ2_normal.jpg", 
-                "Place": "Ottawa", 
-                "User": "WillWatt36", 
-                "Time": "Tue Apr 24 00:13:07 +0000 2018"
+                "Tweet": "Only former @NYRangers score in the playoffs \ud83d\ude12 #nash #girardi #why \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d #NYR #StanleyCup #NHLPlayoffs", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/972246433914146818/ByVBZKVK_normal.jpg", 
+                "Place": "Manhattan", 
+                "User": "mayaspitalnik", 
+                "Time": "Sat Apr 28 20:24:30 +0000 2018"
             }
         }, 
         {
@@ -621,11 +225,143 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "Tweet": "3rd goal of the series for @JDebrusk &amp; 3rd assist for Krejci #NHLBruins #MapleLeafs #MetroBoston #Game6 #NHLplayoffs #StanleyCup", 
+                "Tweet": "Tampa Bay gets on the board at 2:31 of the 2nd period to cut Boston's lead to 2-1. Girardi's shot from the point th\u2026 https://t.co/X9dJFPAF5W", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
                 "Place": "Wakefield", 
                 "User": "RichSlate", 
-                "Time": "Tue Apr 24 00:13:13 +0000 2018"
+                "Time": "Sat Apr 28 20:25:36 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -117.282538, 
+                            32.53962
+                        ], 
+                        [
+                            -117.282538, 
+                            33.080404
+                        ], 
+                        [
+                            -116.92744, 
+                            33.080404
+                        ], 
+                        [
+                            -116.92744, 
+                            32.53962
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "That move by #Pastrnak \ud83d\udc40\ud83d\ude35 https://t.co/OOMfbrdA1Z", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/925418349508550656/WHa1L5yk_normal.jpg", 
+                "Place": "San Diego", 
+                "User": "kyleh919", 
+                "Time": "Sat Apr 28 20:25:40 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -110.801721, 
+                            49.989418
+                        ], 
+                        [
+                            -110.801721, 
+                            50.112935
+                        ], 
+                        [
+                            -110.616959, 
+                            50.112935
+                        ], 
+                        [
+                            -110.616959, 
+                            49.989418
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "Another A+ \u201cultra stunning\u201d HD feed from @Bell_Support this afternoon. @bell #pixelation #Bell #StanleyCup \n\nFix th\u2026 https://t.co/wjcUeqZxKr", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989156048140255234/4mN5W5C-_normal.jpg", 
+                "Place": "Medicine Hat", 
+                "User": "Mondoguitar403", 
+                "Time": "Sat Apr 28 20:26:06 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.100033, 
+                            42.471654
+                        ], 
+                        [
+                            -71.100033, 
+                            42.530917
+                        ], 
+                        [
+                            -71.035299, 
+                            42.530917
+                        ], 
+                        [
+                            -71.035299, 
+                            42.471654
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "1st goal of the playoffs for Girardi; 1st assist for Paquette &amp; 1st assist for Hedman #NHLBruins #Lightning #Game1\u2026 https://t.co/WkJz3C0huX", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "Place": "Wakefield", 
+                "User": "RichSlate", 
+                "Time": "Sat Apr 28 20:27:12 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -75.091333, 
+                            38.32431
+                        ], 
+                        [
+                            -75.091333, 
+                            38.451299
+                        ], 
+                        [
+                            -75.04914, 
+                            38.451299
+                        ], 
+                        [
+                            -75.04914, 
+                            38.32431
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "This is flat-out beautiful. #NHLBruins #BOSvsTBL https://t.co/LRludRZ4Qa", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/785988785796444160/3oQugQa9_normal.jpg", 
+                "Place": "Ocean City", 
+                "User": "CamHasbrouck", 
+                "Time": "Sat Apr 28 20:27:47 +0000 2018"
             }
         }, 
         {
@@ -654,11 +390,11 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "Tweet": "Can we bring back the red line for the rest of this game please #BOSvsTOR #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
+                "Tweet": "Oh boy if Backes had sniped that one #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
                 "Place": "Boston", 
                 "User": "bruinsfan3725", 
-                "Time": "Tue Apr 24 00:13:31 +0000 2018"
+                "Time": "Sat Apr 28 20:28:12 +0000 2018"
             }
         }, 
         {
@@ -667,31 +403,31 @@
                 "coordinates": [
                     [
                         [
-                            -80.3537, 
-                            43.101639
+                            -71.191421, 
+                            42.227797
                         ], 
                         [
-                            -80.3537, 
-                            43.193503
+                            -71.191421, 
+                            42.399542
                         ], 
                         [
-                            -80.194175, 
-                            43.193503
+                            -70.986004, 
+                            42.399542
                         ], 
                         [
-                            -80.194175, 
-                            43.101639
+                            -70.986004, 
+                            42.227797
                         ]
                     ]
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "Tweet": "@MapleLeafs @wmnylander SLICK WILLY BABBBBBBBBBBBBBBBBBBY that\u2019s a MASSIVE fricking GOOOOOOOOOOOOOOOOOAL!!!!!!!!\u2026 https://t.co/ZCJRv2qrXe", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/987114914907996161/85kVhdoD_normal.jpg", 
-                "Place": "Brantford", 
-                "User": "BeLEAFingWithJB", 
-                "Time": "Tue Apr 24 00:13:31 +0000 2018"
+                "Tweet": "Oh we're getting our fair share of odd man rushes #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "Place": "Boston", 
+                "User": "bruinsfan3725", 
+                "Time": "Sat Apr 28 20:29:57 +0000 2018"
             }
         }
     ]
