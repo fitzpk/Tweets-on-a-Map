@@ -7,39 +7,6 @@
                 "coordinates": [
                     [
                         [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "Am I the only one that gets TRIGGERED every time they hear the words \"stretch pass\" or see a stretch pass?\u2026 https://t.co/S6lOZchFaL", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
-                "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Tue Apr 24 00:03:37 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
                             -71.100033, 
                             42.471654
                         ], 
