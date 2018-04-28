@@ -429,6 +429,105 @@
                 "User": "bruinsfan3725", 
                 "Time": "Sat Apr 28 20:29:57 +0000 2018"
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -76.353876, 
+                            44.961937
+                        ], 
+                        [
+                            -76.353876, 
+                            45.535645
+                        ], 
+                        [
+                            -75.246407, 
+                            45.535645
+                        ], 
+                        [
+                            -75.246407, 
+                            44.961937
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "\ud83d\udea8\ud83d\udea8 This just in! \ud83d\udea8\ud83d\udea8\n\nlocal podcast goes viral with rendition of NHL draft lottery\n\n#StanleyCup #NHLDraftLottery\n\nhttps://t.co/Zr9NuCmJdy", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/786916350845476864/cA0rjFsL_normal.jpg", 
+                "Place": "Ottawa", 
+                "User": "RidinPineShow", 
+                "Time": "Sat Apr 28 20:35:51 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -120.00574, 
+                            35.002086
+                        ], 
+                        [
+                            -120.00574, 
+                            42.002208
+                        ], 
+                        [
+                            -114.039649, 
+                            42.002208
+                        ], 
+                        [
+                            -114.039649, 
+                            35.002086
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "Wow. Boston was about to get another goal to make it 3-1, but it gets nullified by a cross-check that came half a s\u2026 https://t.co/7W2uT9BcxZ", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg", 
+                "Place": "Nevada", 
+                "User": "pradiggitydog", 
+                "Time": "Sat Apr 28 20:36:05 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -111.921658, 
+                            40.528084
+                        ], 
+                        [
+                            -111.921658, 
+                            40.616827
+                        ], 
+                        [
+                            -111.800273, 
+                            40.616827
+                        ], 
+                        [
+                            -111.800273, 
+                            40.528084
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "\u201cNobody panic\u201d? I think she\u2019s confused. \ud83e\udd14 https://t.co/80bi0dlrKp", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/964361731580428288/p22ErNH1_normal.jpg", 
+                "Place": "Sandy", 
+                "User": "AmberDeRose", 
+                "Time": "Sat Apr 28 20:38:50 +0000 2018"
+            }
         }
     ]
 }
