@@ -4356,6 +4356,39 @@
                 "User": "bruinsfan3725", 
                 "Time": "Sat Apr 28 21:53:24 +0000 2018"
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -115.178239, 
+                            36.102741
+                        ], 
+                        [
+                            -115.178239, 
+                            36.102741
+                        ], 
+                        [
+                            -115.178239, 
+                            36.102741
+                        ], 
+                        [
+                            -115.178239, 
+                            36.102741
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "I though the color teal was banned by the @CityOfLasVegas. Well, there's some @SanJoseSharks fans in the fortress t\u2026 https://t.co/UMqhPzfbDi", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976539605355741184/QdJvN0rE_normal.jpg", 
+                "Place": "T-Mobile Arena", 
+                "User": "harryruiz", 
+                "Time": "Sat Apr 28 22:57:30 +0000 2018"
+            }
         }
     ]
 }
