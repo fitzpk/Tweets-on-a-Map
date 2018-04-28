@@ -7,39 +7,6 @@
                 "coordinates": [
                     [
                         [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "Tweet": "After 1 period at Air Canada Centre: @NHLBruins 0, @MapleLeafs 0. Boston outshot Toronto 17-10 &amp; killed off the Lea\u2026 https://t.co/CoQo4xFJnh", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
-                "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Tue Apr 24 00:04:10 +0000 2018"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
                             -71.191421, 
                             42.227797
                         ], 
