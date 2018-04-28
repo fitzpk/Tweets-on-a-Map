@@ -2871,6 +2871,204 @@
                 "User": "AdamG1984", 
                 "Time": "Sat Apr 28 21:29:14 +0000 2018"
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.191421, 
+                            42.227797
+                        ], 
+                        [
+                            -71.191421, 
+                            42.399542
+                        ], 
+                        [
+                            -70.986004, 
+                            42.399542
+                        ], 
+                        [
+                            -70.986004, 
+                            42.227797
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "Jake DeBrusk is the epitome of the Boston Bruins and the city of Boston rn, coming up HUGE in clutch moments in gam\u2026 https://t.co/v1A48Ffzrc", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "Place": "Boston", 
+                "User": "bruinsfan3725", 
+                "Time": "Sat Apr 28 21:32:20 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.548521, 
+                            46.730765
+                        ], 
+                        [
+                            -71.548521, 
+                            46.980949
+                        ], 
+                        [
+                            -71.133596, 
+                            46.980949
+                        ], 
+                        [
+                            -71.133596, 
+                            46.730765
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "\u00c7a me semble assez clair. Les officiels n\u2019auraient pas d\u00fb tol\u00e9rer la r\u00e9action de Rask qui a lanc\u00e9 sa lame en enguir\u2026 https://t.co/xn53NgTAIh", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/947352434707451904/2JEukKfd_normal.jpg", 
+                "Place": "Qu\u00e9bec", 
+                "User": "BenjaminAubert", 
+                "Time": "Sat Apr 28 21:34:00 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -85.605166, 
+                            30.355644
+                        ], 
+                        [
+                            -85.605166, 
+                            35.000771
+                        ], 
+                        [
+                            -80.742567, 
+                            35.000771
+                        ], 
+                        [
+                            -80.742567, 
+                            30.355644
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "Bergeron with the green beret sniiiipe #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/922484507583885312/GvsO_j1__normal.jpg", 
+                "Place": "Georgia", 
+                "User": "Astone_112", 
+                "Time": "Sat Apr 28 21:34:30 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -84.321948, 
+                            33.752879
+                        ], 
+                        [
+                            -84.321948, 
+                            36.588118
+                        ], 
+                        [
+                            -75.40012, 
+                            36.588118
+                        ], 
+                        [
+                            -75.40012, 
+                            33.752879
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "That top line of Boston this playoffs... geezus.. #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989693229691031552/wH21GwbF_normal.jpg", 
+                "Place": "North Carolina", 
+                "User": "mike47725919", 
+                "Time": "Sat Apr 28 21:34:55 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -120.00574, 
+                            35.002086
+                        ], 
+                        [
+                            -120.00574, 
+                            42.002208
+                        ], 
+                        [
+                            -114.039649, 
+                            42.002208
+                        ], 
+                        [
+                            -114.039649, 
+                            35.002086
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "It\u2019s Bergeron with a shot and it goes in!!! 5-2 Bruins lead!! #BOSvsTBL #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg", 
+                "Place": "Nevada", 
+                "User": "pradiggitydog", 
+                "Time": "Sat Apr 28 21:35:21 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.191421, 
+                            42.227797
+                        ], 
+                        [
+                            -71.191421, 
+                            42.399542
+                        ], 
+                        [
+                            -70.986004, 
+                            42.399542
+                        ], 
+                        [
+                            -70.986004, 
+                            42.227797
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "BRAD MARCHAND TO BERGERON IN THE BUMPER SPOT AND FIRES IT PAST VASILEVSKY AND THE BRUINS LEAD 5-2 IN THE FINAL 10 M\u2026 https://t.co/guIZaNQZvH", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "Place": "Boston", 
+                "User": "bruinsfan3725", 
+                "Time": "Sat Apr 28 21:35:27 +0000 2018"
+            }
         }
     ]
 }
