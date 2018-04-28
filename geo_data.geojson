@@ -4389,6 +4389,204 @@
                 "User": "harryruiz", 
                 "Time": "Sat Apr 28 22:57:30 +0000 2018"
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -82.620093, 
+                            27.821353
+                        ], 
+                        [
+                            -82.620093, 
+                            28.171836
+                        ], 
+                        [
+                            -82.265295, 
+                            28.171836
+                        ], 
+                        [
+                            -82.265295, 
+                            27.821353
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "Our #BoltToTheCup special starts NOW on @10NewsWTSP. @TBLightning #GoBolts #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/960916348904837120/k3akbzlz_normal.jpg", 
+                "Place": "Tampa", 
+                "User": "Ry_Bass", 
+                "Time": "Sat Apr 28 23:00:21 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -115.209254, 
+                            35.984784
+                        ], 
+                        [
+                            -115.209254, 
+                            36.137145
+                        ], 
+                        [
+                            -115.061076, 
+                            36.137145
+                        ], 
+                        [
+                            -115.061076, 
+                            35.984784
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "One hour away from shark hunt #2 for #VegasBorn @GoldenKnights in the @NHL #StanleyCup playoffs. #GoKnightsGo\u2026 https://t.co/nqZVJdpflB", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000694623329/342568e2179452e39673ca9ae3177284_normal.jpeg", 
+                "Place": "Paradise", 
+                "User": "ClarkCountyNV", 
+                "Time": "Sat Apr 28 23:00:51 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -115.209254, 
+                            35.984784
+                        ], 
+                        [
+                            -115.209254, 
+                            36.137145
+                        ], 
+                        [
+                            -115.061076, 
+                            36.137145
+                        ], 
+                        [
+                            -115.061076, 
+                            35.984784
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "If I were a betting man (\ud83d\ude09\ud83d\ude09\ud83d\ude09), I'd bet the @GoldenKnights puck line. I mean, there's a Gummy Bear on steroids on to\u2026 https://t.co/Y69aNNM3HK", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976539605355741184/QdJvN0rE_normal.jpg", 
+                "Place": "Paradise", 
+                "User": "harryruiz", 
+                "Time": "Sat Apr 28 23:02:56 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -115.355825, 
+                            36.082837
+                        ], 
+                        [
+                            -115.355825, 
+                            36.159081
+                        ], 
+                        [
+                            -115.314862, 
+                            36.159081
+                        ], 
+                        [
+                            -115.314862, 
+                            36.082837
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "\u201cGame On\u201d #GoKnightsGo #VegasBorn #StanleyCup #BeatTheSharks #NHLPlayoffs #VGK https://t.co/DV6nDEYwp8", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/968960849707646976/v3Qo8iiX_normal.jpg", 
+                "Place": "Summerlin South", 
+                "User": "howardstutz", 
+                "Time": "Sat Apr 28 23:10:12 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -116.374494, 
+                            43.510172
+                        ], 
+                        [
+                            -116.374494, 
+                            43.685894
+                        ], 
+                        [
+                            -116.101508, 
+                            43.685894
+                        ], 
+                        [
+                            -116.101508, 
+                            43.510172
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "NHL: How much can I get for the Stanley cup?                                              Pawn Stars: the best I ca\u2026 https://t.co/GxdIoO4Bbx", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988575523788894208/y5_WqH5u_normal.jpg", 
+                "Place": "Boise", 
+                "User": "jonethebone19", 
+                "Time": "Sat Apr 28 23:12:41 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -115.209254, 
+                            35.984784
+                        ], 
+                        [
+                            -115.209254, 
+                            36.137145
+                        ], 
+                        [
+                            -115.061076, 
+                            36.137145
+                        ], 
+                        [
+                            -115.061076, 
+                            35.984784
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "@GoldenKnights #VegasBaby #VGK #VegasBorn #StanleyCupPlayoffs #StanleyCup https://t.co/ahjJtTBn7A", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/937838961958952965/T7r_relo_normal.jpg", 
+                "Place": "Paradise", 
+                "User": "DavidSokoloski", 
+                "Time": "Sat Apr 28 23:13:39 +0000 2018"
+            }
         }
     ]
 }
