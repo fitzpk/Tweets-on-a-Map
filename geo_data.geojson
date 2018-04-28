@@ -3795,6 +3795,567 @@
                 "User": "RochieWBZ", 
                 "Time": "Sat Apr 28 21:44:20 +0000 2018"
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.100033, 
+                            42.471654
+                        ], 
+                        [
+                            -71.100033, 
+                            42.530917
+                        ], 
+                        [
+                            -71.035299, 
+                            42.530917
+                        ], 
+                        [
+                            -71.035299, 
+                            42.471654
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "9th assist for @Bmarch63 (3rd today &amp; 4th point); 3rd assist for @CMcAvoy44 (2nd today) #NHLBruins #Lightning\u2026 https://t.co/QKYqJlWIsR", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "Place": "Wakefield", 
+                "User": "RichSlate", 
+                "Time": "Sat Apr 28 21:45:43 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -77.125438, 
+                            39.059951
+                        ], 
+                        [
+                            -77.125438, 
+                            39.120903
+                        ], 
+                        [
+                            -77.0338, 
+                            39.120903
+                        ], 
+                        [
+                            -77.0338, 
+                            39.059951
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "The only good thing about the Bruins being this good is knowing that the Pens won\u2019t get past them for a three peat. #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/478549162796281856/qr-6YFUL_normal.jpeg", 
+                "Place": "Aspen Hill", 
+                "User": "amanda_problems", 
+                "Time": "Sat Apr 28 21:46:34 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -82.620093, 
+                            27.821353
+                        ], 
+                        [
+                            -82.620093, 
+                            28.171836
+                        ], 
+                        [
+                            -82.265295, 
+                            28.171836
+                        ], 
+                        [
+                            -82.265295, 
+                            27.821353
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "Can I just click my heels 3 times and it be Monday night? Onto Game 2... #GoBolts #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/756871246172844032/OZPTxR_L_normal.jpg", 
+                "Place": "Tampa", 
+                "User": "brianfink", 
+                "Time": "Sat Apr 28 21:46:38 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -82.620093, 
+                            27.821353
+                        ], 
+                        [
+                            -82.620093, 
+                            28.171836
+                        ], 
+                        [
+                            -82.265295, 
+                            28.171836
+                        ], 
+                        [
+                            -82.265295, 
+                            27.821353
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "Well...dang it. Okay, on to Game 2. #GoBolts #StanleyCup #believe #StanleyCupPlayoffs https://t.co/spp8hLMP0Y", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/477242878419140608/_mhiQ_k1_normal.jpeg", 
+                "Place": "Tampa", 
+                "User": "CharleyBelcher", 
+                "Time": "Sat Apr 28 21:50:18 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.178586, 
+                            42.29466
+                        ], 
+                        [
+                            -71.178586, 
+                            42.351818
+                        ], 
+                        [
+                            -71.105725, 
+                            42.351818
+                        ], 
+                        [
+                            -71.105725, 
+                            42.29466
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "Good reffing or bad reffing the bottom line is the #NHLBruins came away with a victory today \n \ud83d\udc3b\ud83d\udc3b\ud83d\udc3b\ud83d\udc3b\ud83d\udc3b\ud83d\udc3b-\u26a1\ufe0f\u26a1\ufe0f\u2026 https://t.co/OhuUFeSQVx", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/957962441651990529/MOQm06Bh_normal.jpg", 
+                "Place": "Brookline", 
+                "User": "NHLFoil", 
+                "Time": "Sat Apr 28 21:51:00 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -120.00574, 
+                            35.002086
+                        ], 
+                        [
+                            -120.00574, 
+                            42.002208
+                        ], 
+                        [
+                            -114.039649, 
+                            42.002208
+                        ], 
+                        [
+                            -114.039649, 
+                            35.002086
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "We have no idea what any of this means. We've never lost a playoff game yet....and 25 years from now I imagine we'l\u2026 https://t.co/tTCo9n7SQU", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/952587724069814272/H8-oCT0F_normal.jpg", 
+                "Place": "Nevada", 
+                "User": "chetbuchanan", 
+                "Time": "Sat Apr 28 21:51:07 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.034586, 
+                            42.494855
+                        ], 
+                        [
+                            -71.034586, 
+                            42.570296
+                        ], 
+                        [
+                            -70.912696, 
+                            42.570296
+                        ], 
+                        [
+                            -70.912696, 
+                            42.494855
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "Woohoo #NHLBruins win !!! #WeWantTheCup #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976490901949345794/AjlscB4V_normal.jpg", 
+                "Place": "Peabody", 
+                "User": "mrs_macdonald17", 
+                "Time": "Sat Apr 28 21:51:18 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.191421, 
+                            42.227797
+                        ], 
+                        [
+                            -71.191421, 
+                            42.399542
+                        ], 
+                        [
+                            -70.986004, 
+                            42.399542
+                        ], 
+                        [
+                            -70.986004, 
+                            42.227797
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "So far in 8 games in this year's playoff run the Bruins have scored 5+ goals 4 times, having scored SEVEN in both g\u2026 https://t.co/40dlq1Lefa", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "Place": "Boston", 
+                "User": "bruinsfan3725", 
+                "Time": "Sat Apr 28 21:51:19 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.57581, 
+                            42.116846
+                        ], 
+                        [
+                            -71.57581, 
+                            42.191514
+                        ], 
+                        [
+                            -71.477878, 
+                            42.191514
+                        ], 
+                        [
+                            -71.477878, 
+                            42.116846
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "BIG FUCKING WIN BOYS. I LOVE IT #NHLBruins #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951119770509770752/kwQo_Ga0_normal.jpg", 
+                "Place": "Milford", 
+                "User": "bagged_mk4", 
+                "Time": "Sat Apr 28 21:51:21 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -111.842244, 
+                            33.204608
+                        ], 
+                        [
+                            -111.842244, 
+                            33.385822
+                        ], 
+                        [
+                            -111.634889, 
+                            33.385822
+                        ], 
+                        [
+                            -111.634889, 
+                            33.204608
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "Thanks for playing Tampa. #BOSvsTBL #StanleyCup https://t.co/vqIwgheEO7", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/970755097863979009/Hq3y-C9x_normal.jpg", 
+                "Place": "Gilbert", 
+                "User": "tbhardon90", 
+                "Time": "Sat Apr 28 21:51:36 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -79.76259, 
+                            40.477383
+                        ], 
+                        [
+                            -79.76259, 
+                            45.015851
+                        ], 
+                        [
+                            -71.777492, 
+                            45.015851
+                        ], 
+                        [
+                            -71.777492, 
+                            40.477383
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "Well take game one thank you! Good game boys! https://t.co/g0qCxwxs71", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/973912532887965698/FewhQPFd_normal.jpg", 
+                "Place": "New York", 
+                "User": "_TheReal_Will", 
+                "Time": "Sat Apr 28 21:51:39 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -97.928935, 
+                            30.127892
+                        ], 
+                        [
+                            -97.928935, 
+                            30.518799
+                        ], 
+                        [
+                            -97.580513, 
+                            30.518799
+                        ], 
+                        [
+                            -97.580513, 
+                            30.127892
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "@NHLBruins wins game 1 in the series 6-2! Lets go. #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/933890225335611393/WiFJr274_normal.jpg", 
+                "Place": "Austin", 
+                "User": "BleedOrange007", 
+                "Time": "Sat Apr 28 21:51:40 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -73.962582, 
+                            40.541722
+                        ], 
+                        [
+                            -73.962582, 
+                            40.800037
+                        ], 
+                        [
+                            -73.699793, 
+                            40.800037
+                        ], 
+                        [
+                            -73.699793, 
+                            40.541722
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "#StanleyCup East 2nd Round Game 1 #NHLBruins 6 #TBLightning 2 Final.  #NHLBruins leads series 1-0.  Game 2 Monday 7\u2026 https://t.co/5PHAQEIUCf", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989873830247194624/4K_u0dJq_normal.jpg", 
+                "Place": "Queens", 
+                "User": "NYCKING", 
+                "Time": "Sat Apr 28 21:51:49 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -2.816463, 
+                            53.692653
+                        ], 
+                        [
+                            -2.816463, 
+                            53.710375
+                        ], 
+                        [
+                            -2.793933, 
+                            53.710375
+                        ], 
+                        [
+                            -2.793933, 
+                            53.692653
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "#NHLBRUINS WIN! What a huge statement. \ud83c\udfd2 #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/948530796444430336/eXvhMTzs_normal.jpg", 
+                "Place": "Much Hoole", 
+                "User": "SourEnvy", 
+                "Time": "Sat Apr 28 21:51:56 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.255938, 
+                            42.6704
+                        ], 
+                        [
+                            -71.255938, 
+                            42.794273
+                        ], 
+                        [
+                            -71.115547, 
+                            42.794273
+                        ], 
+                        [
+                            -71.115547, 
+                            42.6704
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "Awesome game @NHLBruins Keep the energy going!! #InOurBlood #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/823023045359046656/da0VlDWg_normal.jpg", 
+                "Place": "Methuen Town", 
+                "User": "BLZ70", 
+                "Time": "Sat Apr 28 21:52:45 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -106.645646, 
+                            25.837092
+                        ], 
+                        [
+                            -106.645646, 
+                            36.500695
+                        ], 
+                        [
+                            -93.508131, 
+                            36.500695
+                        ], 
+                        [
+                            -93.508131, 
+                            25.837092
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "#StanleyCupPlayoffs Nice third Bruins. Keep it going! Silence the haters. #bruins #StanleyCup #Boston #hockey", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/786367983207579649/39m5fsXT_normal.jpg", 
+                "Place": "Texas", 
+                "User": "jbhiggins", 
+                "Time": "Sat Apr 28 21:52:59 +0000 2018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.191421, 
+                            42.227797
+                        ], 
+                        [
+                            -71.191421, 
+                            42.399542
+                        ], 
+                        [
+                            -70.986004, 
+                            42.399542
+                        ], 
+                        [
+                            -70.986004, 
+                            42.227797
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Tweet": "THATS WIN NUMBER 5 BOYS!\n\n11 MORE TO GO! LETS GET IT ON MONDAY NIGHT! HUGE STATEMENT WIN TODAY! #BOSvsTBL\u2026 https://t.co/VWoFPCaYUD", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "Place": "Boston", 
+                "User": "bruinsfan3725", 
+                "Time": "Sat Apr 28 21:53:24 +0000 2018"
+            }
         }
     ]
 }
