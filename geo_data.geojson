@@ -7,6 +7,42 @@
                 "coordinates": [
                     [
                         [
+                            -75.866582, 
+                            41.997806
+                        ], 
+                        [
+                            -75.866582, 
+                            42.103341
+                        ], 
+                        [
+                            -75.762366, 
+                            42.103341
+                        ], 
+                        [
+                            -75.762366, 
+                            41.997806
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Media": "", 
+                "TweetLink": "990330140809990145", 
+                "Handle": "JulieWeisberg", 
+                "Name": "Julie Weisberg", 
+                "Time": "Sat Apr 28 20:41:19 +0000 2018", 
+                "Place": "Conklin", 
+                "Tweet": "Love me some @NHL playoff hockey!! #BOSvsTB #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/715919418811883524/LAiTvHT6_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
                             -71.191421, 
                             42.227797
                         ], 
@@ -35,6 +71,42 @@
                 "Place": "Boston", 
                 "Tweet": "I LOVE RICK NASH SO MUCH #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup https://t.co/toELn2DHoj", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.100033, 
+                            42.471654
+                        ], 
+                        [
+                            -71.100033, 
+                            42.530917
+                        ], 
+                        [
+                            -71.035299, 
+                            42.530917
+                        ], 
+                        [
+                            -71.035299, 
+                            42.471654
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Media": "", 
+                "TweetLink": "990335379839561734", 
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
+                "Time": "Sat Apr 28 21:02:08 +0000 2018", 
+                "Place": "Wakefield", 
+                "Tweet": "after 2 back-and-forth periods Amalie Arena: @NHLBruins 3, @TBLightning 2. Tampa Bay has outshot Boston 25-18 (14-5\u2026 https://t.co/CMaFjRY9vW", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -79,6 +151,42 @@
                 "coordinates": [
                     [
                         [
+                            -83.104102, 
+                            39.989304
+                        ], 
+                        [
+                            -83.104102, 
+                            40.063889
+                        ], 
+                        [
+                            -83.042267, 
+                            40.063889
+                        ], 
+                        [
+                            -83.042267, 
+                            39.989304
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Media": "", 
+                "TweetLink": "990336047610548224", 
+                "Handle": "LarryMobile", 
+                "Name": "Larry Birdie", 
+                "Time": "Sat Apr 28 21:04:47 +0000 2018", 
+                "Place": "Upper Arlington", 
+                "Tweet": "Then it's a dumb ass rule #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/907781323988897792/EWTjOs5L_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
                             -87.634643, 
                             24.396308
                         ], 
@@ -107,6 +215,42 @@
                 "Place": "Florida", 
                 "Tweet": "@jamesbomb69 @Bmarch63 We didn\u2019t see anything ...... #TeamFlorida #GoBolts #StanleyCup #BOSvsTBL \ud83c\udfd2\ud83c\udf34\u2600\ufe0f\ud83d\ude97 https://t.co/KgJhRGvKi6", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/959915699874488320/f4vdgBjA_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -86.624429, 
+                            35.879451
+                        ], 
+                        [
+                            -86.624429, 
+                            36.029213
+                        ], 
+                        [
+                            -86.458783, 
+                            36.029213
+                        ], 
+                        [
+                            -86.458783, 
+                            35.879451
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Media": "", 
+                "TweetLink": "990337037961179136", 
+                "Handle": "cleangene3", 
+                "Name": "gene vestal", 
+                "Time": "Sat Apr 28 21:08:44 +0000 2018", 
+                "Place": "Smyrna", 
+                "Tweet": "The most bizarre moment I've seen in watching the #StanleyCup playoffs. I love it when he throws the broken object\u2026 https://t.co/nwYLIhay0q", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/915811811626291200/XLj15wUU_normal.jpg"
             }
         }, 
         {
@@ -171,6 +315,42 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Media": "", 
+                "TweetLink": "990346575657537537", 
+                "Handle": "brianfink", 
+                "Name": "Brian Fink", 
+                "Time": "Sat Apr 28 21:46:38 +0000 2018", 
+                "Place": "Tampa", 
+                "Tweet": "Can I just click my heels 3 times and it be Monday night? Onto Game 2... #GoBolts #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/756871246172844032/OZPTxR_L_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -82.620093, 
+                            27.821353
+                        ], 
+                        [
+                            -82.620093, 
+                            28.171836
+                        ], 
+                        [
+                            -82.265295, 
+                            28.171836
+                        ], 
+                        [
+                            -82.265295, 
+                            27.821353
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "Media": "http://pbs.twimg.com/tweet_video_thumb/Db5rzL5X0AIUmnY.jpg", 
                 "TweetLink": "990347500434411521", 
                 "Handle": "CharleyBelcher", 
@@ -179,6 +359,42 @@
                 "Place": "Tampa", 
                 "Tweet": "Well...dang it. Okay, on to Game 2. #GoBolts #StanleyCup #believe #StanleyCupPlayoffs https://t.co/spp8hLMP0Y", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/477242878419140608/_mhiQ_k1_normal.jpeg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.57581, 
+                            42.116846
+                        ], 
+                        [
+                            -71.57581, 
+                            42.191514
+                        ], 
+                        [
+                            -71.477878, 
+                            42.191514
+                        ], 
+                        [
+                            -71.477878, 
+                            42.116846
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Media": "", 
+                "TweetLink": "990347764457492480", 
+                "Handle": "bagged_mk4", 
+                "Name": "Joey Fernandes\ud83e\udd19\ud83c\udffb", 
+                "Time": "Sat Apr 28 21:51:21 +0000 2018", 
+                "Place": "Milford", 
+                "Tweet": "BIG FUCKING WIN BOYS. I LOVE IT #NHLBruins #StanleyCup", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951119770509770752/kwQo_Ga0_normal.jpg"
             }
         }, 
         {
@@ -223,6 +439,42 @@
                 "coordinates": [
                     [
                         [
+                            -115.209254, 
+                            35.984784
+                        ], 
+                        [
+                            -115.209254, 
+                            36.137145
+                        ], 
+                        [
+                            -115.061076, 
+                            36.137145
+                        ], 
+                        [
+                            -115.061076, 
+                            35.984784
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Media": "", 
+                "TweetLink": "990365777919279104", 
+                "Handle": "harryruiz", 
+                "Name": "Harry Ruiz", 
+                "Time": "Sat Apr 28 23:02:56 +0000 2018", 
+                "Place": "Paradise", 
+                "Tweet": "If I were a betting man (\ud83d\ude09\ud83d\ude09\ud83d\ude09), I'd bet the @GoldenKnights puck line. I mean, there's a Gummy Bear on steroids on to\u2026 https://t.co/Y69aNNM3HK", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976539605355741184/QdJvN0rE_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
                             -115.355825, 
                             36.082837
                         ], 
@@ -251,6 +503,78 @@
                 "Place": "Summerlin South", 
                 "Tweet": "\u201cGame On\u201d #GoKnightsGo #VegasBorn #StanleyCup #BeatTheSharks #NHLPlayoffs #VGK https://t.co/DV6nDEYwp8", 
                 "ProfilePic": "http://pbs.twimg.com/profile_images/968960849707646976/v3Qo8iiX_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -115.209254, 
+                            35.984784
+                        ], 
+                        [
+                            -115.209254, 
+                            36.137145
+                        ], 
+                        [
+                            -115.061076, 
+                            36.137145
+                        ], 
+                        [
+                            -115.061076, 
+                            35.984784
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Media": "", 
+                "TweetLink": "990368475527852032", 
+                "Handle": "DavidSokoloski", 
+                "Name": "y - David Sokoloski (VGK Fanatic)", 
+                "Time": "Sat Apr 28 23:13:39 +0000 2018", 
+                "Place": "Paradise", 
+                "Tweet": "@GoldenKnights #VegasBaby #VGK #VegasBorn #StanleyCupPlayoffs #StanleyCup https://t.co/ahjJtTBn7A", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/937838961958952965/T7r_relo_normal.jpg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -115.209254, 
+                            35.984784
+                        ], 
+                        [
+                            -115.209254, 
+                            36.137145
+                        ], 
+                        [
+                            -115.061076, 
+                            36.137145
+                        ], 
+                        [
+                            -115.061076, 
+                            35.984784
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Media": "http://pbs.twimg.com/media/Db6nh3nV4AAn5bH.jpg", 
+                "TweetLink": "990413184325447680", 
+                "Handle": "ThonyAvellaneda", 
+                "Name": "Anthony Avellaneda\ud83d\udea9", 
+                "Time": "Sun Apr 29 02:11:18 +0000 2018", 
+                "Place": "Paradise", 
+                "Tweet": "Segundo Periodo: @SanJoseSharks le da la vuelta al marcador 3-2 sobre @GoldenKnights. #StanleyCup #NHL https://t.co/RLtXMLHNsi", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980616808427282432/wQp008x7_normal.jpg"
             }
         }
     ]
