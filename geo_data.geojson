@@ -27,44 +27,7 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "Media": [
-                    {
-                        "expanded_url": "https://twitter.com/bruinsfan3725/status/990330139241218050/photo/1", 
-                        "display_url": "pic.twitter.com/toELn2DHoj", 
-                        "url": "https://t.co/toELn2DHoj", 
-                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Db5b_IcVwAAifW2.jpg", 
-                        "id_str": "990330108224323584", 
-                        "sizes": {
-                            "large": {
-                                "h": 200, 
-                                "resize": "fit", 
-                                "w": 356
-                            }, 
-                            "small": {
-                                "h": 200, 
-                                "resize": "fit", 
-                                "w": 356
-                            }, 
-                            "medium": {
-                                "h": 200, 
-                                "resize": "fit", 
-                                "w": 356
-                            }, 
-                            "thumb": {
-                                "h": 150, 
-                                "resize": "crop", 
-                                "w": 150
-                            }
-                        }, 
-                        "indices": [
-                            81, 
-                            104
-                        ], 
-                        "type": "photo", 
-                        "id": 990330108224323584, 
-                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Db5b_IcVwAAifW2.jpg"
-                    }
-                ], 
+                "Media": "http://pbs.twimg.com/tweet_video_thumb/Db5b_IcVwAAifW2.jpg", 
                 "TweetLink": "990330139241218050", 
                 "Handle": "bruinsfan3725", 
                 "Name": "That Bruins Kid", 
@@ -100,44 +63,7 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "Media": [
-                    {
-                        "expanded_url": "https://twitter.com/KristopherRos16/status/990335960285089794/photo/1", 
-                        "display_url": "pic.twitter.com/YFP40tBJ2R", 
-                        "url": "https://t.co/YFP40tBJ2R", 
-                        "media_url_https": "https://pbs.twimg.com/media/Db5hTP_WsAEC_kl.jpg", 
-                        "id_str": "990335951405756417", 
-                        "sizes": {
-                            "small": {
-                                "h": 500, 
-                                "resize": "fit", 
-                                "w": 500
-                            }, 
-                            "large": {
-                                "h": 500, 
-                                "resize": "fit", 
-                                "w": 500
-                            }, 
-                            "medium": {
-                                "h": 500, 
-                                "resize": "fit", 
-                                "w": 500
-                            }, 
-                            "thumb": {
-                                "h": 150, 
-                                "resize": "crop", 
-                                "w": 150
-                            }
-                        }, 
-                        "indices": [
-                            28, 
-                            51
-                        ], 
-                        "type": "photo", 
-                        "id": 990335951405756417, 
-                        "media_url": "http://pbs.twimg.com/media/Db5hTP_WsAEC_kl.jpg"
-                    }
-                ], 
+                "Media": "http://pbs.twimg.com/media/Db5hTP_WsAEC_kl.jpg", 
                 "TweetLink": "990335960285089794", 
                 "Handle": "KristopherRos16", 
                 "Name": "Kristopher Roseboro", 
@@ -173,44 +99,7 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "Media": [
-                    {
-                        "expanded_url": "https://twitter.com/DMATBHockeyClub/status/990336096004435968/photo/1", 
-                        "display_url": "pic.twitter.com/KgJhRGvKi6", 
-                        "url": "https://t.co/KgJhRGvKi6", 
-                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Db5hbS9WAAAZoSE.jpg", 
-                        "id_str": "990336089641582592", 
-                        "sizes": {
-                            "small": {
-                                "h": 132, 
-                                "resize": "fit", 
-                                "w": 250
-                            }, 
-                            "large": {
-                                "h": 132, 
-                                "resize": "fit", 
-                                "w": 250
-                            }, 
-                            "medium": {
-                                "h": 132, 
-                                "resize": "fit", 
-                                "w": 250
-                            }, 
-                            "thumb": {
-                                "h": 132, 
-                                "resize": "crop", 
-                                "w": 132
-                            }
-                        }, 
-                        "indices": [
-                            103, 
-                            126
-                        ], 
-                        "type": "photo", 
-                        "id": 990336089641582592, 
-                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Db5hbS9WAAAZoSE.jpg"
-                    }
-                ], 
+                "Media": "http://pbs.twimg.com/tweet_video_thumb/Db5hbS9WAAAZoSE.jpg", 
                 "TweetLink": "990336096004435968", 
                 "Handle": "DMATBHockeyClub", 
                 "Name": "DirtyMike&TheBoys HC", 
@@ -246,44 +135,7 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "Media": [
-                    {
-                        "expanded_url": "https://twitter.com/LakeEffectXJ/status/990337063122886658/photo/1", 
-                        "display_url": "pic.twitter.com/4bqv6xQ6eC", 
-                        "url": "https://t.co/4bqv6xQ6eC", 
-                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Db5iTbqXUAA9j49.jpg", 
-                        "id_str": "990337054050570240", 
-                        "sizes": {
-                            "small": {
-                                "h": 180, 
-                                "resize": "fit", 
-                                "w": 244
-                            }, 
-                            "large": {
-                                "h": 180, 
-                                "resize": "fit", 
-                                "w": 244
-                            }, 
-                            "medium": {
-                                "h": 180, 
-                                "resize": "fit", 
-                                "w": 244
-                            }, 
-                            "thumb": {
-                                "h": 150, 
-                                "resize": "crop", 
-                                "w": 150
-                            }
-                        }, 
-                        "indices": [
-                            116, 
-                            139
-                        ], 
-                        "type": "photo", 
-                        "id": 990337054050570240, 
-                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Db5iTbqXUAA9j49.jpg"
-                    }
-                ], 
+                "Media": "http://pbs.twimg.com/tweet_video_thumb/Db5iTbqXUAA9j49.jpg", 
                 "TweetLink": "990337063122886658", 
                 "Handle": "LakeEffectXJ", 
                 "Name": "\u2744XJ\u2744", 
@@ -319,44 +171,7 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "Media": [
-                    {
-                        "expanded_url": "https://twitter.com/CharleyBelcher/status/990347500434411521/photo/1", 
-                        "display_url": "pic.twitter.com/spp8hLMP0Y", 
-                        "url": "https://t.co/spp8hLMP0Y", 
-                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Db5rzL5X0AIUmnY.jpg", 
-                        "id_str": "990347495179014146", 
-                        "sizes": {
-                            "small": {
-                                "h": 220, 
-                                "resize": "fit", 
-                                "w": 244
-                            }, 
-                            "large": {
-                                "h": 220, 
-                                "resize": "fit", 
-                                "w": 244
-                            }, 
-                            "medium": {
-                                "h": 220, 
-                                "resize": "fit", 
-                                "w": 244
-                            }, 
-                            "thumb": {
-                                "h": 150, 
-                                "resize": "crop", 
-                                "w": 150
-                            }
-                        }, 
-                        "indices": [
-                            86, 
-                            109
-                        ], 
-                        "type": "photo", 
-                        "id": 990347495179014146, 
-                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Db5rzL5X0AIUmnY.jpg"
-                    }
-                ], 
+                "Media": "http://pbs.twimg.com/tweet_video_thumb/Db5rzL5X0AIUmnY.jpg", 
                 "TweetLink": "990347500434411521", 
                 "Handle": "CharleyBelcher", 
                 "Name": "Charley Belcher FOX", 
@@ -392,44 +207,7 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "Media": [
-                    {
-                        "expanded_url": "https://twitter.com/tbhardon90/status/990347828244369408/photo/1", 
-                        "display_url": "pic.twitter.com/vqIwgheEO7", 
-                        "url": "https://t.co/vqIwgheEO7", 
-                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Db5sGPHVMAASeLz.jpg", 
-                        "id_str": "990347822460383232", 
-                        "sizes": {
-                            "small": {
-                                "h": 198, 
-                                "resize": "fit", 
-                                "w": 266
-                            }, 
-                            "large": {
-                                "h": 198, 
-                                "resize": "fit", 
-                                "w": 266
-                            }, 
-                            "medium": {
-                                "h": 198, 
-                                "resize": "fit", 
-                                "w": 266
-                            }, 
-                            "thumb": {
-                                "h": 150, 
-                                "resize": "crop", 
-                                "w": 150
-                            }
-                        }, 
-                        "indices": [
-                            48, 
-                            71
-                        ], 
-                        "type": "photo", 
-                        "id": 990347822460383232, 
-                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Db5sGPHVMAASeLz.jpg"
-                    }
-                ], 
+                "Media": "http://pbs.twimg.com/tweet_video_thumb/Db5sGPHVMAASeLz.jpg", 
                 "TweetLink": "990347828244369408", 
                 "Handle": "tbhardon90", 
                 "Name": "Official Tom Hardon", 
@@ -465,44 +243,7 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "Media": [
-                    {
-                        "expanded_url": "https://twitter.com/howardstutz/status/990367607009165312/photo/1", 
-                        "display_url": "pic.twitter.com/DV6nDEYwp8", 
-                        "url": "https://t.co/DV6nDEYwp8", 
-                        "media_url_https": "https://pbs.twimg.com/media/Db5-FjQVAAATzq9.jpg", 
-                        "id_str": "990367601896259584", 
-                        "sizes": {
-                            "small": {
-                                "h": 680, 
-                                "resize": "fit", 
-                                "w": 511
-                            }, 
-                            "large": {
-                                "h": 2048, 
-                                "resize": "fit", 
-                                "w": 1538
-                            }, 
-                            "medium": {
-                                "h": 1200, 
-                                "resize": "fit", 
-                                "w": 901
-                            }, 
-                            "thumb": {
-                                "h": 150, 
-                                "resize": "crop", 
-                                "w": 150
-                            }
-                        }, 
-                        "indices": [
-                            79, 
-                            102
-                        ], 
-                        "type": "photo", 
-                        "id": 990367601896259584, 
-                        "media_url": "http://pbs.twimg.com/media/Db5-FjQVAAATzq9.jpg"
-                    }
-                ], 
+                "Media": "http://pbs.twimg.com/media/Db5-FjQVAAATzq9.jpg", 
                 "TweetLink": "990367607009165312", 
                 "Handle": "howardstutz", 
                 "Name": "Howard Stutz", 
