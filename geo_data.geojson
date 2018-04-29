@@ -27,11 +27,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "BarkAndre_Furry", 
+                "Name": "y - Bark-Andr\u00e9 Furry", 
                 "Tweet": "Just a little reminder, It\u2019s Hockey Knight in #Vegas!                                #VegasBorn #GoKnightsGo Watch\u2026 https://t.co/AB7m5CFgLQ", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/989224005126180864/rVHSqPa7_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            46, 
+                            52
+                        ], 
+                        "text": "Vegas"
+                    }, 
+                    {
+                        "indices": [
+                            85, 
+                            95
+                        ], 
+                        "text": "VegasBorn"
+                    }, 
+                    {
+                        "indices": [
+                            96, 
+                            108
+                        ], 
+                        "text": "GoKnightsGo"
+                    }
+                ], 
                 "Place": "Las Vegas", 
-                "User": "BarkAndre_Furry", 
-                "Time": "Sat Apr 28 20:21:45 +0000 2018"
+                "Time": "Sat Apr 28 20:21:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989224005126180864/rVHSqPa7_normal.jpg"
             }
         }, 
         {
@@ -60,11 +84,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "james61_jakub", 
+                "Name": "Jakub Zapletal", 
                 "Tweet": "@pavelkout Pastrnak to dnes p\u011bkn\u011b rozd\u00e1v\u00e1 ty jabl\u00ed\u010dka \ud83c\udf4e\ud83c\udf4e #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/985526440732119040/0Ky4DEfu_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            57, 
+                            68
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "\u010cesk\u00e1 republika", 
-                "User": "james61_jakub", 
-                "Time": "Sat Apr 28 20:22:18 +0000 2018"
+                "Time": "Sat Apr 28 20:22:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985526440732119040/0Ky4DEfu_normal.jpg"
             }
         }, 
         {
@@ -93,11 +127,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
                 "Tweet": "Bruins take a 2-0 lead 42 seconds into the 2nd period as Bergeron finishes a pretty pass from @pastrnak96 . What a\u2026 https://t.co/GmK9al94N8", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Sat Apr 28 20:22:23 +0000 2018"
+                "Time": "Sat Apr 28 20:22:23 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -126,11 +162,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "I doubt that Rask ever saw that shot, and it was deflected, we're up 2-1, we'll get another one, LETS GO BOYS!\u2026 https://t.co/macVeXmxMd", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:24:25 +0000 2018"
+                "Time": "Sat Apr 28 20:24:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -159,11 +197,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "LiamHeslin16", 
+                "Name": "Liam Heslin", 
                 "Tweet": "If Rick Nash was still wearing a Rangers sweater, this tip would have hit the post and bounced out..... https://t.co/pstTIUnxMr", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/721739526671044609/rkDjef7w_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Connecticut", 
-                "User": "LiamHeslin16", 
-                "Time": "Sat Apr 28 20:24:28 +0000 2018"
+                "Time": "Sat Apr 28 20:24:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/721739526671044609/rkDjef7w_normal.jpg"
             }
         }, 
         {
@@ -192,11 +232,56 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "mayaspitalnik", 
+                "Name": "Maya Spitalnik", 
                 "Tweet": "Only former @NYRangers score in the playoffs \ud83d\ude12 #nash #girardi #why \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d #NYR #StanleyCup #NHLPlayoffs", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/972246433914146818/ByVBZKVK_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            47, 
+                            52
+                        ], 
+                        "text": "nash"
+                    }, 
+                    {
+                        "indices": [
+                            53, 
+                            61
+                        ], 
+                        "text": "girardi"
+                    }, 
+                    {
+                        "indices": [
+                            62, 
+                            66
+                        ], 
+                        "text": "why"
+                    }, 
+                    {
+                        "indices": [
+                            71, 
+                            75
+                        ], 
+                        "text": "NYR"
+                    }, 
+                    {
+                        "indices": [
+                            76, 
+                            87
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            88, 
+                            100
+                        ], 
+                        "text": "NHLPlayoffs"
+                    }
+                ], 
                 "Place": "Manhattan", 
-                "User": "mayaspitalnik", 
-                "Time": "Sat Apr 28 20:24:30 +0000 2018"
+                "Time": "Sat Apr 28 20:24:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/972246433914146818/ByVBZKVK_normal.jpg"
             }
         }, 
         {
@@ -225,11 +310,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
                 "Tweet": "Tampa Bay gets on the board at 2:31 of the 2nd period to cut Boston's lead to 2-1. Girardi's shot from the point th\u2026 https://t.co/X9dJFPAF5W", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Sat Apr 28 20:25:36 +0000 2018"
+                "Time": "Sat Apr 28 20:25:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -258,11 +345,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "kyleh919", 
+                "Name": "Kyle Hunter", 
                 "Tweet": "That move by #Pastrnak \ud83d\udc40\ud83d\ude35 https://t.co/OOMfbrdA1Z", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/925418349508550656/WHa1L5yk_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            13, 
+                            22
+                        ], 
+                        "text": "Pastrnak"
+                    }
+                ], 
                 "Place": "San Diego", 
-                "User": "kyleh919", 
-                "Time": "Sat Apr 28 20:25:40 +0000 2018"
+                "Time": "Sat Apr 28 20:25:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/925418349508550656/WHa1L5yk_normal.jpg"
             }
         }, 
         {
@@ -291,11 +388,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "Mondoguitar403", 
+                "Name": "Bryan Leitch", 
                 "Tweet": "Another A+ \u201cultra stunning\u201d HD feed from @Bell_Support this afternoon. @bell #pixelation #Bell #StanleyCup \n\nFix th\u2026 https://t.co/wjcUeqZxKr", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/989156048140255234/4mN5W5C-_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            77, 
+                            88
+                        ], 
+                        "text": "pixelation"
+                    }, 
+                    {
+                        "indices": [
+                            89, 
+                            94
+                        ], 
+                        "text": "Bell"
+                    }, 
+                    {
+                        "indices": [
+                            95, 
+                            106
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Medicine Hat", 
-                "User": "Mondoguitar403", 
-                "Time": "Sat Apr 28 20:26:06 +0000 2018"
+                "Time": "Sat Apr 28 20:26:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989156048140255234/4mN5W5C-_normal.jpg"
             }
         }, 
         {
@@ -324,11 +445,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
                 "Tweet": "1st goal of the playoffs for Girardi; 1st assist for Paquette &amp; 1st assist for Hedman #NHLBruins #Lightning #Game1\u2026 https://t.co/WkJz3C0huX", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            90, 
+                            100
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            101, 
+                            111
+                        ], 
+                        "text": "Lightning"
+                    }, 
+                    {
+                        "indices": [
+                            112, 
+                            118
+                        ], 
+                        "text": "Game1"
+                    }
+                ], 
                 "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Sat Apr 28 20:27:12 +0000 2018"
+                "Time": "Sat Apr 28 20:27:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -357,11 +502,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "CamHasbrouck", 
+                "Name": "Cam Hasbrouck", 
                 "Tweet": "This is flat-out beautiful. #NHLBruins #BOSvsTBL https://t.co/LRludRZ4Qa", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/785988785796444160/3oQugQa9_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            28, 
+                            38
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            39, 
+                            48
+                        ], 
+                        "text": "BOSvsTBL"
+                    }
+                ], 
                 "Place": "Ocean City", 
-                "User": "CamHasbrouck", 
-                "Time": "Sat Apr 28 20:27:47 +0000 2018"
+                "Time": "Sat Apr 28 20:27:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/785988785796444160/3oQugQa9_normal.jpg"
             }
         }, 
         {
@@ -390,11 +552,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "Oh boy if Backes had sniped that one #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            37, 
+                            46
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            47, 
+                            58
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            59, 
+                            69
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            70, 
+                            80
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            81, 
+                            92
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:28:12 +0000 2018"
+                "Time": "Sat Apr 28 20:28:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -423,11 +623,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "Oh we're getting our fair share of odd man rushes #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            50, 
+                            59
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            60, 
+                            71
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            72, 
+                            82
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            83, 
+                            93
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            94, 
+                            105
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:29:57 +0000 2018"
+                "Time": "Sat Apr 28 20:29:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -456,11 +694,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RidinPineShow", 
+                "Name": "Ridin Pine Show", 
                 "Tweet": "\ud83d\udea8\ud83d\udea8 This just in! \ud83d\udea8\ud83d\udea8\n\nlocal podcast goes viral with rendition of NHL draft lottery\n\n#StanleyCup #NHLDraftLottery\n\nhttps://t.co/Zr9NuCmJdy", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/786916350845476864/cA0rjFsL_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            83, 
+                            94
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            95, 
+                            111
+                        ], 
+                        "text": "NHLDraftLottery"
+                    }
+                ], 
                 "Place": "Ottawa", 
-                "User": "RidinPineShow", 
-                "Time": "Sat Apr 28 20:35:51 +0000 2018"
+                "Time": "Sat Apr 28 20:35:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/786916350845476864/cA0rjFsL_normal.jpg"
             }
         }, 
         {
@@ -489,11 +744,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
                 "Tweet": "Wow. Boston was about to get another goal to make it 3-1, but it gets nullified by a cross-check that came half a s\u2026 https://t.co/7W2uT9BcxZ", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Nevada", 
-                "User": "pradiggitydog", 
-                "Time": "Sat Apr 28 20:36:05 +0000 2018"
+                "Time": "Sat Apr 28 20:36:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
             }
         }, 
         {
@@ -522,11 +779,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "AmberDeRose", 
+                "Name": "Amber DeRose \ud83e\udddc\ud83c\udffc\u200d\u2640\ufe0f", 
                 "Tweet": "\u201cNobody panic\u201d? I think she\u2019s confused. \ud83e\udd14 https://t.co/80bi0dlrKp", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/964361731580428288/p22ErNH1_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Sandy", 
-                "User": "AmberDeRose", 
-                "Time": "Sat Apr 28 20:38:50 +0000 2018"
+                "Time": "Sat Apr 28 20:38:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/964361731580428288/p22ErNH1_normal.jpg"
             }
         }, 
         {
@@ -555,11 +814,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "KILLED IT! THERE WE GO BOYS! #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            29, 
+                            38
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            39, 
+                            50
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            51, 
+                            61
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            62, 
+                            72
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            73, 
+                            84
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:39:37 +0000 2018"
+                "Time": "Sat Apr 28 20:39:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -588,11 +885,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "JoeRindiniShow", 
+                "Name": "Joe Rindini", 
                 "Tweet": "Welcome back Ricky Nash. Filthy. #NHLBruins #Bruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/956184332594540544/D0dvZ_HS_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            33, 
+                            43
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            44, 
+                            51
+                        ], 
+                        "text": "Bruins"
+                    }, 
+                    {
+                        "indices": [
+                            52, 
+                            63
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Providence", 
-                "User": "JoeRindiniShow", 
-                "Time": "Sat Apr 28 20:40:28 +0000 2018"
+                "Time": "Sat Apr 28 20:40:28 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/956184332594540544/D0dvZ_HS_normal.jpg"
             }
         }, 
         {
@@ -621,11 +942,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "THE DENIED GOAL DOESNT FUCKING MATTER CAUSE RICK THE DICK #DADDYNASH ABSOLUTELY FUCKING RIPS ONE TOP CHEDDAR AND IT\u2026 https://t.co/6etW9qajIC", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            58, 
+                            68
+                        ], 
+                        "text": "DADDYNASH"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:40:30 +0000 2018"
+                "Time": "Sat Apr 28 20:40:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -654,11 +985,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
                 "Tweet": "Seconds after a successful penalty kill, Boston is able to get a shot to hit the net and it is NOW 3-1. #BOSvsTBL #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            104, 
+                            113
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            114, 
+                            125
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Nevada", 
-                "User": "pradiggitydog", 
-                "Time": "Sat Apr 28 20:40:39 +0000 2018"
+                "Time": "Sat Apr 28 20:40:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
             }
         }, 
         {
@@ -687,11 +1035,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "tbhardon90", 
+                "Name": "Official Tom Hardon", 
                 "Tweet": "Screw your PP, we\u2019ll take that shorty marker. #BOSvsTBL #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/970755097863979009/Hq3y-C9x_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            46, 
+                            55
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            56, 
+                            67
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Gilbert", 
-                "User": "tbhardon90", 
-                "Time": "Sat Apr 28 20:40:49 +0000 2018"
+                "Time": "Sat Apr 28 20:40:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/970755097863979009/Hq3y-C9x_normal.jpg"
             }
         }, 
         {
@@ -720,11 +1085,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "Smokums_", 
+                "Name": "Chuck", 
                 "Tweet": "Another goal for Big Dick Rick. \ud83d\udea8 #NHLBruins #BOSvsTBL #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2670158238/2544a395c160bdc9081c42e0259b1ef5_normal.jpeg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            34, 
+                            44
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            45, 
+                            54
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            55, 
+                            66
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Chantilly", 
-                "User": "Smokums_", 
-                "Time": "Sat Apr 28 20:41:02 +0000 2018"
+                "Time": "Sat Apr 28 20:41:02 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2670158238/2544a395c160bdc9081c42e0259b1ef5_normal.jpeg"
             }
         }, 
         {
@@ -753,11 +1142,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "JulieWeisberg", 
+                "Name": "Julie Weisberg", 
                 "Tweet": "Love me some @NHL playoff hockey!! #BOSvsTB #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/715919418811883524/LAiTvHT6_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            35, 
+                            43
+                        ], 
+                        "text": "BOSvsTB"
+                    }, 
+                    {
+                        "indices": [
+                            44, 
+                            55
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Conklin", 
-                "User": "JulieWeisberg", 
-                "Time": "Sat Apr 28 20:41:19 +0000 2018"
+                "Time": "Sat Apr 28 20:41:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/715919418811883524/LAiTvHT6_normal.jpg"
             }
         }, 
         {
@@ -786,11 +1192,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "I LOVE RICK NASH SO MUCH #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup https://t.co/toELn2DHoj", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            25, 
+                            34
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            35, 
+                            46
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            47, 
+                            57
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            58, 
+                            68
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            80
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:41:19 +0000 2018"
+                "Time": "Sat Apr 28 20:41:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -819,11 +1263,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
                 "Tweet": "Rick Nash says hello, what a snipe that hits the post, rattles around the net then pops out in the blink of an eye.\u2026 https://t.co/aYhtG3iTLO", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Sat Apr 28 20:42:17 +0000 2018"
+                "Time": "Sat Apr 28 20:42:17 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -852,11 +1298,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "HDStGermain", 
+                "Name": "Harrison", 
                 "Tweet": "This is exactly the type of game that Rick Nash needed. #NHLBruins #BOSvsTBL #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/641370676188848128/7rSkioCH_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            56, 
+                            66
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            67, 
+                            76
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            77, 
+                            88
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Virginia", 
-                "User": "HDStGermain", 
-                "Time": "Sat Apr 28 20:43:01 +0000 2018"
+                "Time": "Sat Apr 28 20:43:01 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/641370676188848128/7rSkioCH_normal.jpg"
             }
         }, 
         {
@@ -885,11 +1355,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
                 "Tweet": "Another penalty against the Bruins and the Lightning are right back on the power play. #BOSvsTBL #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            87, 
+                            96
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            97, 
+                            108
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Nevada", 
-                "User": "pradiggitydog", 
-                "Time": "Sat Apr 28 20:43:26 +0000 2018"
+                "Time": "Sat Apr 28 20:43:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
             }
         }, 
         {
@@ -918,11 +1405,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
                 "Tweet": "3rd goal of the playoffs for Rick Nash (2nd today); 7th assist for Krejci &amp; 11th assist for @pastrnak96 (3rd today)\u2026 https://t.co/r3jJQg2Opj", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Sat Apr 28 20:43:29 +0000 2018"
+                "Time": "Sat Apr 28 20:43:29 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -951,11 +1440,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "Afam0227", 
+                "Name": "alexa", 
                 "Tweet": "Ain\u2019t nobody fighting for the #StanleyCup more than my @NHLBruins ! LETS GOOOO #NHLBRUINS", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988975290172018688/s-DfoJ_U_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            30, 
+                            41
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            79, 
+                            89
+                        ], 
+                        "text": "NHLBRUINS"
+                    }
+                ], 
                 "Place": "San Antonio", 
-                "User": "Afam0227", 
-                "Time": "Sat Apr 28 20:43:46 +0000 2018"
+                "Time": "Sat Apr 28 20:43:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988975290172018688/s-DfoJ_U_normal.jpg"
             }
         }, 
         {
@@ -984,11 +1490,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "kyleh919", 
+                "Name": "Kyle Hunter", 
                 "Tweet": "\ud83e\uddc0\ud83e\uddc0\ud83e\uddc0 https://t.co/ez181Sv5Hx", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/925418349508550656/WHa1L5yk_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "San Diego", 
-                "User": "kyleh919", 
-                "Time": "Sat Apr 28 20:43:51 +0000 2018"
+                "Time": "Sat Apr 28 20:43:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/925418349508550656/WHa1L5yk_normal.jpg"
             }
         }, 
         {
@@ -1017,11 +1525,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RockCity3", 
+                "Name": "Marlon Rock", 
                 "Tweet": "I miss BDR \ud83d\ude22 https://t.co/KHMj4aPssh", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/920841414082203648/rWDN7noA_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Ridgefield Park", 
-                "User": "RockCity3", 
-                "Time": "Sat Apr 28 20:44:08 +0000 2018"
+                "Time": "Sat Apr 28 20:44:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920841414082203648/rWDN7noA_normal.jpg"
             }
         }, 
         {
@@ -1050,11 +1560,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "That can't count can it? #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            25, 
+                            34
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            35, 
+                            46
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            47, 
+                            57
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            58, 
+                            68
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            80
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:44:16 +0000 2018"
+                "Time": "Sat Apr 28 20:44:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -1083,11 +1631,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bluedevilinhou", 
+                "Name": "David Piccirilli", 
                 "Tweet": "So much for that \u201cnew equipment\u201d Rask.  #Lightning #StanleyCup #Bruins", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/981998191632633856/5G9AjO1P_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            40, 
+                            50
+                        ], 
+                        "text": "Lightning"
+                    }, 
+                    {
+                        "indices": [
+                            51, 
+                            62
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            63, 
+                            70
+                        ], 
+                        "text": "Bruins"
+                    }
+                ], 
                 "Place": "Houston", 
-                "User": "bluedevilinhou", 
-                "Time": "Sat Apr 28 20:45:40 +0000 2018"
+                "Time": "Sat Apr 28 20:45:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981998191632633856/5G9AjO1P_normal.jpg"
             }
         }, 
         {
@@ -1116,11 +1688,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "Berra1994", 
+                "Name": "Jonathan Berglund", 
                 "Tweet": "J\u00f6sses. Rask r\u00e4ddar en puck men tappar skenan. Kan inte r\u00f6ra sig i m\u00e5let. D\u00e4refter reducerar Tampa, 2-3! #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/980427403024617472/wpfTfuds_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            105, 
+                            116
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Pite\u00e5", 
-                "User": "Berra1994", 
-                "Time": "Sat Apr 28 20:45:54 +0000 2018"
+                "Time": "Sat Apr 28 20:45:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980427403024617472/wpfTfuds_normal.jpg"
             }
         }, 
         {
@@ -1149,11 +1731,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "I know that goal is gonna count and that's fine, but the refs shoulda blown the whistle as his BLADE CAME OFF HIS S\u2026 https://t.co/sen546uWDy", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:45:57 +0000 2018"
+                "Time": "Sat Apr 28 20:45:57 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -1182,11 +1766,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "tbhardon90", 
+                "Name": "Official Tom Hardon", 
                 "Tweet": "I\u2019m no expert, but I think we just got hosed on that sequence. #BOSvsTBL  #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/970755097863979009/Hq3y-C9x_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            63, 
+                            72
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            74, 
+                            85
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Gilbert", 
-                "User": "tbhardon90", 
-                "Time": "Sat Apr 28 20:46:36 +0000 2018"
+                "Time": "Sat Apr 28 20:46:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/970755097863979009/Hq3y-C9x_normal.jpg"
             }
         }, 
         {
@@ -1215,11 +1816,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "Rask did absolutely everything he could've to get the refs attention on that and they just completely ignored him\u2026 https://t.co/sIZ087SuVd", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:46:45 +0000 2018"
+                "Time": "Sat Apr 28 20:46:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -1248,11 +1851,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
                 "Tweet": "Sergachev shoots and scores for the Lightning on the PP, and it is now 3-2! The only problem for Boston is that the\u2026 https://t.co/MhEZEWMBe7", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Nevada", 
-                "User": "pradiggitydog", 
-                "Time": "Sat Apr 28 20:46:46 +0000 2018"
+                "Time": "Sat Apr 28 20:46:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
             }
         }, 
         {
@@ -1281,11 +1886,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "JoeRindiniShow", 
+                "Name": "Joe Rindini", 
                 "Tweet": "How does that count?  How was Rask supposed to save it with one skate? #Bruins #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/956184332594540544/D0dvZ_HS_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            71, 
+                            78
+                        ], 
+                        "text": "Bruins"
+                    }, 
+                    {
+                        "indices": [
+                            79, 
+                            89
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            90, 
+                            101
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Providence", 
-                "User": "JoeRindiniShow", 
-                "Time": "Sat Apr 28 20:47:11 +0000 2018"
+                "Time": "Sat Apr 28 20:47:11 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/956184332594540544/D0dvZ_HS_normal.jpg"
             }
         }, 
         {
@@ -1314,11 +1943,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "brianfink", 
+                "Name": "Brian Fink", 
                 "Tweet": "Thank God for @970wfla! Able to listen to the @TBLightning game on the way to work. \ud83d\ude4c\ud83c\udffc\ud83c\udfd2 #GoBolts #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/756871246172844032/OZPTxR_L_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            88, 
+                            96
+                        ], 
+                        "text": "GoBolts"
+                    }, 
+                    {
+                        "indices": [
+                            97, 
+                            108
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Florida", 
-                "User": "brianfink", 
-                "Time": "Sat Apr 28 20:48:18 +0000 2018"
+                "Time": "Sat Apr 28 20:48:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/756871246172844032/OZPTxR_L_normal.jpg"
             }
         }, 
         {
@@ -1347,11 +1993,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "HIDE YO MILK CRATES #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            20, 
+                            29
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            30, 
+                            41
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            42, 
+                            52
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            53, 
+                            63
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            64, 
+                            75
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:48:22 +0000 2018"
+                "Time": "Sat Apr 28 20:48:22 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -1380,11 +2064,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "LarryMobile", 
+                "Name": "Larry Birdie", 
                 "Tweet": "That is some bullshit... and oh... O'Halloran and Brad Meier are involved. Surprise surprise #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/907781323988897792/EWTjOs5L_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            93, 
+                            104
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Upper Arlington", 
-                "User": "LarryMobile", 
-                "Time": "Sat Apr 28 20:48:26 +0000 2018"
+                "Time": "Sat Apr 28 20:48:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/907781323988897792/EWTjOs5L_normal.jpg"
             }
         }, 
         {
@@ -1413,11 +2107,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
                 "Tweet": "What a bizarre play that ends up in Tampa Bay's favor. 2nd goal of the playoffs for Sergachev; 3rd assist for Point\u2026 https://t.co/DGyHsm6Sq4", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Sat Apr 28 20:48:30 +0000 2018"
+                "Time": "Sat Apr 28 20:48:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -1446,11 +2142,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "Prestonnorm", 
+                "Name": "Baby Buff", 
                 "Tweet": "@BradyTrett Tukka shake that helmet off. You control play...rookie mistake \ud83c\udfd2\ud83e\udd45 #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/939687942481686528/OXGXxety_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            78, 
+                            89
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Chicago", 
-                "User": "Prestonnorm", 
-                "Time": "Sat Apr 28 20:50:26 +0000 2018"
+                "Time": "Sat Apr 28 20:50:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/939687942481686528/OXGXxety_normal.jpg"
             }
         }, 
         {
@@ -1479,11 +2185,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "Regardless of that unfortunate circumstance, the Bruins are absolutely RIPPING SNIPES today (even if one didn't cou\u2026 https://t.co/sqtCrdhuJt", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:50:52 +0000 2018"
+                "Time": "Sat Apr 28 20:50:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -1512,11 +2220,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "WOW THAT WAS NOT A PENALTY ON DEBRUSK LMAO WHAT ARE THESE REFS #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            63, 
+                            72
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            73, 
+                            84
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            85, 
+                            95
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            96, 
+                            106
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            107, 
+                            118
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:51:46 +0000 2018"
+                "Time": "Sat Apr 28 20:51:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -1545,11 +2291,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "Gotta love Marchy #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            18, 
+                            27
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            28, 
+                            39
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            40, 
+                            50
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            51, 
+                            61
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            62, 
+                            73
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:52:43 +0000 2018"
+                "Time": "Sat Apr 28 20:52:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -1578,11 +2362,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "EllenDoig", 
+                "Name": "Ellen", 
                 "Tweet": "@paul_doig https://t.co/lHXakWP4RQ", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/961664452616650753/lLeXQDnl_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Virginia", 
-                "User": "EllenDoig", 
-                "Time": "Sat Apr 28 20:54:25 +0000 2018"
+                "Time": "Sat Apr 28 20:54:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/961664452616650753/lLeXQDnl_normal.jpg"
             }
         }, 
         {
@@ -1611,11 +2397,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "jbhiggins", 
+                "Name": "Joy Higgins", 
                 "Tweet": "Let\u2019s go Bruins! #StanleyCup #boston #Bruins", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/786367983207579649/39m5fsXT_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            17, 
+                            28
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            29, 
+                            36
+                        ], 
+                        "text": "boston"
+                    }, 
+                    {
+                        "indices": [
+                            37, 
+                            44
+                        ], 
+                        "text": "Bruins"
+                    }
+                ], 
                 "Place": "Texas", 
-                "User": "jbhiggins", 
-                "Time": "Sat Apr 28 20:56:33 +0000 2018"
+                "Time": "Sat Apr 28 20:56:33 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/786367983207579649/39m5fsXT_normal.jpg"
             }
         }, 
         {
@@ -1644,11 +2454,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "TUUUUUUUUUUUUUUUKK! OH BOI THIS IS AN INTENSE END TO THE 2ND #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            61, 
+                            70
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            71, 
+                            82
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            83, 
+                            93
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            94, 
+                            104
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            105, 
+                            116
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 20:57:43 +0000 2018"
+                "Time": "Sat Apr 28 20:57:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -1677,11 +2525,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
                 "Tweet": "Great save by @tuukkarask to slide across to stop Palat's shot, he's been the better goaltender so far in Game 1\u2026 https://t.co/SxOmjKyLd5", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Sat Apr 28 20:58:30 +0000 2018"
+                "Time": "Sat Apr 28 20:58:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -1710,11 +2560,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "Woulda been nice to be up 2 (or maybe 3) after that 2nd, we're up 3-2, we can close this out in the 3rd. Bruins D h\u2026 https://t.co/2JMp8k7D3v", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:00:48 +0000 2018"
+                "Time": "Sat Apr 28 21:00:48 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -1743,11 +2595,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "MissRhiana", 
+                "Name": "Rhiana Romanowski", 
                 "Tweet": "Let\u2019s go Bruins \ud83d\ude4c\ud83c\udffb https://t.co/HcgWpg9iJt", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/974380007081390080/sFVL5P4u_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "San Mateo", 
-                "User": "MissRhiana", 
-                "Time": "Sat Apr 28 21:00:56 +0000 2018"
+                "Time": "Sat Apr 28 21:00:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/974380007081390080/sFVL5P4u_normal.jpg"
             }
         }, 
         {
@@ -1776,11 +2630,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "Gimmeabud", 
+                "Name": "tim sirianni", 
                 "Tweet": "Tuka Rask  loses his shit!.Very funny. Just like Trump. https://t.co/jOY0I2kyRw", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/416390670577053696/cBkS3YMh_normal.jpeg", 
+                "TweetLink": [], 
                 "Place": "Niagara Falls", 
-                "User": "Gimmeabud", 
-                "Time": "Sat Apr 28 21:01:45 +0000 2018"
+                "Time": "Sat Apr 28 21:01:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/416390670577053696/cBkS3YMh_normal.jpeg"
             }
         }, 
         {
@@ -1809,11 +2665,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
                 "Tweet": "after 2 back-and-forth periods Amalie Arena: @NHLBruins 3, @TBLightning 2. Tampa Bay has outshot Boston 25-18 (14-5\u2026 https://t.co/CMaFjRY9vW", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Sat Apr 28 21:02:08 +0000 2018"
+                "Time": "Sat Apr 28 21:02:08 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -1842,11 +2700,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "KristopherRos16", 
+                "Name": "Kristopher Roseboro", 
                 "Tweet": "#FoodForThought #StanleyCup https://t.co/YFP40tBJ2R", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/978786212508037120/pyYkASs3_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            0, 
+                            15
+                        ], 
+                        "text": "FoodForThought"
+                    }, 
+                    {
+                        "indices": [
+                            16, 
+                            27
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Buffalo", 
-                "User": "KristopherRos16", 
-                "Time": "Sat Apr 28 21:04:27 +0000 2018"
+                "Time": "Sat Apr 28 21:04:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/978786212508037120/pyYkASs3_normal.jpg"
             }
         }, 
         {
@@ -1875,11 +2750,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "LarryMobile", 
+                "Name": "Larry Birdie", 
                 "Tweet": "Then it's a dumb ass rule #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/907781323988897792/EWTjOs5L_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            26, 
+                            37
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Upper Arlington", 
-                "User": "LarryMobile", 
-                "Time": "Sat Apr 28 21:04:47 +0000 2018"
+                "Time": "Sat Apr 28 21:04:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/907781323988897792/EWTjOs5L_normal.jpg"
             }
         }, 
         {
@@ -1908,11 +2793,42 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "DMATBHockeyClub", 
+                "Name": "DirtyMike&TheBoys HC", 
                 "Tweet": "@jamesbomb69 @Bmarch63 We didn\u2019t see anything ...... #TeamFlorida #GoBolts #StanleyCup #BOSvsTBL \ud83c\udfd2\ud83c\udf34\u2600\ufe0f\ud83d\ude97 https://t.co/KgJhRGvKi6", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/959915699874488320/f4vdgBjA_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            53, 
+                            65
+                        ], 
+                        "text": "TeamFlorida"
+                    }, 
+                    {
+                        "indices": [
+                            66, 
+                            74
+                        ], 
+                        "text": "GoBolts"
+                    }, 
+                    {
+                        "indices": [
+                            75, 
+                            86
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            87, 
+                            96
+                        ], 
+                        "text": "BOSvsTBL"
+                    }
+                ], 
                 "Place": "Florida", 
-                "User": "DMATBHockeyClub", 
-                "Time": "Sat Apr 28 21:04:59 +0000 2018"
+                "Time": "Sat Apr 28 21:04:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/959915699874488320/f4vdgBjA_normal.jpg"
             }
         }, 
         {
@@ -1941,11 +2857,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
                 "Tweet": "I am certainly pumped to see the third period. After the second, the Bruins still lead the Lightning 3-2 but it mak\u2026 https://t.co/VdNrvue1Xz", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Nevada", 
-                "User": "pradiggitydog", 
-                "Time": "Sat Apr 28 21:05:52 +0000 2018"
+                "Time": "Sat Apr 28 21:05:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
             }
         }, 
         {
@@ -1974,11 +2892,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "PStrizhevskyNHL", 
+                "Name": "Paul Strizhevsky", 
                 "Tweet": "\u041f\u043e\u0432\u0435\u0441\u0442\u0438 2:0 \u0438 \u043d\u0435 \u043f\u0440\u043e\u0438\u0433\u0440\u0430\u0442\u044c.  #\u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d \u0432 \u043f\u043e\u0438\u0441\u043a\u0435 \u043f\u043e\u0431\u0435\u0434\u043d\u043e\u0433\u043e \u0440\u0435\u0446\u0435\u043f\u0442\u0430. https://t.co/RJavV83dTj via @NHL #StanleyCup #WSHvsPIT @NHLrussia", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/920378401927639041/TiRUZg_6_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            29, 
+                            39
+                        ], 
+                        "text": "\u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d"
+                    }, 
+                    {
+                        "indices": [
+                            101, 
+                            112
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            113, 
+                            122
+                        ], 
+                        "text": "WSHvsPIT"
+                    }
+                ], 
                 "Place": "Dunwoody", 
-                "User": "PStrizhevskyNHL", 
-                "Time": "Sat Apr 28 21:06:27 +0000 2018"
+                "Time": "Sat Apr 28 21:06:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920378401927639041/TiRUZg_6_normal.jpg"
             }
         }, 
         {
@@ -2007,11 +2949,42 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "nolegsmike", 
+                "Name": "Michael Rich", 
                 "Tweet": "@TBLightning I\u2019m gonna have a heart attack from this game but what a way to go !! #StanleyCup #Playoffs #GoBolts #Round2Game1", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/989223287661256705/gHn4KwJS_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            82, 
+                            93
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            94, 
+                            103
+                        ], 
+                        "text": "Playoffs"
+                    }, 
+                    {
+                        "indices": [
+                            104, 
+                            112
+                        ], 
+                        "text": "GoBolts"
+                    }, 
+                    {
+                        "indices": [
+                            113, 
+                            125
+                        ], 
+                        "text": "Round2Game1"
+                    }
+                ], 
                 "Place": "St Petersburg", 
-                "User": "nolegsmike", 
-                "Time": "Sat Apr 28 21:06:44 +0000 2018"
+                "Time": "Sat Apr 28 21:06:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989223287661256705/gHn4KwJS_normal.jpg"
             }
         }, 
         {
@@ -2040,11 +3013,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "chavez66", 
+                "Name": "Kim Chavez", 
                 "Tweet": "This is my friend &amp; Conch Republic Krewe mate, Adam Trainor. He is working his part time gig at @floridaaquarium to\u2026 https://t.co/K27ppl6LqL", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/984220313314648064/nJk2yBAA_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Lutz", 
-                "User": "chavez66", 
-                "Time": "Sat Apr 28 21:07:37 +0000 2018"
+                "Time": "Sat Apr 28 21:07:37 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/984220313314648064/nJk2yBAA_normal.jpg"
             }
         }, 
         {
@@ -2073,11 +3048,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "cleangene3", 
+                "Name": "gene vestal", 
                 "Tweet": "The most bizarre moment I've seen in watching the #StanleyCup playoffs. I love it when he throws the broken object\u2026 https://t.co/nwYLIhay0q", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/915811811626291200/XLj15wUU_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            50, 
+                            61
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Smyrna", 
-                "User": "cleangene3", 
-                "Time": "Sat Apr 28 21:08:44 +0000 2018"
+                "Time": "Sat Apr 28 21:08:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/915811811626291200/XLj15wUU_normal.jpg"
             }
         }, 
         {
@@ -2106,11 +3091,42 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "LakeEffectXJ", 
+                "Name": "\u2744XJ\u2744", 
                 "Tweet": "Keith Jones just said Brad Marchand plays with a lot of inteligence on #NBC. WHAT\n\n#StanleyCup #Bruins #TBLightning https://t.co/4bqv6xQ6eC", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/876830299149217793/BRz8eajg_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            71, 
+                            75
+                        ], 
+                        "text": "NBC"
+                    }, 
+                    {
+                        "indices": [
+                            83, 
+                            94
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            95, 
+                            102
+                        ], 
+                        "text": "Bruins"
+                    }, 
+                    {
+                        "indices": [
+                            103, 
+                            115
+                        ], 
+                        "text": "TBLightning"
+                    }
+                ], 
                 "Place": "West Seneca", 
-                "User": "LakeEffectXJ", 
-                "Time": "Sat Apr 28 21:08:50 +0000 2018"
+                "Time": "Sat Apr 28 21:08:50 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/876830299149217793/BRz8eajg_normal.jpg"
             }
         }, 
         {
@@ -2139,11 +3155,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "Pizza and Bruins playoff hockey, doesn't get better than that #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            62, 
+                            71
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            72, 
+                            83
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            84, 
+                            94
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            95, 
+                            105
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            106, 
+                            117
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:09:07 +0000 2018"
+                "Time": "Sat Apr 28 21:09:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -2172,11 +3226,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "And white Monster, of course https://t.co/iQwPTzGj7B", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:10:40 +0000 2018"
+                "Time": "Sat Apr 28 21:10:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -2205,11 +3261,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "james61_jakub", 
+                "Name": "Jakub Zapletal", 
                 "Tweet": "@NHLBruins 3 \ud83c\udf4e\ud83c\udf4e\ud83c\udf4e for \ud83c\udf5d #Czechpasta #StanleyCup #NHLBruins", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/985526440732119040/0Ky4DEfu_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            23, 
+                            34
+                        ], 
+                        "text": "Czechpasta"
+                    }, 
+                    {
+                        "indices": [
+                            35, 
+                            46
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            47, 
+                            57
+                        ], 
+                        "text": "NHLBruins"
+                    }
+                ], 
                 "Place": "V\u00edcov", 
-                "User": "james61_jakub", 
-                "Time": "Sat Apr 28 21:11:41 +0000 2018"
+                "Time": "Sat Apr 28 21:11:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985526440732119040/0Ky4DEfu_normal.jpg"
             }
         }, 
         {
@@ -2238,11 +3318,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "tpiper7770", 
+                "Name": "Tim", 
                 "Tweet": "The objective is clear: Don't just put pucks on net, knock the net minder's blades off #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/874407961795244034/xOJBmwpI_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            87, 
+                            98
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "California", 
-                "User": "tpiper7770", 
-                "Time": "Sat Apr 28 21:12:01 +0000 2018"
+                "Time": "Sat Apr 28 21:12:01 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/874407961795244034/xOJBmwpI_normal.jpg"
             }
         }, 
         {
@@ -2271,11 +3361,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "james61_jakub", 
+                "Name": "Jakub Zapletal", 
                 "Tweet": "@Michal_68 To jsou emoce je to #StanleyCup playoffs. Prost\u011b cht\u011bl to zkusit no, ka\u017ed\u00fd ud\u011bl\u00e1 v\u0161echno proto aby nedostal jeho t\u00fdm gol...", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/985526440732119040/0Ky4DEfu_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            31, 
+                            42
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "\u010cesk\u00e1 republika", 
-                "User": "james61_jakub", 
-                "Time": "Sat Apr 28 21:14:04 +0000 2018"
+                "Time": "Sat Apr 28 21:14:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985526440732119040/0Ky4DEfu_normal.jpg"
             }
         }, 
         {
@@ -2304,11 +3404,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "cokeman777", 
+                "Name": "virgil glaser", 
                 "Tweet": "End of 2 in Tampa, disallowed goal, a goal when #Rask was disabled. Bad for my mind and too think I could have been\u2026 https://t.co/DegracDyuy", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1460201833/6036268_1__normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            48, 
+                            53
+                        ], 
+                        "text": "Rask"
+                    }
+                ], 
                 "Place": "Montgomery", 
-                "User": "cokeman777", 
-                "Time": "Sat Apr 28 21:15:59 +0000 2018"
+                "Time": "Sat Apr 28 21:15:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1460201833/6036268_1__normal.jpg"
             }
         }, 
         {
@@ -2337,11 +3447,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "brianfink", 
+                "Name": "Brian Fink", 
                 "Tweet": ".@DaveMishkin is not human. I don\u2019t know how he does it. \ud83e\udd16 #GoBolts #StanleyCup @TBLightning https://t.co/RgmNthI0H2", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/756871246172844032/OZPTxR_L_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            59, 
+                            67
+                        ], 
+                        "text": "GoBolts"
+                    }, 
+                    {
+                        "indices": [
+                            68, 
+                            79
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Tampa", 
-                "User": "brianfink", 
-                "Time": "Sat Apr 28 21:16:45 +0000 2018"
+                "Time": "Sat Apr 28 21:16:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/756871246172844032/OZPTxR_L_normal.jpg"
             }
         }, 
         {
@@ -2370,11 +3497,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "3RD PERIOD HERE WE GO LETS CLOSE THIS ONE OUT BOYS! #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            52, 
+                            61
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            62, 
+                            73
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            74, 
+                            84
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            85, 
+                            95
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            96, 
+                            107
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:17:55 +0000 2018"
+                "Time": "Sat Apr 28 21:17:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -2403,11 +3568,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "Don't think the Bolts wanna go with McQuaid #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            44, 
+                            53
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            54, 
+                            65
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            66, 
+                            76
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            77, 
+                            87
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            88, 
+                            99
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:18:26 +0000 2018"
+                "Time": "Sat Apr 28 21:18:26 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -2436,11 +3639,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "I despise Dan O'Hallaran #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            25, 
+                            34
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            35, 
+                            46
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            47, 
+                            57
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            58, 
+                            68
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            80
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:21:05 +0000 2018"
+                "Time": "Sat Apr 28 21:21:05 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -2469,11 +3710,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "Oh hey Tampa, don't fuck with Tuukks, remember what happened last time ya got in his face? #BOSvsTBL #InOurBlood\u2026 https://t.co/Fqlb598O68", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            91, 
+                            100
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            101, 
+                            112
+                        ], 
+                        "text": "InOurBlood"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:21:36 +0000 2018"
+                "Time": "Sat Apr 28 21:21:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -2502,11 +3760,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "THE TOP LINE IS ABSOLUTELY RELENTLESS IN THE ZONE AND MARCHY DEFLECTS THE SLAPPER FROM MCAVOY AND THEY CANT TAKE TH\u2026 https://t.co/ckMdOD4HFI", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:24:43 +0000 2018"
+                "Time": "Sat Apr 28 21:24:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -2535,11 +3795,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
                 "Tweet": "Marchand with a deflection from McAvoy that goes in! Boston is back up by 2! Score: 4-2\n\n#BOSvsTBL #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            89, 
+                            98
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            99, 
+                            110
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Nevada", 
-                "User": "pradiggitydog", 
-                "Time": "Sat Apr 28 21:24:45 +0000 2018"
+                "Time": "Sat Apr 28 21:24:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
             }
         }, 
         {
@@ -2568,11 +3845,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "BillyD16", 
+                "Name": "billyd16", 
                 "Tweet": "\ud83d\udc43 killah #StanleyCup #NHLBruins", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/953046544802107392/YkwhjXzL_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            9, 
+                            20
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            21, 
+                            31
+                        ], 
+                        "text": "NHLBruins"
+                    }
+                ], 
                 "Place": "Weymouth", 
-                "User": "BillyD16", 
-                "Time": "Sat Apr 28 21:24:47 +0000 2018"
+                "Time": "Sat Apr 28 21:24:47 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/953046544802107392/YkwhjXzL_normal.jpg"
             }
         }, 
         {
@@ -2601,11 +3895,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "james61_jakub", 
+                "Name": "Jakub Zapletal", 
                 "Tweet": "Pasta \ud83c\udf4e\ud83c\udf4e\ud83c\udf4e\ud83c\udf4e #CzechPasta\ud83c\udf5d #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/985526440732119040/0Ky4DEfu_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            11, 
+                            22
+                        ], 
+                        "text": "CzechPasta"
+                    }, 
+                    {
+                        "indices": [
+                            24, 
+                            34
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            35, 
+                            46
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "\u010cesk\u00e1 republika", 
-                "User": "james61_jakub", 
-                "Time": "Sat Apr 28 21:24:58 +0000 2018"
+                "Time": "Sat Apr 28 21:24:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985526440732119040/0Ky4DEfu_normal.jpg"
             }
         }, 
         {
@@ -2634,11 +3952,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "esanclem22", 
+                "Name": "Emily Shelton", 
                 "Tweet": "My man #stanleycup #NHLBruins", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/775937287074963456/JijDCXvw_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            7, 
+                            18
+                        ], 
+                        "text": "stanleycup"
+                    }, 
+                    {
+                        "indices": [
+                            19, 
+                            29
+                        ], 
+                        "text": "NHLBruins"
+                    }
+                ], 
                 "Place": "Cleveland Heights", 
-                "User": "esanclem22", 
-                "Time": "Sat Apr 28 21:25:10 +0000 2018"
+                "Time": "Sat Apr 28 21:25:10 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/775937287074963456/JijDCXvw_normal.jpg"
             }
         }, 
         {
@@ -2667,11 +4002,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "Airunh23", 
+                "Name": "John Joyce", 
                 "Tweet": "This needs to be reexamined! https://t.co/LXziCQT5an", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1742254807/image_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "New Hampshire", 
-                "User": "Airunh23", 
-                "Time": "Sat Apr 28 21:25:27 +0000 2018"
+                "Time": "Sat Apr 28 21:25:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1742254807/image_normal.jpg"
             }
         }, 
         {
@@ -2700,11 +4037,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RochieWBZ", 
+                "Name": "Dan Roche", 
                 "Tweet": "Huge goal by #NHLBruins and what a heads up play by @CMcAvoy44 with the shot/pass to @Bmarch63 for the redirect Hom\u2026 https://t.co/mDYKHvv09q", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/962150232359407616/bnoTxAHL_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            13, 
+                            23
+                        ], 
+                        "text": "NHLBruins"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "RochieWBZ", 
-                "Time": "Sat Apr 28 21:25:58 +0000 2018"
+                "Time": "Sat Apr 28 21:25:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/962150232359407616/bnoTxAHL_normal.jpg"
             }
         }, 
         {
@@ -2733,11 +4080,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
                 "Tweet": "4th goal of the playoffs for @Bmarch63 (2nd point today); 2nd assist for @CMcAvoy44 #NHLBruins #Lightning\u2026 https://t.co/LwlfIhhOpm", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            84, 
+                            94
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            95, 
+                            105
+                        ], 
+                        "text": "Lightning"
+                    }
+                ], 
                 "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Sat Apr 28 21:26:39 +0000 2018"
+                "Time": "Sat Apr 28 21:26:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -2766,11 +4130,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "JAKE DEBRUSK IS A FUCKING WARRIOR! TAKES THE HIT! BLOCKS THE SHOT! GETS THE PUCK OUT! ABSOLUTE WARRIOR!\n\nHEART OF A\u2026 https://t.co/f0tYoUUUa3", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:27:46 +0000 2018"
+                "Time": "Sat Apr 28 21:27:46 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -2799,11 +4165,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "CamHasbrouck", 
+                "Name": "Cam Hasbrouck", 
                 "Tweet": "Well played, social media person. https://t.co/VB3Ksl28UN", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/785988785796444160/3oQugQa9_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Ocean City", 
-                "User": "CamHasbrouck", 
-                "Time": "Sat Apr 28 21:28:25 +0000 2018"
+                "Time": "Sat Apr 28 21:28:25 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/785988785796444160/3oQugQa9_normal.jpg"
             }
         }, 
         {
@@ -2832,11 +4200,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "TUUKKA IS ON IT TONIGHT #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            24, 
+                            33
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            34, 
+                            45
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            46, 
+                            56
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            57, 
+                            67
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            68, 
+                            79
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:29:12 +0000 2018"
+                "Time": "Sat Apr 28 21:29:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -2865,11 +4271,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "AdamG1984", 
+                "Name": "Adam MaXXweL", 
                 "Tweet": "The @TBLightning are putting on a clinic in how pick possession and cute passing can be totally meaningless in hock\u2026 https://t.co/0G2U3MpqKk", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/953343277289299968/1AIHs6WN_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Seattle", 
-                "User": "AdamG1984", 
-                "Time": "Sat Apr 28 21:29:14 +0000 2018"
+                "Time": "Sat Apr 28 21:29:14 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/953343277289299968/1AIHs6WN_normal.jpg"
             }
         }, 
         {
@@ -2898,11 +4306,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "Jake DeBrusk is the epitome of the Boston Bruins and the city of Boston rn, coming up HUGE in clutch moments in gam\u2026 https://t.co/v1A48Ffzrc", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:32:20 +0000 2018"
+                "Time": "Sat Apr 28 21:32:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -2931,11 +4341,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "BenjaminAubert", 
+                "Name": "Benjamin Aubert", 
                 "Tweet": "\u00c7a me semble assez clair. Les officiels n\u2019auraient pas d\u00fb tol\u00e9rer la r\u00e9action de Rask qui a lanc\u00e9 sa lame en enguir\u2026 https://t.co/xn53NgTAIh", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/947352434707451904/2JEukKfd_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Qu\u00e9bec", 
-                "User": "BenjaminAubert", 
-                "Time": "Sat Apr 28 21:34:00 +0000 2018"
+                "Time": "Sat Apr 28 21:34:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/947352434707451904/2JEukKfd_normal.jpg"
             }
         }, 
         {
@@ -2964,11 +4376,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "Astone_112", 
+                "Name": "Drew \ud83c\udfd2\u26be\ud83c\udfc8\u26bd\ufe0f", 
                 "Tweet": "Bergeron with the green beret sniiiipe #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/922484507583885312/GvsO_j1__normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            39, 
+                            50
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Georgia", 
-                "User": "Astone_112", 
-                "Time": "Sat Apr 28 21:34:30 +0000 2018"
+                "Time": "Sat Apr 28 21:34:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/922484507583885312/GvsO_j1__normal.jpg"
             }
         }, 
         {
@@ -2997,11 +4419,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "mike47725919", 
+                "Name": "Mike DeSorbo", 
                 "Tweet": "That top line of Boston this playoffs... geezus.. #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/989693229691031552/wH21GwbF_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            50, 
+                            61
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "North Carolina", 
-                "User": "mike47725919", 
-                "Time": "Sat Apr 28 21:34:55 +0000 2018"
+                "Time": "Sat Apr 28 21:34:55 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989693229691031552/wH21GwbF_normal.jpg"
             }
         }, 
         {
@@ -3030,11 +4462,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
                 "Tweet": "It\u2019s Bergeron with a shot and it goes in!!! 5-2 Bruins lead!! #BOSvsTBL #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            62, 
+                            71
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            72, 
+                            83
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Nevada", 
-                "User": "pradiggitydog", 
-                "Time": "Sat Apr 28 21:35:21 +0000 2018"
+                "Time": "Sat Apr 28 21:35:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
             }
         }, 
         {
@@ -3063,11 +4512,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "BRAD MARCHAND TO BERGERON IN THE BUMPER SPOT AND FIRES IT PAST VASILEVSKY AND THE BRUINS LEAD 5-2 IN THE FINAL 10 M\u2026 https://t.co/guIZaNQZvH", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:35:27 +0000 2018"
+                "Time": "Sat Apr 28 21:35:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -3096,11 +4547,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "stevekouleas", 
+                "Name": "Steve Kouleas", 
                 "Tweet": "Please read hockey world https://t.co/n6Heu728dK", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/925541983535403008/SVqB0TMh_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Whitby", 
-                "User": "stevekouleas", 
-                "Time": "Sat Apr 28 21:37:04 +0000 2018"
+                "Time": "Sat Apr 28 21:37:04 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/925541983535403008/SVqB0TMh_normal.jpg"
             }
         }, 
         {
@@ -3129,11 +4582,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "linsssssss", 
+                "Name": "Lindsey Keating", 
                 "Tweet": "Great day to be a Boston fan. Who am I kidding? Everyday is. #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/980114110795849729/w8ctDKvm_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            61, 
+                            72
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "North Adams", 
-                "User": "linsssssss", 
-                "Time": "Sat Apr 28 21:37:59 +0000 2018"
+                "Time": "Sat Apr 28 21:37:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/980114110795849729/w8ctDKvm_normal.jpg"
             }
         }, 
         {
@@ -3162,11 +4625,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "HOW IS THAT A PENALTY ON JAKE WTF REFS COME ON #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            47, 
+                            56
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            57, 
+                            68
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            79
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            80, 
+                            90
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            91, 
+                            102
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:38:03 +0000 2018"
+                "Time": "Sat Apr 28 21:38:03 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -3195,11 +4696,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
                 "Tweet": "Lightning get a power play and they need to score to at least put themselves in good position for a comeback, which\u2026 https://t.co/EfqDeB35IX", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Nevada", 
-                "User": "pradiggitydog", 
-                "Time": "Sat Apr 28 21:38:12 +0000 2018"
+                "Time": "Sat Apr 28 21:38:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
             }
         }, 
         {
@@ -3228,11 +4731,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
                 "Tweet": "Bruins are going to win Game 1 now as a Bergeron one-timer makes it 5-2 Boston at 10:11 of the 3rd period. DeBrusk\u2026 https://t.co/bX2Kz316F0", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Sat Apr 28 21:38:36 +0000 2018"
+                "Time": "Sat Apr 28 21:38:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -3261,11 +4766,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "Slyquinn", 
+                "Name": "Silvana Berrafato", 
                 "Tweet": "@geniebouchard I sure hope so! #GoJetsGo #WPGWhiteout #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/854499350637985792/LhpvT9xC_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            31, 
+                            40
+                        ], 
+                        "text": "GoJetsGo"
+                    }, 
+                    {
+                        "indices": [
+                            41, 
+                            53
+                        ], 
+                        "text": "WPGWhiteout"
+                    }, 
+                    {
+                        "indices": [
+                            54, 
+                            65
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Montr\u00e9al", 
-                "User": "Slyquinn", 
-                "Time": "Sat Apr 28 21:38:58 +0000 2018"
+                "Time": "Sat Apr 28 21:38:58 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/854499350637985792/LhpvT9xC_normal.jpg"
             }
         }, 
         {
@@ -3294,11 +4823,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "ALL THE RASK HATERS CAN CONTINUE TO KEEP THEIR MOUTHS SHUT #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            59, 
+                            68
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            80
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            81, 
+                            91
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            92, 
+                            102
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            103, 
+                            114
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:39:40 +0000 2018"
+                "Time": "Sat Apr 28 21:39:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -3327,11 +4894,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
                 "Tweet": "3rd goal of the playoffs for Bergeron (2nd today &amp; 3rd point); 8th assist for @Bmarch63 (2nd today, 3rd point)\u2026 https://t.co/4jYifTFuMq", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Sat Apr 28 21:39:56 +0000 2018"
+                "Time": "Sat Apr 28 21:39:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -3360,11 +4929,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "What a clinic on this PK here, wow #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            35, 
+                            44
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            45, 
+                            56
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            57, 
+                            67
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            68, 
+                            78
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            79, 
+                            90
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:40:00 +0000 2018"
+                "Time": "Sat Apr 28 21:40:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -3393,11 +5000,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "Pulling the goalie with 6:40 left.....interesting #BOSvsTBL #InOurBlood #NextManUp #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            50, 
+                            59
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            60, 
+                            71
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            72, 
+                            82
+                        ], 
+                        "text": "NextManUp"
+                    }, 
+                    {
+                        "indices": [
+                            83, 
+                            93
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            94, 
+                            105
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:40:27 +0000 2018"
+                "Time": "Sat Apr 28 21:40:27 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -3426,11 +5071,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "frankswitzz", 
+                "Name": "Frank Switzer", 
                 "Tweet": "Winnipeg made Nashville look ordinary. \nNow Boston is making Tampa look ordinary. \n#StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/779078080463679488/t7cvYbfk_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            83, 
+                            94
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Phoenix", 
-                "User": "frankswitzz", 
-                "Time": "Sat Apr 28 21:41:06 +0000 2018"
+                "Time": "Sat Apr 28 21:41:06 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/779078080463679488/t7cvYbfk_normal.jpg"
             }
         }, 
         {
@@ -3459,11 +5114,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "HuskyHockeyHops", 
+                "Name": "Sara K.", 
                 "Tweet": "Which of these teams had a 7-Game 1st Round? #BOSvsTBL #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/749629148717539328/TixqUFB8_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            45, 
+                            54
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            55, 
+                            66
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Ohio", 
-                "User": "HuskyHockeyHops", 
-                "Time": "Sat Apr 28 21:41:16 +0000 2018"
+                "Time": "Sat Apr 28 21:41:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/749629148717539328/TixqUFB8_normal.jpg"
             }
         }, 
         {
@@ -3492,11 +5164,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "AND JAKE DEBRUSK PUTS IT IN THE EMPTY NET AFTER COMING OUT OF THE BOX AFTER A GREAT PK AND ITS 6-2 BRUINS! \ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\u2026 https://t.co/GDd6qvhiAR", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:41:30 +0000 2018"
+                "Time": "Sat Apr 28 21:41:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -3525,11 +5199,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "pradiggitydog", 
+                "Name": "Ryan \ud83d\udc96", 
                 "Tweet": "Very risky empty net for Tampa Bay and it does not work out. 6-2 Bruins with a little over 6 minutes to go. #BOSvsTBL #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            108, 
+                            117
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            118, 
+                            129
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Nevada", 
-                "User": "pradiggitydog", 
-                "Time": "Sat Apr 28 21:41:51 +0000 2018"
+                "Time": "Sat Apr 28 21:41:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/983779674345029633/oT7DYqXc_normal.jpg"
             }
         }, 
         {
@@ -3558,11 +5249,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "TheJMCole", 
+                "Name": "Michael Cole", 
                 "Tweet": "@NHLBruins fans bitching about play not being stopped b/c @tuukkarask loses a skate blade citing #Safety. But are \ud83d\udcaf\u2026 https://t.co/0ee7tHtKyO", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/971830479983751168/z8mxyxIv_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            97, 
+                            104
+                        ], 
+                        "text": "Safety"
+                    }
+                ], 
                 "Place": "Bay Roberts", 
-                "User": "TheJMCole", 
-                "Time": "Sat Apr 28 21:41:54 +0000 2018"
+                "Time": "Sat Apr 28 21:41:54 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/971830479983751168/z8mxyxIv_normal.jpg"
             }
         }, 
         {
@@ -3591,11 +5292,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "jsampsonsports", 
+                "Name": "Joshua Sampson", 
                 "Tweet": "The Bolts are getting ran right now. \ud83d\ude1e\n\n#GoBolts #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/977640766653849601/0Kw3CFjO_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            40, 
+                            48
+                        ], 
+                        "text": "GoBolts"
+                    }, 
+                    {
+                        "indices": [
+                            49, 
+                            60
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Brooklyn", 
-                "User": "jsampsonsports", 
-                "Time": "Sat Apr 28 21:42:19 +0000 2018"
+                "Time": "Sat Apr 28 21:42:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/977640766653849601/0Kw3CFjO_normal.jpg"
             }
         }, 
         {
@@ -3624,11 +5342,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "esanclem22", 
+                "Name": "Emily Shelton", 
                 "Tweet": "Intresting tactic pulling the goalie at 6.5 minutes.... #stanleycup #youfuckedup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/775937287074963456/JijDCXvw_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            56, 
+                            67
+                        ], 
+                        "text": "stanleycup"
+                    }, 
+                    {
+                        "indices": [
+                            68, 
+                            80
+                        ], 
+                        "text": "youfuckedup"
+                    }
+                ], 
                 "Place": "Cleveland Heights", 
-                "User": "esanclem22", 
-                "Time": "Sat Apr 28 21:42:21 +0000 2018"
+                "Time": "Sat Apr 28 21:42:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/775937287074963456/JijDCXvw_normal.jpg"
             }
         }, 
         {
@@ -3657,11 +5392,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bklynsportsguy", 
+                "Name": "BklynSportsGuy", 
                 "Tweet": "Jon Cooper what are you doing? #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/974750454000291840/s1SQSUk6_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            31, 
+                            42
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Brooklyn", 
-                "User": "bklynsportsguy", 
-                "Time": "Sat Apr 28 21:42:38 +0000 2018"
+                "Time": "Sat Apr 28 21:42:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/974750454000291840/s1SQSUk6_normal.jpg"
             }
         }, 
         {
@@ -3690,11 +5435,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
                 "Tweet": "Haha Jon Cooper has seen enough as he waves the white flag &amp; pulls Vasilevskiy for an extra skater with almost 7 mi\u2026 https://t.co/pNKJ8pOZC1", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Sat Apr 28 21:43:44 +0000 2018"
+                "Time": "Sat Apr 28 21:43:44 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -3723,11 +5470,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
                 "Tweet": "#StanleyCup #NHLBruins laying the smack down", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/989873830247194624/4K_u0dJq_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            0, 
+                            11
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            12, 
+                            22
+                        ], 
+                        "text": "NHLBruins"
+                    }
+                ], 
                 "Place": "Queens", 
-                "User": "NYCKING", 
-                "Time": "Sat Apr 28 21:43:52 +0000 2018"
+                "Time": "Sat Apr 28 21:43:52 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989873830247194624/4K_u0dJq_normal.jpg"
             }
         }, 
         {
@@ -3756,11 +5520,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "My guy Bruce Cassidy already has out-coached Cooper and he really didn't do anything special lmao Cooper did it to\u2026 https://t.co/ctU6oIkriJ", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:44:16 +0000 2018"
+                "Time": "Sat Apr 28 21:44:16 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -3789,11 +5555,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RochieWBZ", 
+                "Name": "Dan Roche", 
                 "Tweet": "DeBrusk! And the #NHLBruins have a 1-0 advantage in the series with Game 2 Monday night in Tampa - #StanleyCup #WBZ", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/962150232359407616/bnoTxAHL_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            17, 
+                            27
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            99, 
+                            110
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            111, 
+                            115
+                        ], 
+                        "text": "WBZ"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "RochieWBZ", 
-                "Time": "Sat Apr 28 21:44:20 +0000 2018"
+                "Time": "Sat Apr 28 21:44:20 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/962150232359407616/bnoTxAHL_normal.jpg"
             }
         }, 
         {
@@ -3822,11 +5612,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "RichSlate", 
+                "Name": "Richard Slate", 
                 "Tweet": "9th assist for @Bmarch63 (3rd today &amp; 4th point); 3rd assist for @CMcAvoy44 (2nd today) #NHLBruins #Lightning\u2026 https://t.co/QKYqJlWIsR", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            92, 
+                            102
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            103, 
+                            113
+                        ], 
+                        "text": "Lightning"
+                    }
+                ], 
                 "Place": "Wakefield", 
-                "User": "RichSlate", 
-                "Time": "Sat Apr 28 21:45:43 +0000 2018"
+                "Time": "Sat Apr 28 21:45:43 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/917965297197383686/szH0TVnM_normal.jpg"
             }
         }, 
         {
@@ -3855,11 +5662,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "amanda_problems", 
+                "Name": "amanda", 
                 "Tweet": "The only good thing about the Bruins being this good is knowing that the Pens won\u2019t get past them for a three peat. #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/478549162796281856/qr-6YFUL_normal.jpeg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            116, 
+                            127
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Aspen Hill", 
-                "User": "amanda_problems", 
-                "Time": "Sat Apr 28 21:46:34 +0000 2018"
+                "Time": "Sat Apr 28 21:46:34 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/478549162796281856/qr-6YFUL_normal.jpeg"
             }
         }, 
         {
@@ -3888,11 +5705,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "brianfink", 
+                "Name": "Brian Fink", 
                 "Tweet": "Can I just click my heels 3 times and it be Monday night? Onto Game 2... #GoBolts #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/756871246172844032/OZPTxR_L_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            73, 
+                            81
+                        ], 
+                        "text": "GoBolts"
+                    }, 
+                    {
+                        "indices": [
+                            82, 
+                            93
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Tampa", 
-                "User": "brianfink", 
-                "Time": "Sat Apr 28 21:46:38 +0000 2018"
+                "Time": "Sat Apr 28 21:46:38 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/756871246172844032/OZPTxR_L_normal.jpg"
             }
         }, 
         {
@@ -3921,11 +5755,42 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "CharleyBelcher", 
+                "Name": "Charley Belcher FOX", 
                 "Tweet": "Well...dang it. Okay, on to Game 2. #GoBolts #StanleyCup #believe #StanleyCupPlayoffs https://t.co/spp8hLMP0Y", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/477242878419140608/_mhiQ_k1_normal.jpeg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            36, 
+                            44
+                        ], 
+                        "text": "GoBolts"
+                    }, 
+                    {
+                        "indices": [
+                            45, 
+                            56
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            57, 
+                            65
+                        ], 
+                        "text": "believe"
+                    }, 
+                    {
+                        "indices": [
+                            66, 
+                            85
+                        ], 
+                        "text": "StanleyCupPlayoffs"
+                    }
+                ], 
                 "Place": "Tampa", 
-                "User": "CharleyBelcher", 
-                "Time": "Sat Apr 28 21:50:18 +0000 2018"
+                "Time": "Sat Apr 28 21:50:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/477242878419140608/_mhiQ_k1_normal.jpeg"
             }
         }, 
         {
@@ -3954,11 +5819,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "NHLFoil", 
+                "Name": "x y - \ud83d\udea8NHLFoil \ud83c\udfd2\ud83d\udc4a\ud83c\udffb\ud83d\udea8", 
                 "Tweet": "Good reffing or bad reffing the bottom line is the #NHLBruins came away with a victory today \n \ud83d\udc3b\ud83d\udc3b\ud83d\udc3b\ud83d\udc3b\ud83d\udc3b\ud83d\udc3b-\u26a1\ufe0f\u26a1\ufe0f\u2026 https://t.co/OhuUFeSQVx", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/957962441651990529/MOQm06Bh_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            51, 
+                            61
+                        ], 
+                        "text": "NHLBruins"
+                    }
+                ], 
                 "Place": "Brookline", 
-                "User": "NHLFoil", 
-                "Time": "Sat Apr 28 21:51:00 +0000 2018"
+                "Time": "Sat Apr 28 21:51:00 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/957962441651990529/MOQm06Bh_normal.jpg"
             }
         }, 
         {
@@ -3987,11 +5862,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "chetbuchanan", 
+                "Name": "Chet Buchanan", 
                 "Tweet": "We have no idea what any of this means. We've never lost a playoff game yet....and 25 years from now I imagine we'l\u2026 https://t.co/tTCo9n7SQU", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/952587724069814272/H8-oCT0F_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Nevada", 
-                "User": "chetbuchanan", 
-                "Time": "Sat Apr 28 21:51:07 +0000 2018"
+                "Time": "Sat Apr 28 21:51:07 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/952587724069814272/H8-oCT0F_normal.jpg"
             }
         }, 
         {
@@ -4020,11 +5897,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "mrs_macdonald17", 
+                "Name": "Meagan MacDonald \u221e", 
                 "Tweet": "Woohoo #NHLBruins win !!! #WeWantTheCup #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/976490901949345794/AjlscB4V_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            7, 
+                            17
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            26, 
+                            39
+                        ], 
+                        "text": "WeWantTheCup"
+                    }, 
+                    {
+                        "indices": [
+                            40, 
+                            51
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Peabody", 
-                "User": "mrs_macdonald17", 
-                "Time": "Sat Apr 28 21:51:18 +0000 2018"
+                "Time": "Sat Apr 28 21:51:18 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976490901949345794/AjlscB4V_normal.jpg"
             }
         }, 
         {
@@ -4053,11 +5954,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "So far in 8 games in this year's playoff run the Bruins have scored 5+ goals 4 times, having scored SEVEN in both g\u2026 https://t.co/40dlq1Lefa", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:51:19 +0000 2018"
+                "Time": "Sat Apr 28 21:51:19 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -4086,11 +5989,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bagged_mk4", 
+                "Name": "Joey Fernandes\ud83e\udd19\ud83c\udffb", 
                 "Tweet": "BIG FUCKING WIN BOYS. I LOVE IT #NHLBruins #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/951119770509770752/kwQo_Ga0_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            32, 
+                            42
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            43, 
+                            54
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Milford", 
-                "User": "bagged_mk4", 
-                "Time": "Sat Apr 28 21:51:21 +0000 2018"
+                "Time": "Sat Apr 28 21:51:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951119770509770752/kwQo_Ga0_normal.jpg"
             }
         }, 
         {
@@ -4119,11 +6039,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "tbhardon90", 
+                "Name": "Official Tom Hardon", 
                 "Tweet": "Thanks for playing Tampa. #BOSvsTBL #StanleyCup https://t.co/vqIwgheEO7", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/970755097863979009/Hq3y-C9x_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            26, 
+                            35
+                        ], 
+                        "text": "BOSvsTBL"
+                    }, 
+                    {
+                        "indices": [
+                            36, 
+                            47
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Gilbert", 
-                "User": "tbhardon90", 
-                "Time": "Sat Apr 28 21:51:36 +0000 2018"
+                "Time": "Sat Apr 28 21:51:36 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/970755097863979009/Hq3y-C9x_normal.jpg"
             }
         }, 
         {
@@ -4152,11 +6089,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "_TheReal_Will", 
+                "Name": "\u019c\u03b9\u2113\u2113 \ud83d\udea8", 
                 "Tweet": "Well take game one thank you! Good game boys! https://t.co/g0qCxwxs71", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/973912532887965698/FewhQPFd_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "New York", 
-                "User": "_TheReal_Will", 
-                "Time": "Sat Apr 28 21:51:39 +0000 2018"
+                "Time": "Sat Apr 28 21:51:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/973912532887965698/FewhQPFd_normal.jpg"
             }
         }, 
         {
@@ -4185,11 +6124,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "BleedOrange007", 
+                "Name": "A-A-RON", 
                 "Tweet": "@NHLBruins wins game 1 in the series 6-2! Lets go. #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/933890225335611393/WiFJr274_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            51, 
+                            62
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Austin", 
-                "User": "BleedOrange007", 
-                "Time": "Sat Apr 28 21:51:40 +0000 2018"
+                "Time": "Sat Apr 28 21:51:40 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/933890225335611393/WiFJr274_normal.jpg"
             }
         }, 
         {
@@ -4218,11 +6167,42 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "NYCKING", 
+                "Name": "BIG ED", 
                 "Tweet": "#StanleyCup East 2nd Round Game 1 #NHLBruins 6 #TBLightning 2 Final.  #NHLBruins leads series 1-0.  Game 2 Monday 7\u2026 https://t.co/5PHAQEIUCf", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/989873830247194624/4K_u0dJq_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            0, 
+                            11
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            34, 
+                            44
+                        ], 
+                        "text": "NHLBruins"
+                    }, 
+                    {
+                        "indices": [
+                            47, 
+                            59
+                        ], 
+                        "text": "TBLightning"
+                    }, 
+                    {
+                        "indices": [
+                            70, 
+                            80
+                        ], 
+                        "text": "NHLBruins"
+                    }
+                ], 
                 "Place": "Queens", 
-                "User": "NYCKING", 
-                "Time": "Sat Apr 28 21:51:49 +0000 2018"
+                "Time": "Sat Apr 28 21:51:49 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/989873830247194624/4K_u0dJq_normal.jpg"
             }
         }, 
         {
@@ -4251,11 +6231,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "SourEnvy", 
+                "Name": "Elliot", 
                 "Tweet": "#NHLBRUINS WIN! What a huge statement. \ud83c\udfd2 #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/948530796444430336/eXvhMTzs_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "text": "NHLBRUINS"
+                    }, 
+                    {
+                        "indices": [
+                            41, 
+                            52
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Much Hoole", 
-                "User": "SourEnvy", 
-                "Time": "Sat Apr 28 21:51:56 +0000 2018"
+                "Time": "Sat Apr 28 21:51:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/948530796444430336/eXvhMTzs_normal.jpg"
             }
         }, 
         {
@@ -4284,11 +6281,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "BLZ70", 
+                "Name": "Bonnie Zielinski", 
                 "Tweet": "Awesome game @NHLBruins Keep the energy going!! #InOurBlood #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/823023045359046656/da0VlDWg_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            48, 
+                            59
+                        ], 
+                        "text": "InOurBlood"
+                    }, 
+                    {
+                        "indices": [
+                            60, 
+                            71
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Methuen Town", 
-                "User": "BLZ70", 
-                "Time": "Sat Apr 28 21:52:45 +0000 2018"
+                "Time": "Sat Apr 28 21:52:45 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/823023045359046656/da0VlDWg_normal.jpg"
             }
         }, 
         {
@@ -4317,11 +6331,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "jbhiggins", 
+                "Name": "Joy Higgins", 
                 "Tweet": "#StanleyCupPlayoffs Nice third Bruins. Keep it going! Silence the haters. #bruins #StanleyCup #Boston #hockey", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/786367983207579649/39m5fsXT_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            0, 
+                            19
+                        ], 
+                        "text": "StanleyCupPlayoffs"
+                    }, 
+                    {
+                        "indices": [
+                            74, 
+                            81
+                        ], 
+                        "text": "bruins"
+                    }, 
+                    {
+                        "indices": [
+                            82, 
+                            93
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            94, 
+                            101
+                        ], 
+                        "text": "Boston"
+                    }, 
+                    {
+                        "indices": [
+                            102, 
+                            109
+                        ], 
+                        "text": "hockey"
+                    }
+                ], 
                 "Place": "Texas", 
-                "User": "jbhiggins", 
-                "Time": "Sat Apr 28 21:52:59 +0000 2018"
+                "Time": "Sat Apr 28 21:52:59 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/786367983207579649/39m5fsXT_normal.jpg"
             }
         }, 
         {
@@ -4350,11 +6402,21 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "bruinsfan3725", 
+                "Name": "That Bruins Kid", 
                 "Tweet": "THATS WIN NUMBER 5 BOYS!\n\n11 MORE TO GO! LETS GET IT ON MONDAY NIGHT! HUGE STATEMENT WIN TODAY! #BOSvsTBL\u2026 https://t.co/VWoFPCaYUD", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            96, 
+                            105
+                        ], 
+                        "text": "BOSvsTBL"
+                    }
+                ], 
                 "Place": "Boston", 
-                "User": "bruinsfan3725", 
-                "Time": "Sat Apr 28 21:53:24 +0000 2018"
+                "Time": "Sat Apr 28 21:53:24 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988493173872844808/YjO_Nzr2_normal.jpg"
             }
         }, 
         {
@@ -4383,11 +6445,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "harryruiz", 
+                "Name": "Harry Ruiz", 
                 "Tweet": "I though the color teal was banned by the @CityOfLasVegas. Well, there's some @SanJoseSharks fans in the fortress t\u2026 https://t.co/UMqhPzfbDi", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/976539605355741184/QdJvN0rE_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "T-Mobile Arena", 
-                "User": "harryruiz", 
-                "Time": "Sat Apr 28 22:57:30 +0000 2018"
+                "Time": "Sat Apr 28 22:57:30 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976539605355741184/QdJvN0rE_normal.jpg"
             }
         }, 
         {
@@ -4416,11 +6480,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "Ry_Bass", 
+                "Name": "Ryan Bass", 
                 "Tweet": "Our #BoltToTheCup special starts NOW on @10NewsWTSP. @TBLightning #GoBolts #StanleyCup", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/960916348904837120/k3akbzlz_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            4, 
+                            17
+                        ], 
+                        "text": "BoltToTheCup"
+                    }, 
+                    {
+                        "indices": [
+                            66, 
+                            74
+                        ], 
+                        "text": "GoBolts"
+                    }, 
+                    {
+                        "indices": [
+                            75, 
+                            86
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Tampa", 
-                "User": "Ry_Bass", 
-                "Time": "Sat Apr 28 23:00:21 +0000 2018"
+                "Time": "Sat Apr 28 23:00:21 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/960916348904837120/k3akbzlz_normal.jpg"
             }
         }, 
         {
@@ -4449,11 +6537,35 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "ClarkCountyNV", 
+                "Name": "Clark County Nevada", 
                 "Tweet": "One hour away from shark hunt #2 for #VegasBorn @GoldenKnights in the @NHL #StanleyCup playoffs. #GoKnightsGo\u2026 https://t.co/nqZVJdpflB", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000694623329/342568e2179452e39673ca9ae3177284_normal.jpeg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            37, 
+                            47
+                        ], 
+                        "text": "VegasBorn"
+                    }, 
+                    {
+                        "indices": [
+                            75, 
+                            86
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            97, 
+                            109
+                        ], 
+                        "text": "GoKnightsGo"
+                    }
+                ], 
                 "Place": "Paradise", 
-                "User": "ClarkCountyNV", 
-                "Time": "Sat Apr 28 23:00:51 +0000 2018"
+                "Time": "Sat Apr 28 23:00:51 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000694623329/342568e2179452e39673ca9ae3177284_normal.jpeg"
             }
         }, 
         {
@@ -4482,11 +6594,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "harryruiz", 
+                "Name": "Harry Ruiz", 
                 "Tweet": "If I were a betting man (\ud83d\ude09\ud83d\ude09\ud83d\ude09), I'd bet the @GoldenKnights puck line. I mean, there's a Gummy Bear on steroids on to\u2026 https://t.co/Y69aNNM3HK", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/976539605355741184/QdJvN0rE_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Paradise", 
-                "User": "harryruiz", 
-                "Time": "Sat Apr 28 23:02:56 +0000 2018"
+                "Time": "Sat Apr 28 23:02:56 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976539605355741184/QdJvN0rE_normal.jpg"
             }
         }, 
         {
@@ -4515,11 +6629,56 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "howardstutz", 
+                "Name": "Howard Stutz", 
                 "Tweet": "\u201cGame On\u201d #GoKnightsGo #VegasBorn #StanleyCup #BeatTheSharks #NHLPlayoffs #VGK https://t.co/DV6nDEYwp8", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/968960849707646976/v3Qo8iiX_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            10, 
+                            22
+                        ], 
+                        "text": "GoKnightsGo"
+                    }, 
+                    {
+                        "indices": [
+                            23, 
+                            33
+                        ], 
+                        "text": "VegasBorn"
+                    }, 
+                    {
+                        "indices": [
+                            34, 
+                            45
+                        ], 
+                        "text": "StanleyCup"
+                    }, 
+                    {
+                        "indices": [
+                            46, 
+                            60
+                        ], 
+                        "text": "BeatTheSharks"
+                    }, 
+                    {
+                        "indices": [
+                            61, 
+                            73
+                        ], 
+                        "text": "NHLPlayoffs"
+                    }, 
+                    {
+                        "indices": [
+                            74, 
+                            78
+                        ], 
+                        "text": "VGK"
+                    }
+                ], 
                 "Place": "Summerlin South", 
-                "User": "howardstutz", 
-                "Time": "Sat Apr 28 23:10:12 +0000 2018"
+                "Time": "Sat Apr 28 23:10:12 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/968960849707646976/v3Qo8iiX_normal.jpg"
             }
         }, 
         {
@@ -4548,11 +6707,13 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "jonethebone19", 
+                "Name": "Jonah Carleton", 
                 "Tweet": "NHL: How much can I get for the Stanley cup?                                              Pawn Stars: the best I ca\u2026 https://t.co/GxdIoO4Bbx", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/988575523788894208/y5_WqH5u_normal.jpg", 
+                "TweetLink": [], 
                 "Place": "Boise", 
-                "User": "jonethebone19", 
-                "Time": "Sat Apr 28 23:12:41 +0000 2018"
+                "Time": "Sat Apr 28 23:12:41 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/988575523788894208/y5_WqH5u_normal.jpg"
             }
         }, 
         {
@@ -4581,11 +6742,49 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "Handle": "DavidSokoloski", 
+                "Name": "y - David Sokoloski (VGK Fanatic)", 
                 "Tweet": "@GoldenKnights #VegasBaby #VGK #VegasBorn #StanleyCupPlayoffs #StanleyCup https://t.co/ahjJtTBn7A", 
-                "ProfilePic": "http://pbs.twimg.com/profile_images/937838961958952965/T7r_relo_normal.jpg", 
+                "TweetLink": [
+                    {
+                        "indices": [
+                            15, 
+                            25
+                        ], 
+                        "text": "VegasBaby"
+                    }, 
+                    {
+                        "indices": [
+                            26, 
+                            30
+                        ], 
+                        "text": "VGK"
+                    }, 
+                    {
+                        "indices": [
+                            31, 
+                            41
+                        ], 
+                        "text": "VegasBorn"
+                    }, 
+                    {
+                        "indices": [
+                            42, 
+                            61
+                        ], 
+                        "text": "StanleyCupPlayoffs"
+                    }, 
+                    {
+                        "indices": [
+                            62, 
+                            73
+                        ], 
+                        "text": "StanleyCup"
+                    }
+                ], 
                 "Place": "Paradise", 
-                "User": "DavidSokoloski", 
-                "Time": "Sat Apr 28 23:13:39 +0000 2018"
+                "Time": "Sat Apr 28 23:13:39 +0000 2018", 
+                "ProfilePic": "http://pbs.twimg.com/profile_images/937838961958952965/T7r_relo_normal.jpg"
             }
         }
     ]
