@@ -2,29 +2,7 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -115.384091, 
-                            36.129459
-                        ], 
-                        [
-                            -115.384091, 
-                            36.336371
-                        ], 
-                        [
-                            -115.062159, 
-                            36.336371
-                        ], 
-                        [
-                            -115.062159, 
-                            36.129459
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-115.223125, 36.232915]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "BarkAndre_Furry", 
@@ -37,29 +15,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            12.090991, 
-                            48.551532
-                        ], 
-                        [
-                            12.090991, 
-                            51.055648
-                        ], 
-                        [
-                            18.85991, 
-                            51.055648
-                        ], 
-                        [
-                            18.85991, 
-                            48.551532
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[15.4754505, 49.80359]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "james61_jakub", 
@@ -72,29 +28,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.067666, 42.5012855]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RichSlate", 
@@ -107,29 +41,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -142,29 +54,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -73.727776, 
-                            40.950918
-                        ], 
-                        [
-                            -73.727776, 
-                            42.050588
-                        ], 
-                        [
-                            -71.786994, 
-                            42.050588
-                        ], 
-                        [
-                            -71.786994, 
-                            40.950918
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-72.757385, 41.500753]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "LiamHeslin16", 
@@ -177,29 +67,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -74.026675, 
-                            40.683935
-                        ], 
-                        [
-                            -74.026675, 
-                            40.877483
-                        ], 
-                        [
-                            -73.910408, 
-                            40.877483
-                        ], 
-                        [
-                            -73.910408, 
-                            40.683935
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-73.9685415, 40.780709]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "mayaspitalnik", 
@@ -212,29 +80,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.067666, 42.5012855]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RichSlate", 
@@ -247,29 +93,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -117.282538, 
-                            32.53962
-                        ], 
-                        [
-                            -117.282538, 
-                            33.080404
-                        ], 
-                        [
-                            -116.92744, 
-                            33.080404
-                        ], 
-                        [
-                            -116.92744, 
-                            32.53962
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "kyleh919", 
@@ -282,29 +106,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -110.801721, 
-                            49.989418
-                        ], 
-                        [
-                            -110.801721, 
-                            50.112935
-                        ], 
-                        [
-                            -110.616959, 
-                            50.112935
-                        ], 
-                        [
-                            -110.616959, 
-                            49.989418
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-110.70934, 50.0511765]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "Mondoguitar403", 
@@ -317,29 +119,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.067666, 42.5012855]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RichSlate", 
@@ -352,29 +132,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -75.091333, 
-                            38.32431
-                        ], 
-                        [
-                            -75.091333, 
-                            38.451299
-                        ], 
-                        [
-                            -75.04914, 
-                            38.451299
-                        ], 
-                        [
-                            -75.04914, 
-                            38.32431
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-75.0702365, 38.3878045]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "CamHasbrouck", 
@@ -387,29 +145,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -422,29 +158,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -457,29 +171,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -76.353876, 
-                            44.961937
-                        ], 
-                        [
-                            -76.353876, 
-                            45.535645
-                        ], 
-                        [
-                            -75.246407, 
-                            45.535645
-                        ], 
-                        [
-                            -75.246407, 
-                            44.961937
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-75.8001415, 45.248791]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RidinPineShow", 
@@ -492,29 +184,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -120.00574, 
-                            35.002086
-                        ], 
-                        [
-                            -120.00574, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            35.002086
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "pradiggitydog", 
@@ -527,29 +197,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -111.921658, 
-                            40.528084
-                        ], 
-                        [
-                            -111.921658, 
-                            40.616827
-                        ], 
-                        [
-                            -111.800273, 
-                            40.616827
-                        ], 
-                        [
-                            -111.800273, 
-                            40.528084
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-111.8609655, 40.5724555]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "AmberDeRose", 
@@ -562,29 +210,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -597,29 +223,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.474186, 
-                            41.772455
-                        ], 
-                        [
-                            -71.474186, 
-                            41.861713
-                        ], 
-                        [
-                            -71.369479, 
-                            41.861713
-                        ], 
-                        [
-                            -71.369479, 
-                            41.772455
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.4218325, 41.817084]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "JoeRindiniShow", 
@@ -632,29 +236,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -667,29 +249,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -120.00574, 
-                            35.002086
-                        ], 
-                        [
-                            -120.00574, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            35.002086
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "pradiggitydog", 
@@ -702,29 +262,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -111.842244, 
-                            33.204608
-                        ], 
-                        [
-                            -111.842244, 
-                            33.385822
-                        ], 
-                        [
-                            -111.634889, 
-                            33.385822
-                        ], 
-                        [
-                            -111.634889, 
-                            33.204608
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-111.7385665, 33.295215]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "tbhardon90", 
@@ -737,29 +275,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -77.485561, 
-                            38.840172
-                        ], 
-                        [
-                            -77.485561, 
-                            38.917243
-                        ], 
-                        [
-                            -77.364749, 
-                            38.917243
-                        ], 
-                        [
-                            -77.364749, 
-                            38.840172
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-77.425155, 38.8787075]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "Smokums_", 
@@ -772,29 +288,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -75.866582, 
-                            41.997806
-                        ], 
-                        [
-                            -75.866582, 
-                            42.103341
-                        ], 
-                        [
-                            -75.762366, 
-                            42.103341
-                        ], 
-                        [
-                            -75.762366, 
-                            41.997806
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-75.814474, 42.0505735]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "JulieWeisberg", 
@@ -807,29 +301,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -842,29 +314,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.067666, 42.5012855]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RichSlate", 
@@ -877,29 +327,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -83.67529, 
-                            36.540739
-                        ], 
-                        [
-                            -83.67529, 
-                            39.466012
-                        ], 
-                        [
-                            -75.16644, 
-                            39.466012
-                        ], 
-                        [
-                            -75.16644, 
-                            36.540739
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-79.420865, 38.0033755]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "HDStGermain", 
@@ -912,29 +340,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -120.00574, 
-                            35.002086
-                        ], 
-                        [
-                            -120.00574, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            35.002086
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "pradiggitydog", 
@@ -947,29 +353,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.067666, 42.5012855]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RichSlate", 
@@ -982,29 +366,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -98.778559, 
-                            29.141956
-                        ], 
-                        [
-                            -98.778559, 
-                            29.693046
-                        ], 
-                        [
-                            -98.302744, 
-                            29.693046
-                        ], 
-                        [
-                            -98.302744, 
-                            29.141956
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-98.5406515, 29.417501]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "Afam0227", 
@@ -1017,29 +379,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -117.282538, 
-                            32.53962
-                        ], 
-                        [
-                            -117.282538, 
-                            33.080404
-                        ], 
-                        [
-                            -116.92744, 
-                            33.080404
-                        ], 
-                        [
-                            -116.92744, 
-                            32.53962
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-117.104989, 32.810012]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "kyleh919", 
@@ -1052,29 +392,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -74.035746, 
-                            40.838768
-                        ], 
-                        [
-                            -74.035746, 
-                            40.869067
-                        ], 
-                        [
-                            -74.004732, 
-                            40.869067
-                        ], 
-                        [
-                            -74.004732, 
-                            40.838768
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-74.020239, 40.8539175]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RockCity3", 
@@ -1087,29 +405,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -1122,29 +418,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -95.823268, 
-                            29.522325
-                        ], 
-                        [
-                            -95.823268, 
-                            30.154665
-                        ], 
-                        [
-                            -95.069705, 
-                            30.154665
-                        ], 
-                        [
-                            -95.069705, 
-                            29.522325
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-95.4464865, 29.838495]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bluedevilinhou", 
@@ -1157,29 +431,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            19.629191, 
-                            64.905098
-                        ], 
-                        [
-                            19.629191, 
-                            65.65839
-                        ], 
-                        [
-                            22.499948, 
-                            65.65839
-                        ], 
-                        [
-                            22.499948, 
-                            64.905098
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[21.0645695, 65.281744]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "Berra1994", 
@@ -1192,29 +444,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -1227,29 +457,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -111.842244, 
-                            33.204608
-                        ], 
-                        [
-                            -111.842244, 
-                            33.385822
-                        ], 
-                        [
-                            -111.634889, 
-                            33.385822
-                        ], 
-                        [
-                            -111.634889, 
-                            33.204608
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-111.7385665, 33.295215]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "tbhardon90", 
@@ -1262,29 +470,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -1297,29 +483,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -120.00574, 
-                            35.002086
-                        ], 
-                        [
-                            -120.00574, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            35.002086
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "pradiggitydog", 
@@ -1332,29 +496,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.474186, 
-                            41.772455
-                        ], 
-                        [
-                            -71.474186, 
-                            41.861713
-                        ], 
-                        [
-                            -71.369479, 
-                            41.861713
-                        ], 
-                        [
-                            -71.369479, 
-                            41.772455
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.4218325, 41.817084]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "JoeRindiniShow", 
@@ -1367,29 +509,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -87.634643, 
-                            24.396308
-                        ], 
-                        [
-                            -87.634643, 
-                            31.001056
-                        ], 
-                        [
-                            -79.974307, 
-                            31.001056
-                        ], 
-                        [
-                            -79.974307, 
-                            24.396308
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "brianfink", 
@@ -1402,29 +522,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -1437,29 +535,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -83.104102, 
-                            39.989304
-                        ], 
-                        [
-                            -83.104102, 
-                            40.063889
-                        ], 
-                        [
-                            -83.042267, 
-                            40.063889
-                        ], 
-                        [
-                            -83.042267, 
-                            39.989304
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-83.0731845, 40.0265965]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "LarryMobile", 
@@ -1472,29 +548,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.067666, 42.5012855]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RichSlate", 
@@ -1507,29 +561,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -87.940033, 
-                            41.644102
-                        ], 
-                        [
-                            -87.940033, 
-                            42.023067
-                        ], 
-                        [
-                            -87.523993, 
-                            42.023067
-                        ], 
-                        [
-                            -87.523993, 
-                            41.644102
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-87.732013, 41.8335845]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "Prestonnorm", 
@@ -1542,29 +574,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -1577,29 +587,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -1612,29 +600,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -1647,29 +613,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -83.67529, 
-                            36.540739
-                        ], 
-                        [
-                            -83.67529, 
-                            39.466012
-                        ], 
-                        [
-                            -75.16644, 
-                            39.466012
-                        ], 
-                        [
-                            -75.16644, 
-                            36.540739
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-79.420865, 38.0033755]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "EllenDoig", 
@@ -1682,29 +626,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -106.645646, 
-                            25.837092
-                        ], 
-                        [
-                            -106.645646, 
-                            36.500695
-                        ], 
-                        [
-                            -93.508131, 
-                            36.500695
-                        ], 
-                        [
-                            -93.508131, 
-                            25.837092
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-100.0768885, 31.1688935]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "jbhiggins", 
@@ -1717,29 +639,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -1752,29 +652,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.067666, 42.5012855]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RichSlate", 
@@ -1787,29 +665,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -1822,29 +678,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -122.355038, 
-                            37.512567
-                        ], 
-                        [
-                            -122.355038, 
-                            37.592395
-                        ], 
-                        [
-                            -122.275805, 
-                            37.592395
-                        ], 
-                        [
-                            -122.275805, 
-                            37.512567
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-122.3154215, 37.552481]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "MissRhiana", 
@@ -1857,29 +691,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -79.176284, 
-                            42.959453
-                        ], 
-                        [
-                            -79.176284, 
-                            43.148345
-                        ], 
-                        [
-                            -78.999464, 
-                            43.148345
-                        ], 
-                        [
-                            -78.999464, 
-                            42.959453
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-79.087874, 43.053899]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "Gimmeabud", 
@@ -1892,29 +704,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.067666, 42.5012855]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RichSlate", 
@@ -1927,29 +717,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -78.912276, 
-                            42.826008
-                        ], 
-                        [
-                            -78.912276, 
-                            42.966451
-                        ], 
-                        [
-                            -78.79485, 
-                            42.966451
-                        ], 
-                        [
-                            -78.79485, 
-                            42.826008
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-78.853563, 42.8962295]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "KristopherRos16", 
@@ -1962,29 +730,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -83.104102, 
-                            39.989304
-                        ], 
-                        [
-                            -83.104102, 
-                            40.063889
-                        ], 
-                        [
-                            -83.042267, 
-                            40.063889
-                        ], 
-                        [
-                            -83.042267, 
-                            39.989304
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-83.0731845, 40.0265965]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "LarryMobile", 
@@ -1997,29 +743,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -87.634643, 
-                            24.396308
-                        ], 
-                        [
-                            -87.634643, 
-                            31.001056
-                        ], 
-                        [
-                            -79.974307, 
-                            31.001056
-                        ], 
-                        [
-                            -79.974307, 
-                            24.396308
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-83.804475, 27.698682]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "DMATBHockeyClub", 
@@ -2032,29 +756,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -120.00574, 
-                            35.002086
-                        ], 
-                        [
-                            -120.00574, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            35.002086
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "pradiggitydog", 
@@ -2067,29 +769,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -84.348046, 
-                            33.915238
-                        ], 
-                        [
-                            -84.348046, 
-                            33.970907
-                        ], 
-                        [
-                            -84.264931, 
-                            33.970907
-                        ], 
-                        [
-                            -84.264931, 
-                            33.915238
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-84.3064885, 33.9430725]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "PStrizhevskyNHL", 
@@ -2102,29 +782,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -82.758209, 
-                            27.694323
-                        ], 
-                        [
-                            -82.758209, 
-                            27.897116
-                        ], 
-                        [
-                            -82.587597, 
-                            27.897116
-                        ], 
-                        [
-                            -82.587597, 
-                            27.694323
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-82.672903, 27.7957195]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "nolegsmike", 
@@ -2137,29 +795,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -82.502573, 
-                            28.090958
-                        ], 
-                        [
-                            -82.502573, 
-                            28.172502
-                        ], 
-                        [
-                            -82.394598, 
-                            28.172502
-                        ], 
-                        [
-                            -82.394598, 
-                            28.090958
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-82.4485855, 28.13173]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "chavez66", 
@@ -2172,29 +808,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -86.624429, 
-                            35.879451
-                        ], 
-                        [
-                            -86.624429, 
-                            36.029213
-                        ], 
-                        [
-                            -86.458783, 
-                            36.029213
-                        ], 
-                        [
-                            -86.458783, 
-                            35.879451
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-86.541606, 35.954332]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "cleangene3", 
@@ -2207,29 +821,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -78.801819, 
-                            42.803843
-                        ], 
-                        [
-                            -78.801819, 
-                            42.874972
-                        ], 
-                        [
-                            -78.696854, 
-                            42.874972
-                        ], 
-                        [
-                            -78.696854, 
-                            42.803843
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-78.7493365, 42.8394075]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "LakeEffectXJ", 
@@ -2242,29 +834,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -2277,29 +847,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -2312,29 +860,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            16.942847, 
-                            49.474895
-                        ], 
-                        [
-                            16.942847, 
-                            49.500468
-                        ], 
-                        [
-                            16.992236, 
-                            49.500468
-                        ], 
-                        [
-                            16.992236, 
-                            49.474895
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[16.9675415, 49.4876815]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "james61_jakub", 
@@ -2347,29 +873,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -124.482003, 
-                            32.528832
-                        ], 
-                        [
-                            -124.482003, 
-                            42.009519
-                        ], 
-                        [
-                            -114.131212, 
-                            42.009519
-                        ], 
-                        [
-                            -114.131212, 
-                            32.528832
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-119.3066075, 37.2691755]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "tpiper7770", 
@@ -2382,29 +886,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            12.090991, 
-                            48.551532
-                        ], 
-                        [
-                            12.090991, 
-                            51.055648
-                        ], 
-                        [
-                            18.85991, 
-                            51.055648
-                        ], 
-                        [
-                            18.85991, 
-                            48.551532
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[15.4754505, 49.80359]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "james61_jakub", 
@@ -2417,29 +899,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -81.134215, 
-                            31.920437
-                        ], 
-                        [
-                            -81.134215, 
-                            31.990259
-                        ], 
-                        [
-                            -81.069615, 
-                            31.990259
-                        ], 
-                        [
-                            -81.069615, 
-                            31.920437
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-81.101915, 31.955348]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "cokeman777", 
@@ -2452,29 +912,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -82.620093, 
-                            27.821353
-                        ], 
-                        [
-                            -82.620093, 
-                            28.171836
-                        ], 
-                        [
-                            -82.265295, 
-                            28.171836
-                        ], 
-                        [
-                            -82.265295, 
-                            27.821353
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-82.442694, 27.9965945]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "brianfink", 
@@ -2487,29 +925,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -2522,29 +938,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -2557,29 +951,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -2592,29 +964,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -2627,29 +977,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -2662,29 +990,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -120.00574, 
-                            35.002086
-                        ], 
-                        [
-                            -120.00574, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            35.002086
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "pradiggitydog", 
@@ -2697,29 +1003,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -70.981, 
-                            42.135383
-                        ], 
-                        [
-                            -70.981, 
-                            42.263363
-                        ], 
-                        [
-                            -70.914583, 
-                            42.263363
-                        ], 
-                        [
-                            -70.914583, 
-                            42.135383
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-70.9477915, 42.199373]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "BillyD16", 
@@ -2732,29 +1016,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            12.090991, 
-                            48.551532
-                        ], 
-                        [
-                            12.090991, 
-                            51.055648
-                        ], 
-                        [
-                            18.85991, 
-                            51.055648
-                        ], 
-                        [
-                            18.85991, 
-                            48.551532
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[15.4754505, 49.80359]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "james61_jakub", 
@@ -2767,29 +1029,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -81.603358, 
-                            41.482742
-                        ], 
-                        [
-                            -81.603358, 
-                            41.545274
-                        ], 
-                        [
-                            -81.529651, 
-                            41.545274
-                        ], 
-                        [
-                            -81.529651, 
-                            41.482742
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-81.5665045, 41.514008]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "esanclem22", 
@@ -2802,29 +1042,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -72.557247, 
-                            42.696984
-                        ], 
-                        [
-                            -72.557247, 
-                            45.305476
-                        ], 
-                        [
-                            -70.575095, 
-                            45.305476
-                        ], 
-                        [
-                            -70.575095, 
-                            42.696984
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.566171, 44.00123]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "Airunh23", 
@@ -2837,29 +1055,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RochieWBZ", 
@@ -2872,29 +1068,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.067666, 42.5012855]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RichSlate", 
@@ -2907,29 +1081,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -2942,29 +1094,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -75.091333, 
-                            38.32431
-                        ], 
-                        [
-                            -75.091333, 
-                            38.451299
-                        ], 
-                        [
-                            -75.04914, 
-                            38.451299
-                        ], 
-                        [
-                            -75.04914, 
-                            38.32431
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-75.0702365, 38.3878045]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "CamHasbrouck", 
@@ -2977,29 +1107,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -3012,29 +1120,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -122.436232, 
-                            47.495315
-                        ], 
-                        [
-                            -122.436232, 
-                            47.734319
-                        ], 
-                        [
-                            -122.224973, 
-                            47.734319
-                        ], 
-                        [
-                            -122.224973, 
-                            47.495315
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-122.3306025, 47.614817]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "AdamG1984", 
@@ -3047,29 +1133,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -3082,29 +1146,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.548521, 
-                            46.730765
-                        ], 
-                        [
-                            -71.548521, 
-                            46.980949
-                        ], 
-                        [
-                            -71.133596, 
-                            46.980949
-                        ], 
-                        [
-                            -71.133596, 
-                            46.730765
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.3410585, 46.855857]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "BenjaminAubert", 
@@ -3117,29 +1159,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -85.605166, 
-                            30.355644
-                        ], 
-                        [
-                            -85.605166, 
-                            35.000771
-                        ], 
-                        [
-                            -80.742567, 
-                            35.000771
-                        ], 
-                        [
-                            -80.742567, 
-                            30.355644
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-83.1738665, 32.6782075]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "Astone_112", 
@@ -3152,29 +1172,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -84.321948, 
-                            33.752879
-                        ], 
-                        [
-                            -84.321948, 
-                            36.588118
-                        ], 
-                        [
-                            -75.40012, 
-                            36.588118
-                        ], 
-                        [
-                            -75.40012, 
-                            33.752879
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-79.861034, 35.1704985]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "mike47725919", 
@@ -3187,29 +1185,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -120.00574, 
-                            35.002086
-                        ], 
-                        [
-                            -120.00574, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            35.002086
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "pradiggitydog", 
@@ -3222,29 +1198,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -3257,29 +1211,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -79.047315, 
-                            43.589036
-                        ], 
-                        [
-                            -79.047315, 
-                            44.02872
-                        ], 
-                        [
-                            -78.737176, 
-                            44.02872
-                        ], 
-                        [
-                            -78.737176, 
-                            43.589036
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-78.8922455, 43.808878]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "stevekouleas", 
@@ -3292,29 +1224,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -73.176664, 
-                            42.657035
-                        ], 
-                        [
-                            -73.176664, 
-                            42.712467
-                        ], 
-                        [
-                            -73.063705, 
-                            42.712467
-                        ], 
-                        [
-                            -73.063705, 
-                            42.657035
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-73.1201845, 42.684751]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "linsssssss", 
@@ -3327,29 +1237,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -3362,29 +1250,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -120.00574, 
-                            35.002086
-                        ], 
-                        [
-                            -120.00574, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            35.002086
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "pradiggitydog", 
@@ -3397,29 +1263,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.067666, 42.5012855]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RichSlate", 
@@ -3432,29 +1276,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -73.972965, 
-                            45.410095
-                        ], 
-                        [
-                            -73.972965, 
-                            45.705566
-                        ], 
-                        [
-                            -73.473085, 
-                            45.705566
-                        ], 
-                        [
-                            -73.473085, 
-                            45.410095
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-73.723025, 45.5578305]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "Slyquinn", 
@@ -3467,29 +1289,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -3502,29 +1302,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.067666, 42.5012855]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RichSlate", 
@@ -3537,29 +1315,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -3572,29 +1328,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -3607,29 +1341,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -112.323914, 
-                            33.29026
-                        ], 
-                        [
-                            -112.323914, 
-                            33.815465
-                        ], 
-                        [
-                            -111.925439, 
-                            33.815465
-                        ], 
-                        [
-                            -111.925439, 
-                            33.29026
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-112.1246765, 33.5528625]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "frankswitzz", 
@@ -3642,29 +1354,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -84.820309, 
-                            38.403186
-                        ], 
-                        [
-                            -84.820309, 
-                            42.327133
-                        ], 
-                        [
-                            -80.518626, 
-                            42.327133
-                        ], 
-                        [
-                            -80.518626, 
-                            38.403186
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-82.6694675, 40.3651595]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "HuskyHockeyHops", 
@@ -3677,29 +1367,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -3712,29 +1380,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -120.00574, 
-                            35.002086
-                        ], 
-                        [
-                            -120.00574, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            35.002086
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "pradiggitydog", 
@@ -3747,29 +1393,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -53.342771, 
-                            47.54978
-                        ], 
-                        [
-                            -53.342771, 
-                            47.664738
-                        ], 
-                        [
-                            -53.073332, 
-                            47.664738
-                        ], 
-                        [
-                            -53.073332, 
-                            47.54978
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-53.2080515, 47.607259]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "TheJMCole", 
@@ -3782,29 +1406,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -74.041878, 
-                            40.570842
-                        ], 
-                        [
-                            -74.041878, 
-                            40.739434
-                        ], 
-                        [
-                            -73.855673, 
-                            40.739434
-                        ], 
-                        [
-                            -73.855673, 
-                            40.570842
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-73.9487755, 40.655138]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "jsampsonsports", 
@@ -3817,29 +1419,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -81.603358, 
-                            41.482742
-                        ], 
-                        [
-                            -81.603358, 
-                            41.545274
-                        ], 
-                        [
-                            -81.529651, 
-                            41.545274
-                        ], 
-                        [
-                            -81.529651, 
-                            41.482742
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-81.5665045, 41.514008]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "esanclem22", 
@@ -3852,29 +1432,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -74.041878, 
-                            40.570842
-                        ], 
-                        [
-                            -74.041878, 
-                            40.739434
-                        ], 
-                        [
-                            -73.855673, 
-                            40.739434
-                        ], 
-                        [
-                            -73.855673, 
-                            40.570842
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-73.9487755, 40.655138]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bklynsportsguy", 
@@ -3887,29 +1445,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.067666, 42.5012855]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RichSlate", 
@@ -3922,29 +1458,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -73.962582, 
-                            40.541722
-                        ], 
-                        [
-                            -73.962582, 
-                            40.800037
-                        ], 
-                        [
-                            -73.699793, 
-                            40.800037
-                        ], 
-                        [
-                            -73.699793, 
-                            40.541722
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "NYCKING", 
@@ -3957,29 +1471,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -3992,29 +1484,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RochieWBZ", 
@@ -4027,29 +1497,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.100033, 
-                            42.471654
-                        ], 
-                        [
-                            -71.100033, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.530917
-                        ], 
-                        [
-                            -71.035299, 
-                            42.471654
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.067666, 42.5012855]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "RichSlate", 
@@ -4062,29 +1510,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -77.125438, 
-                            39.059951
-                        ], 
-                        [
-                            -77.125438, 
-                            39.120903
-                        ], 
-                        [
-                            -77.0338, 
-                            39.120903
-                        ], 
-                        [
-                            -77.0338, 
-                            39.059951
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-77.079619, 39.090427]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "amanda_problems", 
@@ -4097,29 +1523,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -82.620093, 
-                            27.821353
-                        ], 
-                        [
-                            -82.620093, 
-                            28.171836
-                        ], 
-                        [
-                            -82.265295, 
-                            28.171836
-                        ], 
-                        [
-                            -82.265295, 
-                            27.821353
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-82.442694, 27.9965945]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "brianfink", 
@@ -4132,29 +1536,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -82.620093, 
-                            27.821353
-                        ], 
-                        [
-                            -82.620093, 
-                            28.171836
-                        ], 
-                        [
-                            -82.265295, 
-                            28.171836
-                        ], 
-                        [
-                            -82.265295, 
-                            27.821353
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-82.442694, 27.9965945]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "CharleyBelcher", 
@@ -4167,29 +1549,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.178586, 
-                            42.29466
-                        ], 
-                        [
-                            -71.178586, 
-                            42.351818
-                        ], 
-                        [
-                            -71.105725, 
-                            42.351818
-                        ], 
-                        [
-                            -71.105725, 
-                            42.29466
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.1421555, 42.323239]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "NHLFoil", 
@@ -4202,29 +1562,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -120.00574, 
-                            35.002086
-                        ], 
-                        [
-                            -120.00574, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            35.002086
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "chetbuchanan", 
@@ -4237,29 +1575,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.034586, 
-                            42.494855
-                        ], 
-                        [
-                            -71.034586, 
-                            42.570296
-                        ], 
-                        [
-                            -70.912696, 
-                            42.570296
-                        ], 
-                        [
-                            -70.912696, 
-                            42.494855
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-70.973641, 42.5325755]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "mrs_macdonald17", 
@@ -4272,29 +1588,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -4307,29 +1601,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.57581, 
-                            42.116846
-                        ], 
-                        [
-                            -71.57581, 
-                            42.191514
-                        ], 
-                        [
-                            -71.477878, 
-                            42.191514
-                        ], 
-                        [
-                            -71.477878, 
-                            42.116846
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.526844, 42.15418]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bagged_mk4", 
@@ -4342,29 +1614,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -111.842244, 
-                            33.204608
-                        ], 
-                        [
-                            -111.842244, 
-                            33.385822
-                        ], 
-                        [
-                            -111.634889, 
-                            33.385822
-                        ], 
-                        [
-                            -111.634889, 
-                            33.204608
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-111.7385665, 33.295215]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "tbhardon90", 
@@ -4377,29 +1627,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -79.76259, 
-                            40.477383
-                        ], 
-                        [
-                            -79.76259, 
-                            45.015851
-                        ], 
-                        [
-                            -71.777492, 
-                            45.015851
-                        ], 
-                        [
-                            -71.777492, 
-                            40.477383
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-75.770041, 42.746617]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "_TheReal_Will", 
@@ -4412,29 +1640,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -97.928935, 
-                            30.127892
-                        ], 
-                        [
-                            -97.928935, 
-                            30.518799
-                        ], 
-                        [
-                            -97.580513, 
-                            30.518799
-                        ], 
-                        [
-                            -97.580513, 
-                            30.127892
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-97.754724, 30.3233455]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "BleedOrange007", 
@@ -4447,29 +1653,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -73.962582, 
-                            40.541722
-                        ], 
-                        [
-                            -73.962582, 
-                            40.800037
-                        ], 
-                        [
-                            -73.699793, 
-                            40.800037
-                        ], 
-                        [
-                            -73.699793, 
-                            40.541722
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-73.8311875, 40.6708795]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "NYCKING", 
@@ -4482,29 +1666,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -2.816463, 
-                            53.692653
-                        ], 
-                        [
-                            -2.816463, 
-                            53.710375
-                        ], 
-                        [
-                            -2.793933, 
-                            53.710375
-                        ], 
-                        [
-                            -2.793933, 
-                            53.692653
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-2.805198, 53.701514]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "SourEnvy", 
@@ -4517,29 +1679,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.255938, 
-                            42.6704
-                        ], 
-                        [
-                            -71.255938, 
-                            42.794273
-                        ], 
-                        [
-                            -71.115547, 
-                            42.794273
-                        ], 
-                        [
-                            -71.115547, 
-                            42.6704
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.1857425, 42.7323365]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "BLZ70", 
@@ -4552,29 +1692,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -106.645646, 
-                            25.837092
-                        ], 
-                        [
-                            -106.645646, 
-                            36.500695
-                        ], 
-                        [
-                            -93.508131, 
-                            36.500695
-                        ], 
-                        [
-                            -93.508131, 
-                            25.837092
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-100.0768885, 31.1688935]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "jbhiggins", 
@@ -4587,29 +1705,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -71.191421, 
-                            42.227797
-                        ], 
-                        [
-                            -71.191421, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.399542
-                        ], 
-                        [
-                            -70.986004, 
-                            42.227797
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-71.0887125, 42.3136695]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "bruinsfan3725", 
@@ -4622,29 +1718,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -115.178239, 
-                            36.102741
-                        ], 
-                        [
-                            -115.178239, 
-                            36.102741
-                        ], 
-                        [
-                            -115.178239, 
-                            36.102741
-                        ], 
-                        [
-                            -115.178239, 
-                            36.102741
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-115.178239, 36.102741]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "harryruiz", 
@@ -4657,29 +1731,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -82.620093, 
-                            27.821353
-                        ], 
-                        [
-                            -82.620093, 
-                            28.171836
-                        ], 
-                        [
-                            -82.265295, 
-                            28.171836
-                        ], 
-                        [
-                            -82.265295, 
-                            27.821353
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-82.442694, 27.9965945]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "Ry_Bass", 
@@ -4692,29 +1744,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -115.209254, 
-                            35.984784
-                        ], 
-                        [
-                            -115.209254, 
-                            36.137145
-                        ], 
-                        [
-                            -115.061076, 
-                            36.137145
-                        ], 
-                        [
-                            -115.061076, 
-                            35.984784
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "ClarkCountyNV", 
@@ -4727,29 +1757,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -115.209254, 
-                            35.984784
-                        ], 
-                        [
-                            -115.209254, 
-                            36.137145
-                        ], 
-                        [
-                            -115.061076, 
-                            36.137145
-                        ], 
-                        [
-                            -115.061076, 
-                            35.984784
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "harryruiz", 
@@ -4762,29 +1770,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -115.355825, 
-                            36.082837
-                        ], 
-                        [
-                            -115.355825, 
-                            36.159081
-                        ], 
-                        [
-                            -115.314862, 
-                            36.159081
-                        ], 
-                        [
-                            -115.314862, 
-                            36.082837
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-115.3353435, 36.120959]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "howardstutz", 
@@ -4797,29 +1783,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -116.374494, 
-                            43.510172
-                        ], 
-                        [
-                            -116.374494, 
-                            43.685894
-                        ], 
-                        [
-                            -116.101508, 
-                            43.685894
-                        ], 
-                        [
-                            -116.101508, 
-                            43.510172
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-116.238001, 43.598033]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "jonethebone19", 
@@ -4832,29 +1796,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -115.209254, 
-                            35.984784
-                        ], 
-                        [
-                            -115.209254, 
-                            36.137145
-                        ], 
-                        [
-                            -115.061076, 
-                            36.137145
-                        ], 
-                        [
-                            -115.061076, 
-                            35.984784
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "DavidSokoloski", 
@@ -4867,29 +1809,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -115.209254, 
-                            35.984784
-                        ], 
-                        [
-                            -115.209254, 
-                            36.137145
-                        ], 
-                        [
-                            -115.061076, 
-                            36.137145
-                        ], 
-                        [
-                            -115.061076, 
-                            35.984784
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-115.135165, 36.0609645]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "ThonyAvellaneda", 
@@ -4902,29 +1822,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -120.00574, 
-                            35.002086
-                        ], 
-                        [
-                            -120.00574, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            42.002208
-                        ], 
-                        [
-                            -114.039649, 
-                            35.002086
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-117.0226945, 38.502147]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "pradiggitydog", 
@@ -4937,29 +1835,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -94.894994, 
-                            40.318088
-                        ], 
-                        [
-                            -94.894994, 
-                            40.372994
-                        ], 
-                        [
-                            -94.831714, 
-                            40.372994
-                        ], 
-                        [
-                            -94.831714, 
-                            40.318088
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-94.863354, 40.345541]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "KyleMiller89", 
@@ -4972,29 +1848,7 @@
             }
         }, 
         {
-            "geometry": {
-                "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -95.823268, 
-                            29.522325
-                        ], 
-                        [
-                            -95.823268, 
-                            30.154665
-                        ], 
-                        [
-                            -95.069705, 
-                            30.154665
-                        ], 
-                        [
-                            -95.069705, 
-                            29.522325
-                        ]
-                    ]
-                ]
-            }, 
+            "geometry": {"type":"Point", "coordinates":[-95.4464865, 29.838495]}, 
             "type": "Feature", 
             "properties": {
                 "Handle": "TylerJFrye", 
