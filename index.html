@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<head> 
+<title>Live Twitter Map</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="refresh" content="600" />
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="description" content="Live Twitter Map">
+<meta name="keywords" content="Twitter, GIS, Analysis, Map, Web Mapping, Leaflet, Javascript, GeoJSON, Tweets, Data Mining, jQuery">
+<meta name="author" content="Kevin Fitzgerald">
+<link rel="stylesheet" href="css/leaflet.css" />
+<link rel="stylesheet" href="css/styledLayerControl.css"/>
+<link rel="stylesheet" href="css/leaflet-condensed-attribution.css"/>
+<link rel="stylesheet" href="css/main.css"/>
+<script src="js/jQuery.js"></script>
+<script src="js/leaflet.js"></script>
+<script src="js/styledLayerControl.js"></script>
+<script src="js/leaflet-condensed-attribution.js"></script>
+<script src="js/leaflet.restoreview.js"></script>
+</head>
+<body>
+<div id="map"> </div>
+<script>
+window.onload = function() {
+	var geotweets = $.ajax({
+        url: "https://raw.githubusercontent.com/fitzpk/Repo/master/geo_data.geojson",
+        dataType: "json",
+        success: console.log("Twitter data successfully loaded."),
+        error: function() {
+            alert("Error loading data")
+        }
+    })
+    $.when(geotweets).done(function() {
+    	var mbAttr = 'KPF &copy 2018 ';
+    	
+		//Create base maps layers
+		var tiles = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+		    attribution: mbAttr
+		});
+		var googleSat = L.tileLayer('http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',{
+		    maxZoom: 19,
+		    attribution: mbAttr,
+		    subdomains:['mt0','mt1','mt2','mt3']
+		});
+		
+		//Create variable to store custom map icon
+		var tweetIcon = L.icon({
+			iconUrl: 'https://dl.dropbox.com/s/u8pevmn79oxqs7n/twitter-map-icon2.png?dl=0',
+			iconSize: [34, 38],
+			iconAnchor: [17, 35],
+			popupAnchor: [0, -28]
+		});
+		
+        //Create Tweets layer, style it with a function, and create a custom pop-up
+        var maptweets = L.geoJSON(geotweets.responseJSON, {
+			pointToLayer: function (feature, latlng) {
+			    return L.marker(latlng, {icon: tweetIcon});
+			 },
+		    onEachFeature: function(feature, layer){
+		        layer.bindPopup('<div id="popup"><div id="tweethead"><div id="left"><img id="link" class="popupicon" src="'+feature.properties.ProfilePic+'"/></div>'
+		        +'<div id="right"><a href="https://twitter.com/'+feature.properties.Handle+'"><span class="twhandle">@'+feature.properties.Handle+'</span></a></div></div><br>'
+		        +'<div><a href="https://twitter.com/statuses/'+feature.properties.TweetLink+'">'+feature.properties.Tweet
+		        +'</a><div id="bottom"><br><img class="seticons" src="css/images/location.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'+feature.properties.Place+' <img class="seticons" src="css/images/clock.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'
+		        +feature.properties.Time.substring(0,16)+'</div></div></div>',{maxWidth : 350, minWidth: 300});
+		    }
+		});
+
+		var map = L.map('map', {
+			center: [50.5, -90.0],
+			minZoom: 2,
+			zoom: 2,
+			condensedAttributionControl: false,
+			layers: [googleSat,maptweets]
+		});
+		
+		if (!map.restoreView()) {
+	          map.setView([50.5, -90.0], 2);
+	    };
+		
+		//Create map boundary coordinates
+		var southWest = L.latLng(-89.98155760646617, -180),
+		northEast = L.latLng(89.99346179538875, 180);
+		var bounds = L.latLngBounds(southWest, northEast);
+		
+		//Set map boundaries and limit dragging/panning to those boundaries
+		map.setMaxBounds(bounds);
+		map.on('drag', function() {
+		    map.panInsideBounds(bounds, { animate: false });
+		});
+
+		// set custom emblem and prefix
+	    L.control.condensedAttribution({
+	      emblem: '&nbsp&nbsp&nbsp&nbsp&nbsp<div class="emblem-wrap"><img src="https://dl.dropbox.com/s/wfb75jezonbwgi2/info.png?dl=0"/></div>',
+	      prefix: '<a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>'
+	    }).addTo(map);
+	    
+		//Establish layer groups that will be shown in the layer control
+		var baseMaps = [
+				       	 { 
+							groupName: "<b>Base Maps</b>",
+							expanded: false,
+							layers: {
+							"Street Map":  tiles,
+							"Google Satellite": googleSat
+							}
+					    }							
+		];
+							
+		var overlays = [
+					    {
+							groupName : "Business Improvement Area",
+							expanded : false,
+							layers    : { 
+							"Tweets": maptweets,
+				     	    }	
+		                 }							 
+		];
+		//Options/setting needed for the styled layer control widget	
+		var options = {
+			autoResize: true,
+			group_maxHeight: "200px",
+			//container_maxHeight : "350px", 
+			exclusive: false,
+			collapsed: true, 
+			position: 'topright'
+		};		
+		//Create styled layer control widget
+		var control = L.Control.styledLayerControl(baseMaps, overlays, options);
+		map.addControl(control);	
+		//Allows for the user to scroll through the layer control on mobile devices
+		if (!L.Browser.touch) {
+			 L.DomEvent
+			 .disableClickPropagation(control._container)
+			 .disableScrollPropagation(control._container);
+			} 
+		else {
+			L.DomEvent.disableClickPropagation(control._container);
+		}	
+    });      		
+};
+</script>
+<footer>
+	<div class="marquee">
+		<marquee>TOPIC TRACKER: #STANLEYCUP</marquee>
+	</div>
+</footer>
+</body>
+</html>
