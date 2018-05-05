@@ -58,19 +58,6 @@ a {
 .seticons {
 	position: fixed;
 }
-
-#bottom:hover .seticons{
-	/* Firefox */
-	-moz-transform: rotate(360deg);
-	/* WebKit */
-	-webkit-transform: rotate(360deg);
-	/* Opera */
-	-o-transform: rotate(360deg);
-	/* Standard */
-	transform: rotate(360deg);
-	transition: all 0.6s ease-in-out;
-	z-index: 1000;
-}
 footer {
    position:absolute;
    bottom:0;
