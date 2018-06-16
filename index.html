@@ -31,7 +31,7 @@ window.onload = function() {
         }
     })
     $.when(geotweets).done(function() {
-    	var mbAttr = 'KPF &copy 2018 ';
+    		var mbAttr = 'KPF &copy 2018 ';
     	
 		//Create base maps layers
 		var tiles = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
@@ -50,9 +50,17 @@ window.onload = function() {
 			iconAnchor: [17, 35],
 			popupAnchor: [0, -28]
 		});
+	    	
+	    	//Create variable to store the icon for the place of interest 
+		var centralIcon = L.icon({
+			iconUrl: 'https://dl.dropbox.com/s/ou60hjwxna8je8i/rmarker.png?dl=0',
+			iconSize: [40, 65],
+			iconAnchor: [20, 65],
+			popupAnchor: [0, -28]
+		});
 		
-        //Create Tweets layer, style it with a function, and create a custom pop-up
-        var maptweets = L.geoJSON(geotweets.responseJSON, {
+        	//Create Tweets layer, style it with a function, and create a custom pop-up
+        	var maptweets = L.geoJSON(geotweets.responseJSON, {
 			pointToLayer: function (feature, latlng) {
 			    return L.marker(latlng, {icon: tweetIcon});
 			 },
@@ -64,22 +72,67 @@ window.onload = function() {
 		        +feature.properties.Time.substring(4,16)+' UTC</div></div></div>',{maxWidth : 360, minWidth: 300});
 		    }
 		});
+	    
+	    	//Create feature for area/place of interest
+	    	var place = {
+		    "type": "Feature",
+		    "properties": {
+		        "name": "Shinnecock Hills Golf Club",
+		        "location": "Southampon, Long Island, New York",
+		    },
+		    "geometry": {
+		        "type": "Point",
+		        "coordinates": [-72.440609, 40.896436]
+		    }
+		};
+		
+	   	 var central = L.geoJSON(place, {
+			pointToLayer: function (feature, latlng) {
+			    return L.marker(latlng, {icon: centralIcon}).bindPopup('<div><div id="tweethead2">'+feature.properties.name+
+		        '</div><br><div id="locatebox"><img class="seticons" src="css/images/location.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'+feature.properties.location+'</div></div>',{maxWidth : 360, minWidth: 300}
+		    )}
+		});
+
+		var geojsonMarkerOptions = {
+		    radius: 30,
+		    fillColor: "white",
+		    color: "#000",
+		    weight: 2,
+		    opacity: 1,
+		    fillOpacity: 0.6
+		};
+		
+		var circle = {
+		    "type": "Feature",
+		    "properties": {
+		    },
+		    "geometry": {
+		        "type": "Point",
+		        "coordinates": [-72.440609, 40.896436]
+		    }
+		};
 
 		var map = L.map('map', {
-			center: [50.5, -90.0],
+			center: [-72.440609, 40.896436],
 			minZoom: 2,
-			zoom: 2,
+			zoom: 4,
 			condensedAttributionControl: false,
-			layers: [googleSat,maptweets]
+			layers: [googleSat,maptweets,central]
 		});
 		
 		if (!map.restoreView()) {
 	          map.setView([50.5, -90.0], 2);
-	    };
+	    	};
+	    
+	    	L.geoJSON(circle, {
+		    pointToLayer: function (feature, latlng) {
+		        return L.circleMarker(latlng, geojsonMarkerOptions);
+		    }
+		}).addTo(map);
 		
 		//Create map boundary coordinates
-		var southWest = L.latLng(-89.98155760646617, -180),
-		northEast = L.latLng(89.99346179538875, 180);
+		var southWest = L.latLng(-89.98155760646617, -240),
+		northEast = L.latLng(89.99346179538875, 240);
 		var bounds = L.latLngBounds(southWest, northEast);
 		
 		//Set map boundaries and limit dragging/panning to those boundaries
@@ -89,10 +142,10 @@ window.onload = function() {
 		});
 
 		// set custom emblem and prefix
-	    L.control.condensedAttribution({
-	      emblem: '&nbsp&nbsp&nbsp&nbsp&nbsp<div class="emblem-wrap"><img src="https://dl.dropbox.com/s/wfb75jezonbwgi2/info.png?dl=0"/></div>',
-	      prefix: '<a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>'
-	    }).addTo(map);
+	    	L.control.condensedAttribution({
+	      		emblem: '&nbsp&nbsp&nbsp&nbsp&nbsp<div class="emblem-wrap"><img src="https://dl.dropbox.com/s/wfb75jezonbwgi2/info.png?dl=0"/></div>',
+	      		prefix: '<a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>'
+	    	}).addTo(map);
 	    
 		//Establish layer groups that will be shown in the layer control
 		var baseMaps = [
