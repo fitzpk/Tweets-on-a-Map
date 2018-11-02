@@ -77,6 +77,7 @@ window.onload = function() {
 	    	var place = {
 		    "type": "Feature",
 		    "properties": {
+			"event": "Shriners Hospitals for Children Open",
 		        "name": "TPC Summerlin",
 		        "location": "Las Vegas, Nevada",
 		    },
@@ -88,7 +89,7 @@ window.onload = function() {
 		
 	   	 var central = L.geoJSON(place, {
 			pointToLayer: function (feature, latlng) {
-			    return L.marker(latlng, {icon: centralIcon}).bindPopup('<div><div id="tweethead2">'+feature.properties.name+
+			    return L.marker(latlng, {icon: centralIcon}).bindPopup('<div><div id="tweethead2">Course: '+feature.properties.name+
 		        '</div><br><div id="locatebox"><img class="seticons" src="css/images/location.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'+feature.properties.location+'</div></div>',{maxWidth : 360, minWidth: 300}
 		    )}
 		});
