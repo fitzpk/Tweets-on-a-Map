@@ -51,13 +51,14 @@ window.onload = function() {
 			popupAnchor: [0, -28]
 		});
 	    	
+	    /*
 	    	//Create variable to store the icon for the place of interest 
 		var centralIcon = L.icon({
 			iconUrl: 'https://dl.dropbox.com/s/ou60hjwxna8je8i/rmarker.png?dl=0',
 			iconSize: [40, 60],
 			iconAnchor: [20, 65],
 			popupAnchor: [0, -28]
-		});
+		});*/
 		
         	//Create Tweets layer, style it with a function, and create a custom pop-up
         	var maptweets = L.geoJSON(geotweets.responseJSON, {
@@ -73,6 +74,7 @@ window.onload = function() {
 		    }
 		});
 	    
+	    /*
 	    	//Create feature for area/place of interest
 	    	var place = {
 		    "type": "Feature",
@@ -92,7 +94,7 @@ window.onload = function() {
 			    return L.marker(latlng, {icon: centralIcon}).bindPopup('<div><div id="tweethead2">Event: <span style="font-weight:normal;">'+feature.properties.event+'</span><br>Course: <span style="font-weight:normal;">'+feature.properties.name+
 		        '</span></div><br><div id="locatebox"><img class="seticons" src="css/images/location.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'+feature.properties.location+'</div></div>',{maxWidth : 360, minWidth: 300}
 		    )}
-		});
+		});*/
 
 		var geojsonMarkerOptions = {
 		    radius: 30,
@@ -103,6 +105,7 @@ window.onload = function() {
 		    fillOpacity: 0.6
 		};
 		
+	    /*
 		var circle = {
 		    "type": "Feature",
 		    "properties": {
@@ -111,7 +114,7 @@ window.onload = function() {
 		        "type": "Point",
 		        "coordinates": [-117.245040, 32.903660]
 		    }
-		};
+		};*/
 
 		var map = L.map('map', {
 			center: [-117.245040, 32.903660],
@@ -195,7 +198,7 @@ window.onload = function() {
 </script>
 <footer>
 	<div class="marquee">
-		<marquee>PGA TOUR TWITTER TRACKER: #FIO19</marquee>
+		<marquee>#COVID19</marquee>
 	</div>
 </footer>
 </body>
