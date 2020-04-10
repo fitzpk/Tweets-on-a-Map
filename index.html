@@ -94,7 +94,7 @@ window.onload = function() {
 			    return L.marker(latlng, {icon: centralIcon}).bindPopup('<div><div id="tweethead2">Event: <span style="font-weight:normal;">'+feature.properties.event+'</span><br>Course: <span style="font-weight:normal;">'+feature.properties.name+
 		        '</span></div><br><div id="locatebox"><img class="seticons" src="css/images/location.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'+feature.properties.location+'</div></div>',{maxWidth : 360, minWidth: 300}
 		    )}
-		});*/
+		});
 
 		var geojsonMarkerOptions = {
 		    radius: 30,
@@ -105,7 +105,7 @@ window.onload = function() {
 		    fillOpacity: 0.6
 		};
 		
-	    /*
+	    
 		var circle = {
 		    "type": "Feature",
 		    "properties": {
@@ -127,12 +127,12 @@ window.onload = function() {
 		if (!map.restoreView()) {
 	          map.setView([50.5, -90.0], 2);
 	    	};
-	    
+	    /*
 	    	L.geoJSON(circle, {
 		    pointToLayer: function (feature, latlng) {
 		        return L.circleMarker(latlng, geojsonMarkerOptions);
 		    }
-		}).addTo(map);
+		}).addTo(map);*/
 		
 		//Create map boundary coordinates
 		var southWest = L.latLng(-89.98155760646617, -240),
