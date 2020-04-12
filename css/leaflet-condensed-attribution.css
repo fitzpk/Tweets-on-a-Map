@@ -2,8 +2,8 @@
     margin: 10px;
     padding: 0;
     border-radius: 20px;
-	background-color: rgba(255, 255, 255, 1);
-	box-shadow: 0 1px 7px rgba(0,0,0,0.65);
+	  background-color: rgba(255, 255, 255, 1);
+	  box-shadow: 0 1px 7px rgba(0,0,0,0.65);
     border: 2px solid #1978cf;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -13,13 +13,18 @@
 
 .leaflet-condensed-attribution .attributes-body {
   display: none;
-  padding: 0 4px 0 12px;
+  padding: 0 12px 0 12px;
   height: 28px;
   line-height: 28px;
 }
 
 .leaflet-condensed-attribution:hover .attributes-body {
   display: inline-block !important;
+  height: 160px;
+  width: 400px;
+  line-height: 14px;
+  border-radius: 0px;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 .leaflet-condensed-attribution .attributes-emblem {
@@ -35,4 +40,8 @@
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+}
+
+.leaflet-condensed-attribution:hover .attributes-emblem {
+  display: none;
 }
