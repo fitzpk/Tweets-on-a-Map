@@ -1,7 +1,7 @@
 # Tweets-on-a-Map
 Real-time tweets displayed on a leaflet driven digital map. 
 
-Currently tracking: COVID-19 Tweets.
+Currently tracking: #MINIEGGS Tweets.
 
 <a href="https://fitzpk.github.io/Tweets-on-a-Map/">Click Here to Open the App</a>
 
