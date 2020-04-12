@@ -1,206 +1,259 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
-<head> 
-<title>Live Twitter Map</title> 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="refresh" content="600" />
-<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no">
-<meta name="description" content="Live Twitter Map">
-<meta name="keywords" content="Twitter, GIS, Analysis, Map, Web Mapping, Leaflet, Javascript, GeoJSON, Tweets, Data Mining, jQuery">
-<meta name="author" content="Kevin Fitzgerald">
-<link rel="stylesheet" href="css/leaflet.css" />
-<link rel="stylesheet" href="css/styledLayerControl.css"/>
-<link rel="stylesheet" href="css/leaflet-condensed-attribution.css"/>
-<link rel="stylesheet" href="css/main.css"/>
-<link rel="icon" href="https://dl.dropbox.com/s/3apbg865khi4f8o/twitterfav.ico?dl=0" type="image/x-icon">
-<script src="js/jQuery.js"></script>
-<script src="js/leaflet.js"></script>
-<script src="js/styledLayerControl.js"></script>
-<script src="js/leaflet-condensed-attribution.js"></script>
-<script src="js/leaflet.restoreview.js"></script>
+<html>
+<head>
+    <title>Live Twitter Map</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="refresh" content="600" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="Live Twitter Map">
+    <meta name="keywords" content="Twitter, GIS, Analysis, Map, Web Mapping, Leaflet, Javascript, GeoJSON, Tweets, Data Mining, jQuery">
+    <meta name="author" content="Kevin Fitzgerald">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+    <link rel="stylesheet" href="css/styledLayerControl.css"/>
+    <link rel="stylesheet" href="css/leaflet-condensed-attribution.css"/>
+    <link rel="stylesheet" href="css/main.css"/>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap" rel="stylesheet">
+    <link rel="icon" href="https://dl.dropbox.com/s/3apbg865khi4f8o/twitterfav.ico?dl=0" type="image/x-icon">
+    <style>
+        #map {
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+        }
+    </style>
 </head>
 <body>
-<div id="map"> </div>
-<script>
-window.onload = function() {
-	var geotweets = $.ajax({
-        url: "https://raw.githubusercontent.com/fitzpk/Repo/master/geo_data.geojson",
-        dataType: "json",
-        success: console.log("Twitter data successfully loaded."),
-        error: function() {
-            alert("Error loading data")
-        }
-    })
-    $.when(geotweets).done(function() {
-    		var mbAttr = 'KPF &copy 2018 ';
-    	
-		//Create base maps layers
-		var tiles = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-		    attribution: mbAttr
-		});
-		var googleSat = L.tileLayer('http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',{
-		    maxZoom: 19,
-		    attribution: mbAttr,
-		    subdomains:['mt0','mt1','mt2','mt3']
-		});
-		
-		//Create variable to store custom map icon
-		var tweetIcon = L.icon({
-			iconUrl: 'https://dl.dropbox.com/s/u8pevmn79oxqs7n/twitter-map-icon2.png?dl=0',
-			iconSize: [34, 38],
-			iconAnchor: [17, 35],
-			popupAnchor: [0, -28]
-		});
-	    	
-	    /*
-	    	//Create variable to store the icon for the place of interest 
-		var centralIcon = L.icon({
-			iconUrl: 'https://dl.dropbox.com/s/ou60hjwxna8je8i/rmarker.png?dl=0',
-			iconSize: [40, 60],
-			iconAnchor: [20, 65],
-			popupAnchor: [0, -28]
-		});*/
-		
-        	//Create Tweets layer, style it with a function, and create a custom pop-up
-        	var maptweets = L.geoJSON(geotweets.responseJSON, {
-			pointToLayer: function (feature, latlng) {
-			    return L.marker(latlng, {icon: tweetIcon});
-			 },
-		    onEachFeature: function(feature, layer){
-		        layer.bindPopup('<div id="popup"><div id="tweethead"><div id="left"><img id="link" class="popupicon" src="'+feature.properties.ProfilePic+'"/></div>'
-		        +'<div id="right"><a href="https://twitter.com/'+feature.properties.Handle+'"><span class="twhandle">@'+feature.properties.Handle+'</span></a></div></div><br>'
-		        +'<div><a href="https://twitter.com/'+feature.properties.Handle+'/statuses/'+feature.properties.TweetLink+'">'+feature.properties.Tweet
-		        +'</a><div id="bottom"><br><img class="seticons" src="css/images/location.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'+feature.properties.Place+' <img class="seticons" src="css/images/clock.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'
-		        +feature.properties.Time.substring(4,16)+' UTC</div></div></div>',{maxWidth : 360, minWidth: 300});
-		    }
-		});
-	    
-	    /*
-	    	//Create feature for area/place of interest
-	    	var place = {
-		    "type": "Feature",
-		    "properties": {
-			"event": "Farmers Insurance Open",
-		        "name": "Torrey Pines GC (South)",
-		        "location": "San Diego,  California",
-		    },
-		    "geometry": {
-		        "type": "Point",
-		        "coordinates": [-117.245040, 32.903660]
-		    }
-		};
-		
-	   	 var central = L.geoJSON(place, {
-			pointToLayer: function (feature, latlng) {
-			    return L.marker(latlng, {icon: centralIcon}).bindPopup('<div><div id="tweethead2">Event: <span style="font-weight:normal;">'+feature.properties.event+'</span><br>Course: <span style="font-weight:normal;">'+feature.properties.name+
-		        '</span></div><br><div id="locatebox"><img class="seticons" src="css/images/location.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'+feature.properties.location+'</div></div>',{maxWidth : 360, minWidth: 300}
-		    )}
-		});
+    <div id="map"></div>
 
-		var geojsonMarkerOptions = {
-		    radius: 30,
-		    fillColor: "white",
-		    color: "#f3333b",
-		    weight: 2,
-		    opacity: 1,
-		    fillOpacity: 0.6
-		};
-		
-	    
-		var circle = {
-		    "type": "Feature",
-		    "properties": {
-		    },
-		    "geometry": {
-		        "type": "Point",
-		        "coordinates": [-117.245040, 32.903660]
-		    }
-		};*/
+    <!--<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js"></script>-->
+    <script src="js/jQuery.js"></script>
+    <script src="js/leaflet.js"></script>
+    <script src="js/leaflet-realtime.js"></script>
+    <script src="js/styledLayerControl.js"></script>
+    <script src="js/leaflet-condensed-attribution.js"></script>
+    <script src="js/leaflet.restoreview.js"></script>
+    <!--<script src="js/realtime-index.js"></script>-->
+    <script>
+      var mbAttr = 'KPF &copy 2018 ';
 
-		var map = L.map('map', {
-			center: [-117.245040, 32.903660],
-			minZoom: 2,
-			zoom: 2,
-			condensedAttributionControl: false,
-			layers: [tiles,maptweets]
-			//layers: [googleSat,maptweets,central]
-		});
-		
-		if (!map.restoreView()) {
-	          map.setView([50.5, -90.0], 2);
-	    	};
-	    /*
-	    	L.geoJSON(circle, {
-		    pointToLayer: function (feature, latlng) {
-		        return L.circleMarker(latlng, geojsonMarkerOptions);
-		    }
-		}).addTo(map);*/
-		
-		//Create map boundary coordinates
-		var southWest = L.latLng(-89.98155760646617, -240),
-		northEast = L.latLng(89.99346179538875, 240);
-		var bounds = L.latLngBounds(southWest, northEast);
-		
-		//Set map boundaries and limit dragging/panning to those boundaries
-		map.setMaxBounds(bounds);
-		map.on('drag', function() {
-		    map.panInsideBounds(bounds, { animate: false });
-		});
+      //Create base maps layers
+      var tiles = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+          attribution: mbAttr
+      });
 
-		// set custom emblem and prefix
-	    	L.control.condensedAttribution({
-	      		emblem: '&nbsp&nbsp&nbsp&nbsp&nbsp<div class="emblem-wrap"><img src="https://dl.dropbox.com/s/wfb75jezonbwgi2/info.png?dl=0"/></div>',
-	      		prefix: '<a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>'
-	    	}).addTo(map);
-	    
-		//Establish layer groups that will be shown in the layer control
-		var baseMaps = [
-				       	 { 
-							groupName: "<b>Base Maps</b>",
-							expanded: false,
-							layers: {
-							"Street Map":  tiles,
-							"Google Satellite": googleSat
-							}
-					    }							
-		];
-							
-		var overlays = [
-					    {
-							groupName : "Tweet Layers",
-							expanded : false,
-							layers    : { 
-							"Tweets": maptweets,
-				     	    }	
-		                 }							 
-		];
-		//Options/setting needed for the styled layer control widget	
-		var options = {
-			autoResize: true,
-			group_maxHeight: "200px",
-			//container_maxHeight : "350px", 
-			exclusive: false,
-			collapsed: true, 
-			position: 'topright'
-		};		
-		//Create styled layer control widget
-		var control = L.Control.styledLayerControl(baseMaps, overlays, options);
-		map.addControl(control);	
-		//Allows for the user to scroll through the layer control on mobile devices
-		if (!L.Browser.touch) {
-			 L.DomEvent
-			 .disableClickPropagation(control._container)
-			 .disableScrollPropagation(control._container);
-			} 
-		else {
-			L.DomEvent.disableClickPropagation(control._container);
-		}	
-    });      		
-};
-</script>
-<footer>
-	<div class="marquee">
-		<marquee>#COVID19</marquee>
-	</div>
-</footer>
+      var esri_graycanvas = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+      	attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ',
+      	maxZoom: 16
+      });
+
+      var googleSat = L.tileLayer('http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',{
+          maxZoom: 19,
+          attribution: mbAttr,
+          subdomains:['mt0','mt1','mt2','mt3']
+      });
+
+      //Create variable to store custom map icon
+      var tweetIcon = L.icon({
+      	iconUrl: 'https://dl.dropbox.com/s/u8pevmn79oxqs7n/twitter-map-icon2.png?dl=0',
+      	iconSize: [34, 38],
+      	iconAnchor: [17, 35],
+      	popupAnchor: [0, -28]
+      });
+
+      /*
+      //Create variable to store the icon for the place of interest
+      var centralIcon = L.icon({
+      	iconUrl: 'https://dl.dropbox.com/s/ou60hjwxna8je8i/rmarker.png?dl=0',
+      	iconSize: [40, 60],
+      	iconAnchor: [20, 65],
+      	popupAnchor: [0, -28]
+      });
+      */
+
+      //var map = L.map('map').setView([0,0], 2);
+
+
+      function popUp(f,l){
+        l.bindPopup('<div id="popup"><div id="tweethead"><div id="left"><img id="link" class="popupicon" src="'+f.properties.ProfilePic+'"/></div>'
+        +'<div id="right"><a href="https://twitter.com/'+f.properties.Handle+'"><span class="twhandle">@'+f.properties.Handle+'</span></a></div></div><br>'
+        +'<div><a href="https://twitter.com/'+f.properties.Handle+'/statuses/'+f.properties.TweetLink+'">'+f.properties.Tweet
+        +'</a><div id="bottom"><br><img class="seticons" src="css/images/location.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'+f.properties.Place+' <img class="seticons" src="css/images/clock.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'
+        +f.properties.Time.substring(4,16)+' UTC</div></div></div>',{maxWidth : 360, minWidth: 300});
+        /*
+          var out = [];
+          if (f.properties){
+              for(key in f.properties){
+                  out.push(key+": "+f.properties[key]);
+              }
+              l.bindPopup(out.join("<br />"));
+          }
+          */
+      }
+
+      function createPoints(feature, latlng) {
+  	    	return L.marker(latlng, {icon: tweetIcon});
+  	 	}
+
+      var map = L.map('map', {
+      	center: [-117.245040, 32.903660],
+      	minZoom: 2,
+      	zoom: 2,
+      	condensedAttributionControl: false,
+      	layers: [tiles]
+      	//layers: [googleSat,maptweets,central]
+      });
+
+      if (!map.restoreView()) {
+      	map.setView([-117.245040, 32.903660], 2);
+      };
+
+      var realtime = L.realtime(
+          {url: 'https://raw.githubusercontent.com/fitzpk/Repo/master/geo_data.geojson',
+          crossOrigin: true,
+          type: 'json'
+          },
+          {
+          interval: 5 * 1000,
+          getFeatureId: function(feature) { return feature.properties.TweetLink; },
+          onEachFeature: popUp,
+          pointToLayer: createPoints
+          }
+      ).addTo(map);
+
+      realtime.on('update', function() {
+          //window.alert('Data was updated');
+          //map.fitBounds(realtime.getBounds(), {maxZoom: 3});
+      });
+
+      //Create map boundary coordinates
+      var southWest = L.latLng(-89.98155760646617, -240),
+      northEast = L.latLng(89.99346179538875, 240);
+      var bounds = L.latLngBounds(southWest, northEast);
+
+      //Set map boundaries and limit dragging/panning to those boundaries
+      map.setMaxBounds(bounds);
+      map.on('drag', function() {
+          map.panInsideBounds(bounds, { animate: false });
+      });
+
+      // set custom emblem and prefix
+      L.control.condensedAttribution({
+      		emblem: '&nbsp&nbsp&nbsp&nbsp&nbsp<div class="emblem-wrap"><img src="https://dl.dropbox.com/s/wfb75jezonbwgi2/info.png?dl=0"/></div>',
+      		prefix: '<br><span style="font-size:12px;font-weight:bold;">Tweets are live-streamed using the Tweepy library within Python, and then '+
+          'transformed into GeoJSON data. In five minute intervals, data is then pushed in batches to GitHub where it is made available to this Leaflet.js driven application.'+
+          '<br><br>Live updating has two caveats: <br>1) Computer used to stream tweets and push data must be awake. <br>2) GitHub data updates may be delayed until GitHub commits take effect.</span>'+
+
+          '<br><hr><a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>'
+      }).addTo(map);
+
+      //Establish layer groups that will be shown in the layer control
+      var baseMaps = [
+      		 {
+      					groupName: "<b>Base Maps</b>",
+      					expanded: false,
+      					layers: {
+      					       "Option 1":  tiles,
+      					       "Option 2": esri_graycanvas
+      					}
+      		 }
+      ];
+
+      var overlays = [
+      		 {
+      					groupName: "Tweet Layers",
+      					expanded: false,
+      					layers: {
+      					       "Tweets": realtime,
+      		     	}
+            }
+      ];
+
+      //Options/setting needed for the styled layer control widget
+      var options = {
+      	autoResize: true,
+      	group_maxHeight: "200px",
+      	//container_maxHeight : "350px",
+      	exclusive: false,
+      	collapsed: true,
+      	position: 'topright'
+      };
+
+      //Create styled layer control widget
+      var control = L.Control.styledLayerControl(baseMaps, overlays, options);
+      map.addControl(control);
+
+      /*
+      //Create feature for area/place of interest
+      var place = {
+          "type": "Feature",
+          "properties": {
+      		"event": "Farmers Insurance Open",
+              "name": "Torrey Pines GC (South)",
+              "location": "San Diego,  California",
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [-117.245040, 32.903660]
+          }
+      };
+
+      var central = L.geoJSON(place, {
+      	pointToLayer: function (feature, latlng) {
+      	    return L.marker(latlng, {icon: centralIcon}).bindPopup('<div><div id="tweethead2">Event: <span style="font-weight:normal;">'+feature.properties.event+'</span><br>Course: <span style="font-weight:normal;">'+feature.properties.name+
+              '</span></div><br><div id="locatebox"><img class="seticons" src="css/images/location.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'+feature.properties.location+'</div></div>',{maxWidth : 360, minWidth: 300}
+          )}
+      });
+
+      var geojsonMarkerOptions = {
+          radius: 30,
+          fillColor: "white",
+          color: "#f3333b",
+          weight: 2,
+          opacity: 1,
+          fillOpacity: 0.6
+      };
+
+
+      var circle = {
+          "type": "Feature",
+          "properties": {
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [-117.245040, 32.903660]
+          }
+      };
+
+      L.geoJSON(circle, {
+          pointToLayer: function (feature, latlng) {
+              return L.circleMarker(latlng, geojsonMarkerOptions);
+          }
+      }).addTo(map);
+      */
+
+      //Allows for the user to scroll through the layer control on mobile devices
+      if (!L.Browser.touch) {
+      	 L.DomEvent
+      	 .disableClickPropagation(control._container)
+      	 .disableScrollPropagation(control._container);
+      	}
+      else {
+      	L.DomEvent.disableClickPropagation(control._container);
+      }
+
+      //Test source: https://wanderdrone.appspot.com/
+
+    </script>
+    <footer>
+    	<div class="marquee">
+        <span style="font-size:14px;color: rgba(47,72,80,0.7);">Currently Tracking:</span><br>
+        #COVID19
+    		<!--<marquee>#COVID19</marquee>-->
+    	</div>
+    </footer>
+
 </body>
 </html>
