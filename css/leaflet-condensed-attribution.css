@@ -20,8 +20,8 @@
 
 .leaflet-condensed-attribution:hover .attributes-body {
   display: inline-block !important;
-  height: 160px;
-  width: 400px;
+  height: 260px;
+  width: 180px;
   line-height: 14px;
   border-radius: 0px;
   font-family: 'Titillium Web', sans-serif;
