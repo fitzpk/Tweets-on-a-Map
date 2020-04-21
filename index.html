@@ -145,7 +145,7 @@
       };
 
       var realtime = L.realtime(
-          {url: 'https://raw.githubusercontent.com/fitzpk/Repo/master/geo_data.geojson',
+          {url: 'https://raw.githubusercontent.com/fitzpk/Tweets-on-a-map-push/master/geo_data.geojson',
           crossOrigin: true,
           type: 'json'
           },
@@ -318,7 +318,7 @@
     //}];
 
     // Load data from github and reload it every 5 seconds
-    chart.dataSource.url = "https://raw.githubusercontent.com/fitzpk/Repo-2/master/tweet_stats.json";
+    chart.dataSource.url = "https://raw.githubusercontent.com/fitzpk/Tweets-on-a-map-push/master/tweet_stats.json";
     chart.dataSource.reloadFrequency = 5000;
     chart.invalidateRawData();
 
