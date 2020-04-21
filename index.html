@@ -23,19 +23,33 @@
             bottom: 0;
             right: 0;
         }
+        #chartdiv {
+          height: 160px;
+          width: 160px;
+          font-family: 'Oswald', sans-serif;
+          color: rgba(47,72,80,1);
+          position: fixed;
+          bottom: 0;
+          left: 5;
+          z-index: 999;
+          /*border: 2px solid black;*/
+        }
     </style>
 </head>
 <body>
     <div id="map"></div>
 
     <!--<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js"></script>-->
-    <script src="js/jQuery.js"></script>
     <script src="js/leaflet.js"></script>
     <script src="js/leaflet-realtime.js"></script>
     <script src="js/styledLayerControl.js"></script>
     <script src="js/leaflet-condensed-attribution.js"></script>
     <script src="js/leaflet.restoreview.js"></script>
-    <!--<script src="js/realtime-index.js"></script>-->
+
+    <script src="https://www.amcharts.com/lib/4/core.js"></script>
+    <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+    <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
+
     <script>
       var mbAttr = 'KPF &copy 2018 ';
 
@@ -55,13 +69,34 @@
           subdomains:['mt0','mt1','mt2','mt3']
       });
 
-      //Create variable to store custom map icon
+      //Standard twitter map marker
       var tweetIcon = L.icon({
       	iconUrl: 'https://dl.dropbox.com/s/u8pevmn79oxqs7n/twitter-map-icon2.png?dl=0',
-      	iconSize: [34, 38],
+      	iconSize: [30, 34],
       	iconAnchor: [17, 35],
       	popupAnchor: [0, -28]
       });
+
+      //Positive map marker
+      var posIcon = L.icon({
+        iconUrl: 'https://dl.dropbox.com/s/1do5sm7lnc95xma/positive_pin.svg?dl=0',
+        iconSize: [30, 34],
+        iconAnchor: [17, 35],
+        popupAnchor: [0, -28]
+      });
+
+      //Negative map marker
+      var negIcon = L.icon({
+        iconUrl: 'https://dl.dropbox.com/s/57lva0c4z4x8uh4/negative_pin.svg?dl=0',
+        iconSize: [30, 34],
+        iconAnchor: [17, 35],
+        popupAnchor: [0, -28]
+      });
+
+      //https://dl.dropbox.com/s/u967bx0ugc4q0on/negative_pin.png?dl=0
+      //https://dl.dropbox.com/s/57lva0c4z4x8uh4/negative_pin.svg?dl=0
+      //https://dl.dropbox.com/s/3p4py8dnhekomfy/positive_pin.png?dl=0
+      //https://dl.dropbox.com/s/1do5sm7lnc95xma/positive_pin.svg?dl=0
 
       /*
       //Create variable to store the icon for the place of interest
@@ -77,24 +112,23 @@
 
 
       function popUp(f,l){
-        l.bindPopup('<div id="popup"><div id="tweethead"><div id="left"><img id="link" class="popupicon" src="'+f.properties.ProfilePic+'"/></div>'
+        l.bindPopup('<div id="popup"><div id="tweethead"><div id="left"><a href="https://twitter.com/'+f.properties.Handle+'"><img id="link" class="popupicon" src="'+f.properties.ProfilePic+'"/></a></div>'
         +'<div id="right"><a href="https://twitter.com/'+f.properties.Handle+'"><span class="twhandle">@'+f.properties.Handle+'</span></a></div></div><br>'
         +'<div><a href="https://twitter.com/'+f.properties.Handle+'/statuses/'+f.properties.TweetLink+'">'+f.properties.Tweet
-        +'</a><div id="bottom"><br><img class="seticons" src="css/images/location.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'+f.properties.Place+' <img class="seticons" src="css/images/clock.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'
-        +f.properties.Time.substring(4,16)+' UTC</div></div></div>',{maxWidth : 360, minWidth: 300});
-        /*
-          var out = [];
-          if (f.properties){
-              for(key in f.properties){
-                  out.push(key+": "+f.properties[key]);
-              }
-              l.bindPopup(out.join("<br />"));
-          }
-          */
+        +'</a><div id="bottom"><br><img class="seticons" src="css/images/location.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'+f.properties.Place+'&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img class="seticons" src="css/images/clock.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp'
+        +f.properties.Time.substring(4,16)+' UTC</div></div></div>',{minWidth: 280});
       }
 
       function createPoints(feature, latlng) {
-  	    	return L.marker(latlng, {icon: tweetIcon});
+          if (feature.properties.Sentiment == "Positive") {
+            return L.marker(latlng, {icon: posIcon});
+          }
+          if (feature.properties.Sentiment == "Negative") {
+            return L.marker(latlng, {icon: negIcon});
+          }
+          // To show just the standard twitter marker uncomment
+          // the line below and comment out the lines above
+  	    	//return L.marker(latlng, {icon: tweetIcon});
   	 	}
 
       var map = L.map('map', {
@@ -244,10 +278,100 @@
       	L.DomEvent.disableClickPropagation(control._container);
       }
 
-      //Test source: https://wanderdrone.appspot.com/
+      //Test source for live data: https://wanderdrone.appspot.com/
 
     </script>
+
+    <!-- Chart code -->
+    <script>
+    am4core.ready(function() {
+
+    // Themes begin
+    am4core.useTheme(am4themes_animated);
+    // Themes end
+
+    // Create chart instance
+    var chart = am4core.create("chartdiv", am4charts.PieChart);
+
+    // Full donut angles
+    chart.startAngle = 0;
+    chart.endAngle = 360;
+
+    // Vertical gauge angles
+    //chart.startAngle = -90;
+    //chart.endAngle = 90;
+
+    // Normal gauge angles
+    //chart.startAngle = 180;
+    //chart.endAngle = 360;
+
+    // Let's cut a hole in our Pie chart the size of 40% the radius
+    chart.innerRadius = am4core.percent(40);
+
+    // Add data
+    //chart.data = [{
+    //  "sentiment": "Positive",
+    //  "tweets": 606,
+    //}, {
+    //  "sentiment": "Negative",
+    //  "tweets": 303,
+    //}];
+
+    // Load data from github and reload it every 5 seconds
+    chart.dataSource.url = "https://raw.githubusercontent.com/fitzpk/Repo-2/master/tweet_stats.json";
+    chart.dataSource.reloadFrequency = 5000;
+    chart.invalidateRawData();
+
+
+    // Add and configure Series
+    var pieSeries = chart.series.push(new am4charts.PieSeries());
+    pieSeries.dataFields.value = "tweets";
+    pieSeries.dataFields.category = "sentiment";
+    pieSeries.slices.template.stroke = new am4core.InterfaceColorSet().getFor("background");
+    pieSeries.slices.template.strokeWidth = 1;
+    pieSeries.slices.template.strokeOpacity = 1;
+
+    // Disabling labels and ticks on inner circle
+    pieSeries.alignLabels = false;
+    pieSeries.labels.template.bent = true;
+    pieSeries.labels.template.radius = 5;
+    pieSeries.labels.template.padding(0, 0, 0, 0);
+    pieSeries.labels.template.fill = am4core.color("#fff");
+    pieSeries.labels.template.text = "{symbol}";
+    //pieSeries.labels.template.text = "{value.percent.formatNumber('#.')}%"+" {category}";
+    pieSeries.ticks.template.disabled = true;
+
+    // Disable sliding out of slices
+    pieSeries.slices.template.states.getKey("hover").properties.shiftRadius = 0;
+    pieSeries.slices.template.states.getKey("hover").properties.scale = 1;
+    pieSeries.slices.template.cornerRadius = 2;
+    pieSeries.slices.template.innerCornerRadius = 2;
+    pieSeries.slices.template.tooltipText = "{value.percent.formatNumber('#.')}%"+" {category} Opinions";
+    pieSeries.radius = am4core.percent(20);
+    pieSeries.innerRadius = am4core.percent(100);
+
+    pieSeries.slices.template.adapter.add("fill", function(fill, target) {
+      if (target.dataItem && (target.dataItem.category == "Positive")) {
+        return am4core.color("#005572");
+      }
+      else {
+        return am4core.color("#a25252");
+      }
+    });
+
+    var label = pieSeries.createChild(am4core.Label);
+    label.text = "[bold font-size:24px]"+"{values.value.sum}"+"[/]\n[font-size:14px]Tweets[/]";
+    label.horizontalCenter = "middle";
+    label.verticalCenter = "middle";
+    //label.paddingTop = "60px;"
+    //label.dy = -50;
+
+    }); // end am4core.ready()
+    </script>
+
+
     <footer>
+      <div id="chartdiv"></div>
     	<div class="marquee">
         <span style="font-size:14px;color: rgba(47,72,80,0.7);">Currently Tracking:</span><br>
         #PGATOUR
