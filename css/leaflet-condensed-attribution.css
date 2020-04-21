@@ -12,14 +12,14 @@
 
 .leaflet-condensed-attribution .attributes-body {
   display: none;
-  padding: 0 12px 0 12px;
+  padding: 4px 16px 6px 16px;
   height: 28px;
   line-height: 28px;
 }
 
 .leaflet-condensed-attribution:hover .attributes-body {
   display: inline-block !important;
-  height: 260px;
+  height: auto;
   width: 180px;
   line-height: 14px;
   border-radius: 0px;
