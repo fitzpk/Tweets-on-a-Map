@@ -93,6 +93,11 @@
         popupAnchor: [0, -28]
       });
 
+      //https://dl.dropbox.com/s/u967bx0ugc4q0on/negative_pin.png?dl=0
+      //https://dl.dropbox.com/s/57lva0c4z4x8uh4/negative_pin.svg?dl=0
+      //https://dl.dropbox.com/s/3p4py8dnhekomfy/positive_pin.png?dl=0
+      //https://dl.dropbox.com/s/1do5sm7lnc95xma/positive_pin.svg?dl=0
+
       /*
       //Create variable to store the icon for the place of interest
       var centralIcon = L.icon({
@@ -301,15 +306,17 @@
     //chart.endAngle = 360;
 
     // Let's cut a hole in our Pie chart the size of 40% the radius
-    chart.innerRadius = am4core.percent(40);
+    chart.innerRadius = am4core.percent(48);
 
-    // Add data
+    // Test data
     //chart.data = [{
     //  "sentiment": "Positive",
-    //  "tweets": 606,
+    //  "tweets": 1,
+    //  "symbol": "+"
     //}, {
     //  "sentiment": "Negative",
-    //  "tweets": 303,
+    //  "tweets": 3,
+    //  "symbol": "-"
     //}];
 
     // Load data from github and reload it every 5 seconds
@@ -354,12 +361,47 @@
       }
     });
 
+    // Pie chart center label
     var label = pieSeries.createChild(am4core.Label);
-    label.text = "[bold font-size:24px]"+"{values.value.sum}"+"[/]\n[font-size:14px]Tweets[/]";
+    label.text = "[bold font-size:22px]{values.value.sum}";
+
+    // **********************************************
+    // This section is used to properly center the label
+    // inside the pie chart, depending on the integer length of
+    // the number of tweets
+    var sumVals = 0;
+    for (var i in chart.data){
+      //window.alert(parseInt(chart.data[i].tweets));
+      var val = parseInt(chart.data[i].tweets);
+      sumVals += val;
+    }
+
+    if (sumVals.toString().length == 1){
+      label.dx = 1;
+    }
+    else if (sumVals.toString().length == 2 || sumVals.toString().length == 3) {
+      label.dx = 2;
+    }
+    else if (sumVals.toString().length == 4) {
+      label.dx = 5;
+    }
+    else if (sumVals.toString().length == 5) {
+      label.dx = 5;
+    }
+    else if (sumVals.toString().length == 6) {
+      label.dx = 6;
+    }
+    // **********************************************
+
     label.horizontalCenter = "middle";
     label.verticalCenter = "middle";
-    //label.paddingTop = "60px;"
-    //label.dy = -50;
+
+    var label2 = pieSeries.createChild(am4core.Label);
+    label2.text = "[font-size:10px]Tweets";
+    label2.horizontalCenter = "middle";
+    label2.verticalCenter = "middle";
+    label2.dx = 3;
+    label2.dy = 20;
 
     }); // end am4core.ready()
     </script>
@@ -371,7 +413,7 @@
         #PGATOUR
     		<!--<marquee>#COVID19</marquee>-->
     	</div>
-        <div id="chartdiv"></div>
+      <div id="chartdiv"></div>
     </footer>
 
 </body>
